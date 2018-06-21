@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Anton:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 
 
 
@@ -35,7 +36,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -1402,22 +1403,22 @@ body {
 }
 .cid-qVoAVyQI5M .mbr-text,
 .cid-qVoAVyQI5M .mbr-section-btn {
-  color: #f6e90b;
+  color: #0b29d6;
   text-align: right;
 }
 .cid-qVoAVyQI5M H1 {
-  color: #ffffff;
+  color: #232323;
   text-align: right;
 }
 .cid-qVoAVyQI5M I {
   color: #ffffff;
 }
 .cid-qVoAVyQI5M SPAN {
-  color: #1e36c4;
+  color: #232323;
 }
 .cid-qVoAVyQI5M .mbr-text,
 .cid-qVoAVyQI5M .mbr-section-btn I {
-  color: #55b4d4;
+  color: #ffffff;
 }
 .cid-qVoAVyQI5M .mbr-text,
 .cid-qVoAVyQI5M .mbr-section-btn B {
