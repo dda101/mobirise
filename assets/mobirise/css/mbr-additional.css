@@ -1383,7 +1383,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-qVoxxijfGK .mbr-section-subtitle {
-  color: #767676;
+  color: #0d2bdc;
 }
 .cid-qVoxxijfGK a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1400,6 +1400,9 @@ body {
 .cid-qVoxxijfGK .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qVoxxijfGK .mbr-section-subtitle I {
+  color: #0d2bdc;
 }
 .cid-qVoAVyQI5M .mbr-text,
 .cid-qVoAVyQI5M .mbr-section-btn {
@@ -1465,7 +1468,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-qVzlBzl69l .mbr-section-subtitle {
-  color: #767676;
+  color: #0d2bdc;
 }
 .cid-qVzlBzl69l a:not([href]):not([tabindex]) {
   color: #fff;
