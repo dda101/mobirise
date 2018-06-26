@@ -1448,6 +1448,20 @@ body {
     width: 100% !important;
   }
 }
+.cid-qW3G62y1cK {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #149dcc;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-qW3G62y1cK .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qW3G62y1cK .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qVoFFC9nfH {
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
