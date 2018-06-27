@@ -53,7 +53,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-121222214-1');\r\n</script>\r\n",
     "siteUrl": "",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 47,
+    "uniqCompNum": 58,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on",
@@ -158,75 +158,13 @@
             }
           },
           "_name": "header6",
-          "_customHTML": "<section class=\"header6\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#555555\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\" selected>\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\"><p><span style=\"font-size: 1.5rem;\">DDA&nbsp;</span><i style=\"font-size: 1.5rem;\">GDPR-SAFE</i><span style=\"font-size: 1.5rem; font-weight: normal;\">(TM)&nbsp;&amp; </span><span style=\"font-size: 1.5rem;\"><i>501(c)3</i> </span><span style=\"font-size: 1.5rem;\">STRATEGIC <i>BIG DATA</i> CONSULTING, PSYCHOMETRIC <i>MARKET</i> <i>RESEARCH</i> AND PHILANTHROPIC <i>SERVICES</i></span><span style=\"font-size: 1.5rem; font-weight: normal;\">&nbsp;</span><span style=\"font-size: 1.5rem;\"><i>CLUB</i> <i>(</i><a href=\"http://www.anonymityinc.net\" target=\"_blank\"><u><i><b>ANONYMITYINC.NET</b></i></u></a><i>)</i></span><span style=\"font-size: 1.5rem; font-weight: normal;\">‎</span></p></h1>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>\n                    A</b> <b>Socially Progressive &amp; Effective 501(c)3 ‎Response to the GDPR</b>.. <b><i>aka</i></b> <i><b>“Anonymous Psychometric Research Data for SALE that Supports Each Data Donor’s Philanthropy”</b>.</i> &nbsp;Each 501(c)3's performance is monitored by our &nbsp;<a href=\"https://drive.google.com/file/d/1LfAUCBMH1LDEnuWng2mf1aO0EKmx-z6Q/view?usp=sharing\" target=\"_blank\"><u><i>Social Impact Rating Reports</i></u></a>. &nbsp;All data sold is monitored for socially <b>responsible</b> usage. &nbsp;It's based on <a href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=10\" target=\"_blank\"><b><u>10+ years</u> </b></a>of dedicated <b>R&amp;D</b> addressing <b>security &amp; privacy</b> through <i style=\"font-style: italic;\">\"<a href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=11\"><b><u>Anonymity</u></b></a> </i><b>for Market Research&nbsp;Data</b><i>\" - Using psychometric </i><b>tags</b><i>&nbsp;</i>(dozen<b>+</b> traits each) <i>+ anonymous social media &amp; geo-demographic </i><b>tags</b> (80% avg. accuracy &amp; <i>remarketing predictable by</i>&nbsp;&nbsp;<b>tags</b> &amp; IP). &nbsp;This reveals <i>highly probable</i> <b>individual</b> <b>traits</b> &amp; <i>behavior</i> <b>patterns</b> by media type &amp; personality.<br><br><b>We help</b>&nbsp;<b>fund</b> all socially responsible <b>R&amp;D</b> via support as a <b>501(c)3</b> and/or, <b>optionally </b>as a DDA <b>Host</b>, <i>sourcing anonymous data donor candidates,</i> and/or <b>Sponsor</b>, <i>buying anonymous psychometric data,</i> from our <b>Market Research &amp; Social-Philanthropic Services</b>&nbsp;<b><b><i><i><b><b><a href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=4\"><b><i>CLUB</i></b></a>,</b>&nbsp; <a href=\"http://anonymityinc.net\" target=\"_blank\" style=\"text-decoration: underline;\"><b>ANONYMITYINC.NET</b></a></b>.</i> &nbsp;&nbsp;</i></b>50% of anonymous data sales profits</b> go to each data donor's <b>favorite social cause.</b> &nbsp;All data (identity extracted) is graded as public interest (archetype) or scientific <b>research data (Article 89/GDPR). &nbsp;&nbsp;</b>Organizations&nbsp;<b>By-Invitation-Only </b>=&gt; If you were not invited, <a href=\"contact2.html\" class=\"text-success\"><b><u>contact us</u></b></a> to get invited. &nbsp;Data Donors (<b>licensors</b>) are invited by Hosts on behalf of DDA (the data <b>licensee</b>). &nbsp;Full details below.<br><br><b>Welcome</b>&nbsp;the world where <b>Cognitive Surplus =&gt; Social Good.</b> &nbsp;We're accepting <b>Anonymous Data Pre</b>-<b><i>Sales</i> Orders/LOIs</b>&nbsp;<i>(for philanthropy)</i> AND 1&nbsp;<u>&gt;</u>&nbsp;<b>501(c)3 &amp; GDPR</b> <b>management consulting</b> <b>partner(s)</b> for our Philanthropic&nbsp;<u><a href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=15\" class=\"text-success\"><b>ROADSHOW</b></a></u>&nbsp;&amp; <b>FACEBOOK&nbsp;</b>introduction to follow, with our <b><i>GDPR-SAFE</i></b>&nbsp;(TM) <b>&amp; <i>501(c)3</i></b> <i><b>management</b></i> <i><b>consulting &amp;</b> </i><b><i>franchise</i> </b><i><b>partner(s). </b></i>&nbsp;This is about BIG, BIG DATA, a philanthropic economy, <b>trust, </b>openness &amp; sterling service(s)<b> integrity.</b> &nbsp; Please watch a <a href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=11\"><u><b>TED VIDEO</b></u></a>... &nbsp;Our <b>inspiration</b> source &amp; where we want to (will) be soon.<br><br><b>GDPR, BI, CSR or Marketing</b> <b>Management Consulting Best Practices: </b>Please submit your (sealed) bids without delay for this <b>exclusive &amp; limited</b> offering. &nbsp;As a 'services-oriented' op, with <b>huge</b> potential (Int'l&nbsp;Social <b>Data</b> Credits), we're a <b><i>'sweet'</i> deal</b> (research &amp; <b>best</b> practices) for a managment consulting company, as a <b>501(c)3</b> <b><i>deductible</i></b><i>,</i> the <b>consulting</b> <b><i>services</i></b> <b>business</b> you'll get &amp; all the <b><i>psychographic</i> DATA</b>. <i>&nbsp;</i> <b>PLEASE NOTE</b> that the amount of time <b>remaining</b> before the 1st round of bids is <b>closed</b> can be <b>seen at ==&gt;</b> <b>&nbsp;<a href=\"http://anonymityinc.net\" target=\"_blank\"><b><u>ANONYMITYINC.NET</u></b></a></b>&nbsp;<b>&lt;==&nbsp;</b><br></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://drive.google.com/file/d/1MUKzpRpME-uR5a4qClMgbS9MnixL98hx/view?usp=sharing\" data-app-placeholder=\"Type Text\"><span style=\"font-style: italic;\"></span><em>GDPR-SAFE</em>&nbsp;(TM) PRESENTATION</a>\n                         <a class=\"btn btn-md btn-secondary\" href=\"http://www.digitallydominantautomotive.com/DOCS/GDPR.key.issues.n.statements.pdf\" data-app-placeholder=\"Type Text\"><strong>GDPR</strong>&nbsp;<strong>RESEARCH&nbsp;&amp; ADVISORIES</strong><br><strong><br></strong></a> <a class=\"btn btn-md btn-black\" href=\"http://www.digitallydominantautomotive.com/GDPR-SAFE.3.html\" data-app-placeholder=\"Type Text\"><em></em><em>GDPR-SAFE</em><span style=\"font-style: italic;\">&nbsp;</span> (TM) WEB TRADEMARK</a> <a class=\"btn btn-md btn-success\" href=\"http://www.digitallydominantautomotive.com/DOCS/DDA.Automotive.Industry.Services.n.Data.Buyers.pdf\" data-app-placeholder=\"Type Text\">DDA APP SOURCES &amp; BUYERS OF<br>ANONYMOUS PSYCHOGRAPHIC DATA&nbsp;<em></em><em></em></a> <a class=\"btn btn-md btn-white\" href=\"http://anonymityinc.net\" data-app-placeholder=\"Type Text\" target=\"_blank\">ANONYMITYINC.NET<br>PSYCHOMETRIC MARKET RESEARCH<br>&amp; PHILANTHROPIC SERVICES CLUB<br><em></em><em></em></a> <a class=\"btn btn-md btn-danger\" href=\"contact2.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">CONTACT GDPR-SAFE (TM)<br>AND 501(c)3 CONSULTING<br><em></em><em></em></a> <a class=\"btn btn-md btn-secondary\" href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=11\" data-app-placeholder=\"Type Text\"><strong><br></strong><strong>TED</strong>&nbsp;<strong>VIDEOS</strong>&nbsp;THAT SHAPED OUR VISION, RESEARCH &amp; ANALYTICS<em></em></a> <a class=\"btn btn-md btn-primary\" href=\"DDA.VI.html\" data-app-placeholder=\"Type Text\">DDA AUTO APPS <br>AND SERVICES</a> <a class=\"btn btn-md btn-warning\" href=\"index.html\" data-app-placeholder=\"Type Text\">DDA HOME <br>PAGE</a>  <a class=\"btn btn-md btn-success\" href=\"mailto:pnakata@digitallydominantautomotive.com\" data-app-placeholder=\"Type Text\">EMAIL FOR <br>RFPs &amp; BIDs<br></a> <a class=\"btn btn-md btn-danger\" href=\"tel:+1303800766\" data-app-placeholder=\"Type Text\">CALL US <br>(FROM MOBILE)<br></a></div>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header6\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#555555\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\" selected>\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\"><p><span style=\"font-size: 1.5rem;\">DDA&nbsp;</span><i style=\"font-size: 1.5rem;\">GDPR-SAFE</i><span style=\"font-size: 1.5rem; font-weight: normal;\">(TM)&nbsp;&amp; </span><span style=\"font-size: 1.5rem;\"><i>501(c)3</i> </span><span style=\"font-size: 1.5rem;\">STRATEGIC <i>BIG DATA</i> CONSULTING, PSYCHOMETRIC <i>MARKET</i> <i>RESEARCH</i> AND PHILANTHROPIC <i>SERVICES</i></span><span style=\"font-size: 1.5rem; font-weight: normal;\">&nbsp;</span><span style=\"font-size: 1.5rem;\"><i>CLUB</i> <i>(</i><a href=\"http://www.anonymityinc.net\" target=\"_blank\"><u><i><b>ANONYMITYINC.NET</b></i></u></a><i>)</i></span><span style=\"font-size: 1.5rem; font-weight: normal;\">‎</span></p></h1>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>\n                    A</b> <b>Socially Progressive &amp; Effective 501(c)3 ‎Response to the GDPR</b>.. <b><i>aka</i></b> <i><b>“Anonymous Psychometric Research Data for SALE that Supports Each Data Donor’s Philanthropy”</b>.</i> &nbsp;Each 501(c)3's performance is monitored by our &nbsp;<a href=\"https://drive.google.com/file/d/1LfAUCBMH1LDEnuWng2mf1aO0EKmx-z6Q/view?usp=sharing\" target=\"_blank\"><u><i>Social Impact Rating Reports</i></u></a>. &nbsp;All data sold is monitored for socially <b>responsible</b> usage. &nbsp;It's based on <a href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=10\" target=\"_blank\"><b><u>10+ years</u> </b></a>of dedicated <b>R&amp;D</b> addressing <b>security &amp; privacy</b> through <i style=\"font-style: italic;\">\"<a href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=11\"><b><u>Anonymity</u></b></a> </i><b>for Market Research&nbsp;Data</b><i>\" - Using psychometric </i><b>tags</b><i>&nbsp;</i>(dozen<b>+</b> traits each) <i>+ anonymous social media &amp; geo-demographic </i><b>tags</b> (80% avg. accuracy &amp; <i>remarketing predictable by</i>&nbsp;&nbsp;<b>tags</b> &amp; IP). &nbsp;This reveals <i>highly probable</i> <b>individual</b> <b>traits</b> &amp; <i>behavior</i> <b>patterns</b> by media type &amp; personality.<br><br><b>We help</b>&nbsp;<b>fund</b> all socially responsible <b>R&amp;D</b> via support as a <b>501(c)3</b> and/or, <b>optionally </b>as a DDA <b>Host</b>, <i>sourcing anonymous data donor candidates,</i> and/or <b>Sponsor</b>, <i>buying anonymous psychometric data,</i> from our <b>Market Research &amp; Social-Philanthropic Services</b>&nbsp;<b><b><i><i><b><b><a href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=4\"><b><i>CLUB</i></b></a>,</b>&nbsp; <a href=\"http://anonymityinc.net\" target=\"_blank\" style=\"text-decoration: underline;\"><b>ANONYMITYINC.NET</b></a></b>.</i> &nbsp;&nbsp;</i></b>50% of anonymous data sales profits</b> go to each data donor's <b>favorite social cause.</b> &nbsp;All data <i><b>(<a href=\"https://drive.google.com/file/d/1Mle5uziqVxPbqOuQo_l8qmTwQus0mqT_/view?usp=sharing\"><i><u>identity extracted</u></i></a>)</b></i> is graded as public interest (archetype) or scientific <b>research data (Article 89/GDPR). &nbsp;&nbsp;</b>Organizations&nbsp;<b>By-Invitation-Only </b>=&gt; If you were not invited, <a href=\"contact2.html\" class=\"text-success\"><b><u>contact us</u></b></a> to get invited. &nbsp;Data Donors (<b>licensors</b>) are invited by Hosts on behalf of DDA (the data <b>licensee</b>). &nbsp;Full details below.<br><br><b>Welcome</b>&nbsp;the world where <b>Cognitive Surplus =&gt; Social Good.</b> &nbsp;We're accepting <b>Anonymous Data Pre</b>-<b><i>Sales</i> Orders/LOIs</b>&nbsp;<i>(for philanthropy)</i> AND 1&nbsp;<u>&gt;</u>&nbsp;<b>501(c)3 &amp; GDPR</b> <b>management consulting</b> <b>partner(s)</b> for our Philanthropic&nbsp;<u><a href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=15\" class=\"text-success\"><b>ROADSHOW</b></a></u>&nbsp;&amp; <b>FACEBOOK&nbsp;</b>introduction to follow, with our <b><i>GDPR-SAFE</i></b>&nbsp;(TM) <b>&amp; <i>501(c)3</i></b> <i><b>management</b></i> <i><b>consulting &amp;</b> </i><b><i>franchise</i> </b><i><b>partner(s). </b></i>&nbsp;This is about BIG, BIG DATA, a philanthropic economy, <b>trust, </b>openness &amp; sterling service(s)<b> integrity.</b> &nbsp; Please watch a <a href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=11\"><u><b>TED VIDEO</b></u></a>... &nbsp;Our <b>inspiration</b> source &amp; where we want to (will) be soon.<br><br><b>GDPR, BI, CSR or Marketing</b> <b>Management Consulting Best Practices: </b>Please submit your (sealed) bids without delay for this <b>exclusive &amp; limited</b> offering. &nbsp;As a 'services-oriented' op, with <b>huge</b> potential (Int'l&nbsp;Social <b>Data</b> Credits), we're a <b><i>'sweet'</i> deal</b> (research &amp; <b>best</b> practices) for a managment consulting company, as a <b>501(c)3</b> <b><i>deductible</i></b><i>,</i> the <b>consulting</b> <b><i>services</i></b> <b>business</b> you'll get &amp; all the <b><i>psychographic</i> DATA</b>. <i>&nbsp;</i> <b>PLEASE NOTE</b> that the amount of time <b>remaining</b> before the 1st round of bids is <b>closed</b> can be <b>seen at ==&gt;</b> <b>&nbsp;<a href=\"http://anonymityinc.net\" target=\"_blank\"><b><u>ANONYMITYINC.NET</u></b></a></b>&nbsp;<b>&lt;==&nbsp;</b><br></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://drive.google.com/file/d/1MUKzpRpME-uR5a4qClMgbS9MnixL98hx/view?usp=sharing\" data-app-placeholder=\"Type Text\"><span style=\"font-style: italic;\"></span><em>GDPR-SAFE</em>&nbsp;(TM) PRESENTATION</a>\n                         <a class=\"btn btn-md btn-secondary\" href=\"http://www.digitallydominantautomotive.com/DOCS/GDPR.key.issues.n.statements.pdf\" data-app-placeholder=\"Type Text\"><strong>GDPR</strong>&nbsp;<strong>RESEARCH&nbsp;&amp; ADVISORIES</strong><br><strong><br></strong></a> <a class=\"btn btn-md btn-black\" href=\"http://www.digitallydominantautomotive.com/GDPR-SAFE.3.html\" data-app-placeholder=\"Type Text\"><em></em><em>GDPR-SAFE</em><span style=\"font-style: italic;\">&nbsp;</span> (TM) WEB TRADEMARK</a> <a class=\"btn btn-md btn-success\" href=\"http://www.digitallydominantautomotive.com/DOCS/DDA.Automotive.Industry.Services.n.Data.Buyers.pdf\" data-app-placeholder=\"Type Text\">DDA APP SOURCES &amp; BUYERS OF<br>ANONYMOUS PSYCHOGRAPHIC DATA&nbsp;<em></em><em></em></a> <a class=\"btn btn-md btn-white\" href=\"http://anonymityinc.net\" data-app-placeholder=\"Type Text\" target=\"_blank\">ANONYMITYINC.NET<br>PSYCHOMETRIC MARKET RESEARCH<br>&amp; PHILANTHROPIC SERVICES CLUB<br><em></em><em></em></a> <a class=\"btn btn-md btn-danger\" href=\"contact2.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">CONTACT GDPR-SAFE (TM)<br>AND 501(c)3 CONSULTING<br><em></em><em></em></a> <a class=\"btn btn-md btn-secondary\" href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf#page=11\" data-app-placeholder=\"Type Text\"><strong><br></strong><strong>TED</strong>&nbsp;<strong>VIDEOS</strong>&nbsp;THAT SHAPED OUR VISION, RESEARCH &amp; ANALYTICS<em></em></a> <a class=\"btn btn-md btn-primary\" href=\"DDA.VI.html\" data-app-placeholder=\"Type Text\">DDA AUTO APPS <br>AND SERVICES</a> <a class=\"btn btn-md btn-warning\" href=\"index.html\" data-app-placeholder=\"Type Text\">DDA HOME <br>PAGE</a>  <a class=\"btn btn-md btn-success\" href=\"mailto:pnakata@digitallydominantautomotive.com\" data-app-placeholder=\"Type Text\">EMAIL FOR <br>RFPs &amp; BIDs<br></a> <a class=\"btn btn-md btn-black\" href=\"https://www.youtube.com/watch?v=-cFlck1Ap3I\" data-app-placeholder=\"Type Text\">YouTube<br></a> <a class=\"btn btn-md btn-danger\" href=\"tel:+1303800766\" data-app-placeholder=\"Type Text\">CALL US <br>(FROM MOBILE)<br></a></div>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "qVoAVyQI5M",
           "_anchor": "header6-b",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_styles": {
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "background": "@bgColor",
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(0deg, @bgColor, @color2)"
-            },
-            ".video-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".video-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "video3",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=T00XQjs41Q8&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
-          "_cid": "qW4luDntXs",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "video3-u"
-        },
-        {
-          "_styles": {
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "background": "@bgColor",
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(0deg, @bgColor, @color2)"
-            },
-            ".video-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".video-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "video3",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=RablEF5OYqY&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
-          "_cid": "qW4oSixLOA",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "video3-x"
         },
         {
           "_styles": {
@@ -269,96 +207,891 @@
         },
         {
           "_styles": {
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
             },
-            "background": "@bgColor",
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(0deg, @bgColor, @color2)"
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
             },
-            ".video-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+              },
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out"
+            },
+            ".mbr-gallery-item > div:hover": {
+              ".mbr-gallery-title::before": {
+                "background": "transparent !important"
+              },
+              "&:before": {
+                "opacity": "@overlayOpacity !important"
               }
             },
-            "@media (max-width: 768px)": {
-              ".video-block": {
-                "width": "100% !important"
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "block",
+              "width": "100%",
+              "bottom": "0",
+              "padding": "1rem",
+              "color": "#fff",
+              "z-index": "2",
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+                },
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out"
+              }
+            },
+            ".mbr-gallery-item > div > span": {
+              "color": "#f6e90b"
+            }
+          },
+          "_name": "gallery1",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_cid": "qW9dMQ4xmQ",
+          "_protectedParams": [
+            "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
+            "gallery"
+          ],
+          "_global": false,
+          "_once": false,
+          "_params": {
+            "text_all": "All",
+            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
+            "gallery": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-2-23-43-5-251747.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=T00XQjs41Q8",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "GDPR in 97 Seconds..",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-2-23-44-28-154989.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=RablEF5OYqY",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "CNNMoney GDPR",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-2-23-45-27-307520.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=gHihQAf3o-Q",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "CBS News &amp; GDPR",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-2-23-46-29-677678.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=IHIfX-Ld1P4",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Fox Business &amp; GDPR",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-2-23-47-46-86056.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=6IRE3CjqS0M",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "CNBC International &amp; GDPR",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-0-9-0-949294.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=-D8-jcCLRDc",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "HBO - VICE &amp; GDPR",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-0-10-46-566369.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=XJ1h7mGVLc4",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Neil Patel explans GDPR",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-0-12-39-899665.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=-kZyXsaCpEg",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "CNET &amp; GDPR",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-0-14-42-423823.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=Y2kn_ebwr6M",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Kaspersky Labs &amp; GDPR",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-0-16-28-425904.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=h7dPkd_2JI4",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Bloomberg &amp; GDPR",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-0-18-0-440802.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=b3uQ6BZdNto",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "ZDNet &amp; GDPR",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-0-21-41-16428.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=-cFlck1Ap3I",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Digitally Dominant Automotive &amp; GDPR",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery1-1e"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+              },
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out"
+            },
+            ".mbr-gallery-item > div:hover": {
+              ".mbr-gallery-title::before": {
+                "background": "transparent !important"
+              },
+              "&:before": {
+                "opacity": "@overlayOpacity !important"
+              }
+            },
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "block",
+              "width": "100%",
+              "bottom": "0",
+              "padding": "1rem",
+              "color": "#fff",
+              "z-index": "2",
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+                },
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out"
+              }
+            },
+            ".mbr-gallery-item > div > span": {
+              "color": "#f6e90b"
+            }
+          },
+          "_name": "gallery1",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_cid": "qW9BUc3J5u",
+          "_protectedParams": [
+            "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
+            "gallery"
+          ],
+          "_global": false,
+          "_once": false,
+          "_params": {
+            "text_all": "All",
+            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
+            "gallery": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-19-12-59647.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=aOOaYcbePWg&t=5s",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Filing",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-20-52-280732.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=roTSfpdbcHM",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Articles of Incorporation",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-21-37-110771.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=lx2XX0_txLk",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "501c3 for Dummies",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-22-27-748396.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=PUlTr-g5Bww",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "[How to Get Your 501c3] Sample 501c3 Application",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-23-18-484444.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=ZlnppIJ8tgc",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Non-Profit By Laws",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-24-24-596622.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=cJw4jHkqquw",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Naming your Non-Profit",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-25-22-129925.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=X6aJfQ5vbMc",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Trump says he will end 501c3 chokehold over churches!!",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-26-36-72654.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=R48n0QTkyEc",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "The 501(c)(3) controls your Church",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-27-32-408557.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=YWP7KIivYyc",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Starting a Church - Without I.R.S. 501c3",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-1f"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+              },
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out"
+            },
+            ".mbr-gallery-item > div:hover": {
+              ".mbr-gallery-title::before": {
+                "background": "transparent !important"
+              },
+              "&:before": {
+                "opacity": "@overlayOpacity !important"
+              }
+            },
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "block",
+              "width": "100%",
+              "bottom": "0",
+              "padding": "1rem",
+              "color": "#fff",
+              "z-index": "2",
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+                },
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out"
               }
             }
           },
-          "_name": "video3",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=aOOaYcbePWg&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
-          "_cid": "qW4neJKtoz",
+          "_name": "gallery1",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_cid": "qW9EFyXhT4",
+          "_protectedParams": [
+            "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
+            "gallery"
+          ],
+          "_global": false,
+          "_once": false,
+          "_params": {
+            "text_all": "All",
+            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
+            "gallery": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-30-5-298239.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=zSZd4hlo-ZI",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "10-Minute I/O - Psychometrics",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-30-45-800840.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=VsmQcvJQ7xk",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Introduction to Psychometric Statistics",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-31-25-126869.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=PeBsCo336Uc&t=28s",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Cutting Through the Marketing Hype: How can Psychometrics Really Help Business",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-32-11-25143.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=tiMFwVDvzEA",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Psychometrics: The latest craze in tyranny",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-33-2-264284.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=pCceO_D4AlY",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Introduction to Traits/Psychometrics/The Big 5",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-33-54-83501.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=URxqKK28XJ4",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Cambridge Analytica, Facebook and the Weaponization of Voter Psychometrics and Grand Deception",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-34-46-854889.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=YyAwRGP2TZk&list=PL7CF0E765FAF9FBFE",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Psychometrics from the Ground Up",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-35-56-181212.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=-8J1j5E6tt4",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Psychometrics through the lens of Myers-Briggs and The Predictive Index",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-36-59-160490.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=3nnYwsj5BWk",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "The Ocean Knows: Psychometrics in the 21st Century",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-1g"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+              },
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out"
+            },
+            ".mbr-gallery-item > div:hover": {
+              ".mbr-gallery-title::before": {
+                "background": "transparent !important"
+              },
+              "&:before": {
+                "opacity": "@overlayOpacity !important"
+              }
+            },
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "block",
+              "width": "100%",
+              "bottom": "0",
+              "padding": "1rem",
+              "color": "#fff",
+              "z-index": "2",
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+                },
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out"
+              }
+            },
+            ".mbr-gallery-item > div > span": {
+              "color": "#f6e90b"
+            }
+          },
+          "_name": "gallery1",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_cid": "qW9HjTXbR8",
+          "_protectedParams": [
+            "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
+            "gallery"
+          ],
+          "_global": false,
+          "_once": false,
+          "_params": {
+            "text_all": "All",
+            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
+            "gallery": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-40-5-238715.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=Cs5z5wTszb4&loop=0&autoplay=0",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Convergence: Philanthropy, Technology, Celebrity and Marketing",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-43-21-94324.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=irfditWm0vY",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "The Importance of Research In Effective Philanthropy",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-44-7-44378.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=vK3CmzNZwbU",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "The Power of Hope",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-45-1-685935.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=8on3dz16uW4",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Women's Philanthropy Institute council",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-46-1-49297.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=9bPIV_xkULQ",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "The Role of Philanthropists in Funding Science Research",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-46-59-786474.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=Iw1N6vo2FnU",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Science Research Fundraising Guide",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-47-58-1700.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=KfIG1TEZqdA",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Power of philanthropy for research",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-1-49-7-157257.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=C0-Y-quoy6o",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Philanthropy has been cancer research's saving grace",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-1h"
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "H1": {
+              "color": "#cc2952"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_name": "header6",
+          "_customHTML": "<section class=\"header6\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#555555\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\" selected>\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">TED...ideas worth sharing</h1>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    See the <b>TED</b> videos what shaped our research, analytics &amp; development of services related to psychometrics, research &amp; philanthropy. &nbsp;They should enlighten &amp; entertain you.</p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"http://www.ted.com/talks/lang/eng/jonathan_harris_tells_the_web_s_secret_stories.html\" data-app-placeholder=\"Type Text\">Web's Secret Stories</a>\n                        <a class=\"btn btn-md btn-white\" href=\"https://www.ted.com/talks/jesse_schell_when_games_invade_real_life\" data-app-placeholder=\"Type Text\">When Games <br>Invade Real Life<br></a> <a class=\"btn btn-md btn-secondary\" href=\"https://www.ted.com/talks/clay_shirky_how_cognitive_surplus_will_change_the_world\" data-app-placeholder=\"Type Text\">How‎ ‎Cognitive‎ ‎Surplus‎ <br>‎will‎ ‎Change‎ ‎the ‎World‎<br></a> <a class=\"btn btn-md btn-success\" href=\"http://www.ted.com/talks/seth_godin_on_the_tribes_we_lead.html\" data-app-placeholder=\"Type Text\">The‎ ‎Tribes‎ ‎<br>We‎ ‎Lead<br></a> <a class=\"btn btn-md btn-black\" href=\"http://www.ted.com/talks/dan_pink_on_motivation.html\" data-app-placeholder=\"Type Text\">‎The‎ ‎Surprising‎ ‎Science‎ <br>‎of‎ ‎Motivation‎<br></a> <a class=\"btn btn-md btn-warning\" href=\"https://www.ted.com/talks/brian_little_who_are_‎you_really_the_puzzle_of_personality\" data-app-placeholder=\"Type Text\">The puzzle of ‎<br>personality psychology‎<br></a> <a class=\"btn btn-md btn-danger\" href=\"https://drive.google.com/file/d/16Z0zh0yx3Sl8npMARrfN7sUPdmlAdY4t/view?usp=sharing\" data-app-placeholder=\"Type Text\">‎Free‎ ‎Speech‎, ‎Free‎ <br>‎Minds‎ ‎&amp;‎ ‎Free‎Markets<br></a> <a class=\"btn btn-md btn-primary\" href=\"http://www.ted.com/talks/lang/en/yochai_benkler_on_the_new_open_source_economics.html\" data-app-placeholder=\"Type Text\">The‎ ‎New‎ ‎Open‎ ‎<br>Source‎ ‎Economics<br></a> <a class=\"btn btn-md btn-white\" href=\"https://www.ted.com/talks/dan_gilbert_you_are_‎always_changing ‎\" data-app-placeholder=\"Type Text\">The psychology of<br> your future self<br></a> <a class=\"btn btn-md btn-secondary\" href=\"https://www.ted.com/talks/dan_ariely_asks_are_‎we_in_control_of_our_own_decisions\" data-app-placeholder=\"Type Text\">Are we in control of<br> our own decisions?<br></a> <a class=\"btn btn-md btn-success\" href=\"https://www.ted.com/talks/jeff_hancock_3_types‎_of_digital_lies‎\" data-app-placeholder=\"Type Text\">The future of <br>lying<br></a> <a class=\"btn btn-md btn-black\" href=\"https://www.ted.com/playlists/374/what_your_data_reveals_about_y\" data-app-placeholder=\"Type Text\">What your data <br>reveals about you<br></a></div>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_cid": "qW9OaVNewg",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "video3-v"
-        },
-        {
-          "_styles": {
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "background": "@bgColor",
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(0deg, @bgColor, @color2)"
-            },
-            ".video-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".video-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "video3",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=PeBsCo336Uc&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
-          "_cid": "qW3G62y1cK",
-          "_anchor": "video3-q",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "background": "@bgColor",
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(0deg, @bgColor, @color2)"
-            },
-            ".video-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".video-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "video3",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=Cs5z5wTszb4&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
-          "_cid": "qW4oeeqXy2",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "video3-w"
+          "_anchor": "header6-1l"
         }
       ]
     },
@@ -463,11 +1196,11 @@
           "_name": "video3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=eLdi4JlVdrg&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_cid": "qW4rdtHVnu",
+          "_anchor": "video3-y",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "video3-y"
+          "_params": {}
         },
         {
           "_styles": {
@@ -506,11 +1239,11 @@
           "_name": "image3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <a href=\"https://www.youtube.com/watch?v=LXqB_qilklg\"><img src=\"@PROJECT_PATH@/assets/images/automatic.v2-410x230.jpg\" width=\"1400\" alt=\"Automatic Pro Version 2\" title=\"Automatic Pro v2 OBD-II with 4G\"></a>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                        <br>To See this video, Click <a href=\"https://www.youtube.com/watch?v=LXqB_qilklg\"><u><b>HERE</b></u></a>. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><br>While Automatic does make your car a little smarter based on programming for specific 'events', it is just an interface that primarily was designed to read DTC (diagnostic trouble codes). &nbsp;What make it a truly smart device is <b>(1) </b>associating it with a really smart server (what we do), that integrates <b>(2)</b> each car's factory recommended maintenance schedule (time &amp; mileage based), <b>(3)</b> the OBD-II's diagnostics, and <b>(4)</b> the OPCODES the dealership and OEM use to process service work, that is <b>(5)</b> further associated with parts, and relations associated with everything from <b>(6)</b> rebates to <b>(7)</b>&nbsp;recalls... e.g. the secret is in understanding the OPCODES. &nbsp;We also go further, by associating service the requires an appointment with automated scheduling that is more aggressive than the factory recommended schedule, to insure the optimized equity is maintained for your vehicle.<br></div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "qW4NSoeNMG",
+          "_anchor": "image3-18",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image3-18"
+          "_params": {}
         },
         {
           "_styles": {
@@ -537,11 +1270,11 @@
           "_name": "video3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=AS7if47x23w&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_cid": "qW4BuK6J2W",
+          "_anchor": "video3-11",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "video3-11"
+          "_params": {}
         },
         {
           "_styles": {
@@ -562,11 +1295,11 @@
           "_name": "header2",
           "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/mbr-1488x991.jpg\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#767676\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><i>\n                    Better Equity Mining next, but ours is even better than that...</i></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Click the first button to see a better approach to equity mining (e.g. clean up the data). &nbsp;By comparision, DDA's approach to equity mining puts psychometrics to work for your advantage, along with your prospective role (as a Host and/or Sponsor) of your client's and visitor's anonymous data with <a href=\"http://www.anonymityinc.net\"><u><b>AnonymityInc.Net</b></u></a>.\n                </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://www.youtube.com/watch?v=VnWO2PesKmU\" data-app-placeholder=\"Type Text\">Better Equity Mining</a>\n                    <a class=\"btn btn-md btn-primary\" href=\"https://drive.google.com/file/d/1ti-zT-YjIo7VYxbmiBvPDzVm-GAy9NMd/view?usp=sharing\" data-app-placeholder=\"Type Text\">DDA Equity-Opportunity Data Mining<br>Psychometrics and CSR-Philanthropy<br></a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "qW4HU3sGqJ",
+          "_anchor": "header2-17",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header2-17"
+          "_params": {}
         },
         {
           "_styles": {
@@ -593,11 +1326,11 @@
           "_name": "video3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=mU4XJ_8UNso&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_cid": "qW4yPXIo3H",
+          "_anchor": "video3-z",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "video3-z"
+          "_params": {}
         },
         {
           "_styles": {
@@ -624,11 +1357,11 @@
           "_name": "video3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=bqecNpgz7Uk&t=61s&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_cid": "qW4z178HS7",
+          "_anchor": "video3-10",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "video3-10"
+          "_params": {}
         }
       ]
     },
@@ -834,11 +1567,11 @@
           "_name": "image3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/jonathan.car.1-952x536.jpg\" width=\"1400\" alt=\"Jonathan's Car #1\" title=\"Jonathan's 2009 GTR\">\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                        Jonathan's 2009 GTR</div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "qW52fYs04c",
+          "_anchor": "image3-19",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image3-19"
+          "_params": {}
         },
         {
           "_styles": {
@@ -873,11 +1606,11 @@
           "_name": "image3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/jonathan.doc.1-855x467.jpg\" width=\"1400\" alt=\"Jonathan's Dog #1\" title=\"One of Jonathan's dear german shepherds\">\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                        Jonathan, I'm so, so glad you are home!<br><br><br><br><br><br><br><br></div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "qW53x5PWoS",
+          "_anchor": "image3-1a",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image3-1a"
+          "_params": {}
         }
       ]
     },
