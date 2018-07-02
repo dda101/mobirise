@@ -1502,6 +1502,31 @@ body {
   color: #0d2bdc;
   text-align: right;
 }
+.cid-qWG1QA2fQO {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background: #767676;
+}
+.cid-qWG1QA2fQO .image-block {
+  margin: auto;
+}
+.cid-qWG1QA2fQO figcaption {
+  position: relative;
+}
+.cid-qWG1QA2fQO figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qWG1QA2fQO .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qWG1QA2fQO DIV {
+  color: #0d2bdc;
+  text-align: right;
+}
 .cid-qVY5RIznd1 {
   padding-top: 45px;
   padding-bottom: 0px;
