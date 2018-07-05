@@ -44,13 +44,13 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.6rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -78,9 +78,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -655,7 +655,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1426,6 +1426,13 @@ body {
 .cid-qVoAVyQI5M .mbr-text,
 .cid-qVoAVyQI5M .mbr-section-btn B {
   color: #000000;
+}
+.cid-qVoAVyQI5M B {
+  color: #000000;
+}
+.cid-qVoAVyQI5M P {
+  color: #000000;
+  text-align: left;
 }
 .cid-qWeJ5cZ4ia {
   padding-top: 45px;
