@@ -2189,7 +2189,7 @@ body {
 .cid-qVoMc2hPdw .mbr-text,
 .cid-qVoMc2hPdw .mbr-section-btn {
   color: #000000;
-  text-align: right;
+  text-align: left;
 }
 .cid-qVoMc2hPdw .mbr-text,
 .cid-qVoMc2hPdw .mbr-section-btn B {
@@ -2351,5 +2351,17 @@ body {
 }
 .cid-qWPCmjwN6T .mbr-text,
 .cid-qWPCmjwN6T .mbr-section-btn {
+  text-align: left;
+}
+.cid-qX0rTTYfgk H1 {
+  text-align: right;
+  color: #000000;
+}
+.cid-qX0rTTYfgk I {
+  color: #000000;
+}
+.cid-qX0rTTYfgk .mbr-text,
+.cid-qX0rTTYfgk .mbr-section-btn {
+  color: #000000;
   text-align: left;
 }
