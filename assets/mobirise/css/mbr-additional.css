@@ -1775,11 +1775,18 @@ body {
 }
 .cid-qXfJhkxkqp H1 {
   text-align: right;
-  color: #000000;
+  color: #041471;
 }
 .cid-qXfJhkxkqp .mbr-text,
 .cid-qXfJhkxkqp .mbr-section-btn {
   text-align: left;
+  color: #000000;
+}
+.cid-qXfJhkxkqp I {
+  color: #000000;
+}
+.cid-qXfJhkxkqp .mbr-text,
+.cid-qXfJhkxkqp .mbr-section-btn B {
   color: #000000;
 }
 .cid-qWeJ5cZ4ia {
