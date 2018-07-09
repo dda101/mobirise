@@ -51,10 +51,10 @@ body {
 }
 .display-7 {
   font-family: 'PT Sans Narrow', sans-serif;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -656,13 +656,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'PT Sans Narrow', sans-serif;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.6rem;
 }
 .form-control,
 .form-control:focus {
@@ -1404,16 +1404,13 @@ body {
 .cid-qVoxxijfGK .mbr-section-subtitle I {
   color: #0d2bdc;
 }
-.cid-qVoFFC9nfH {
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
 .cid-qVoFFC9nfH H1 {
-  color: #ffffff;
+  color: #041471;
   text-align: right;
 }
 .cid-qVoFFC9nfH .mbr-text,
 .cid-qVoFFC9nfH .mbr-section-btn {
-  color: #f7ed4a;
+  color: #000000;
   text-align: left;
 }
 .cid-qVXVnRHOsM {
