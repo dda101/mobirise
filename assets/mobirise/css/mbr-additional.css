@@ -2519,10 +2519,11 @@ body {
 .cid-qXoQCE8KUO {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #c8d6db;
 }
 .cid-qXoQCE8KUO .mbr-section-subtitle {
-  color: #767676;
+  color: #000000;
+  text-align: left;
 }
 .cid-qXoQCE8KUO .media-row {
   display: flex;
@@ -2551,5 +2552,11 @@ body {
   font-size: 17px;
 }
 .cid-qXoQCE8KUO .team-item .item-caption {
-  background: #efefef;
+  background: #879a9f;
+}
+.cid-qXoQCE8KUO B {
+  color: #08197e;
+}
+.cid-qXoQCE8KUO H2 {
+  text-align: right;
 }
