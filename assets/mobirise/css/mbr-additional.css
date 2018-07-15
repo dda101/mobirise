@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Anton:400);
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 
 
@@ -29,7 +28,7 @@ body {
   font-size: 8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -43,7 +42,7 @@ body {
   font-size: 1.44rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 1.3rem;
 }
 .display-5 > .mbr-iconfont {
