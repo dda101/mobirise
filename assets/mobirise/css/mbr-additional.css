@@ -1818,6 +1818,10 @@ body {
 .cid-qXfJhkxkqp .mbr-section-btn SPAN {
   color: #232323;
 }
+.cid-qXfJhkxkqp .mbr-text,
+.cid-qXfJhkxkqp .mbr-section-btn I {
+  color: #08197e;
+}
 .cid-qXo4UknImt {
   padding-top: 30px;
   padding-bottom: 120px;
@@ -1828,7 +1832,7 @@ body {
 }
 .cid-qXo4UknImt .mbr-text,
 .cid-qXo4UknImt .mbr-section-btn {
-  text-align: center;
+  text-align: left;
   color: #000000;
 }
 .cid-qXo4UknImt I {
