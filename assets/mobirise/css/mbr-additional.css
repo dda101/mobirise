@@ -1822,6 +1822,14 @@ body {
 .cid-qXfJhkxkqp .mbr-section-btn I {
   color: #08197e;
 }
+.cid-qXfJhkxkqp p:first-line {
+  display: block;
+  margin: 5px 5px 0 5px!important;
+  float: left;
+  color: #FF3366;
+  font-size: 2.5em;
+  font-family: permanent marker;
+}
 .cid-qXo4UknImt {
   padding-top: 30px;
   padding-bottom: 120px;
