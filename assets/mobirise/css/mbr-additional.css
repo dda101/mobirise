@@ -1827,8 +1827,16 @@ body {
   margin: 5px 5px 0 5px!important;
   float: left;
   color: #FF3366;
-  font-size: 2.5em;
+  font-size: 2em;
   font-family: permanent marker;
+}
+.cid-qXfJhkxkqp ::-moz-selection {
+  color: red;
+  background: yellow;
+}
+.cid-qXfJhkxkqp ::selection {
+  color: red;
+  background: yellow;
 }
 .cid-qXo4UknImt {
   padding-top: 30px;
