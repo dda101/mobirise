@@ -3227,10 +3227,14 @@ body {
 }
 .cid-qYNqsAic7Q .mbr-text,
 .cid-qYNqsAic7Q .mbr-section-btn {
-  color: #fcee0f;
+  color: #232323;
 }
 .cid-qYNqsAic7Q H1 {
-  color: #ffffff;
+  color: #ae1b40;
+}
+.cid-qYNqsAic7Q .mbr-text,
+.cid-qYNqsAic7Q .mbr-section-btn B {
+  color: #fcee0f;
 }
 .cid-qYNFjLHl6w {
   padding-top: 30px;
