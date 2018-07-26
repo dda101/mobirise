@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Abril+Fatface:400);
-@import url(https://fonts.googleapis.com/css?family=Anton:400);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 
 
@@ -29,7 +28,7 @@ body {
   font-size: 4.8rem;
 }
 .display-2 {
-  font-family: 'Anton', sans-serif;
+  font-family: 'Abril Fatface', display;
   font-size: 2rem;
 }
 .display-2 > .mbr-iconfont {
@@ -2244,13 +2243,13 @@ body {
   padding-bottom: 30px;
 }
 .cid-qVoFFC9nfH H1 {
-  color: #f6e90b;
-  text-align: center;
+  color: #fcee0f;
+  text-align: right;
 }
 .cid-qVoFFC9nfH .mbr-text,
 .cid-qVoFFC9nfH .mbr-section-btn {
   color: #000000;
-  text-align: center;
+  text-align: left;
 }
 .cid-qVoFFC9nfH .mbr-text,
 .cid-qVoFFC9nfH .mbr-section-btn I {
@@ -3230,6 +3229,7 @@ body {
 .cid-qYNqsAic7Q .mbr-text,
 .cid-qYNqsAic7Q .mbr-section-btn {
   color: #232323;
+  text-align: left;
 }
 .cid-qYNqsAic7Q H1 {
   color: #ae1b40;
@@ -3254,7 +3254,7 @@ body {
 .cid-qVoMc2hPdw .mbr-text,
 .cid-qVoMc2hPdw .mbr-section-btn {
   color: #000000;
-  text-align: center;
+  text-align: left;
 }
 .cid-qVoMc2hPdw .mbr-text,
 .cid-qVoMc2hPdw .mbr-section-btn B {
