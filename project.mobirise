@@ -89,7 +89,7 @@
         "main": true,
         "title": "Contact-DDA-John",
         "meta_descr": "Name, Phone, Email and message form.   This form should be directed to jsilva@digitallydominantautomotive.com.   This form was originally directed to dda-1st-contact@digitallydominantautomotive.com",
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-121222214-1');\n</script>\n",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
@@ -643,7 +643,7 @@
         "meta_descr": "Automotive Industry CRM 3.0, Psychometric Foresight, OBD-II, Philanthropy & more like:  Telematics, IFTTT/IoT, OBD-II, Psychometrics (DISC/OCEAN/Crystal), Linkedin, Media, OEM Research, GDPR, Relationship Reports, Advanced REST integration, Artificial Intelligence, ‎Personas/ Personality Foresight Support “as a Service”, Business Intelligence, DevOps, Social, Mobile, Cloud, Security-by-Design (AI) & CRM 3.0 Research, Changes, Findings, Markets & ‎more.\n\nKEY service offerings include:  (1) ODB-II SMART CODES, Red Carpet Services & Philanthropy, (2) Psychometric Equity-Opportunity Mining & Philanthropy, (3) Automobile Psychometrics for Dynamic Web Marketing & Sales, (4) CRM 3.0 for Auto Dealerships, (5) Enterprise Infrastructure, (6) Auto Videos (Used; Virtual Test Drives; Inventory) and (7) Philanthropy ",
         "title": "DDA Solutions, Version 1 Initiatives",
         "order": 10,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-121222214-1');\n</script>\n"
+        "header_custom": ""
       },
       "components": [
         {
@@ -1934,7 +1934,7 @@
         "meta_descr": "Digitally Dominant Automotive (DDA) Solutions offers cutting edge technologies, apps, service programs, market research & consting.  This includes, but is not limited to GDPR-SAFE Management Consulting and Market Research Services (& Philanthropic CLUB), 501(c)3 Consulting, OBD-II SMART Codes, IFTTT (IoT; Messaging), AutomatServices, Primary Car Dealers, Equity Management & Philanthropy, Psychometric Equity-Opportunity Mining, Client-Salesperson Communications & Strategies, Auto Psychometrics - Consumer Research & BI for Marketing & Sales, CRM 3.0, Enterprise Infrastructure, Philanthropy (from Anonymous Data) & MORE! Now accepting pre-orders for anonymous data sales, and partnership bids from management consultancies.  Contact us today at pnakata@digitallydominantautomotive.com or (303) 800-5766. \n\nOBD-II    Connected-Car    IoT-IFTTT   Telematics    Equity-Mining-Matching    CRM3‎ Personality-Psychometrics  Tags  Android AI Edmunds Expert-Systems OEMs  ‎Analytics     Infrastructure (web, mobile, cloud)  Dealers  Facebook Agile   ‎Architecture (SOA)   Development (Security, UML, APIs, DevOps, Web-Services)    ‎Content Management   Branding    CarPlay    DMS   Integration (REST, SOAP, ‎RPC)    Crystal  iPhone  CRM    GMAIL    ERP    vAuto   3rd-Party-Automotive-Data     ‎eCommerce    Corporate-Social-Responsibility    Digital-Marketing   Android-Auto  Email   ‎SMS    GDPR   Car-VIDEOS  vAuto  Google   Social-Media Field-Services  Market-‎Research    Consulting   FFM    OEMs  eBusiness  Dealerships  KBB  MBTI    Linkedin    ‎Automated-Service     Remote-Diagnostics  Automatic   YouTube    Philanthropy  ‎Social Responsibility CSR (Corporate Social Responsibility) Amazon market research     Public ‎Interest     Medical Research     Auto Safety Research    Emissions Research  Big6  Urban Planning\n",
         "title": "(DDA HOME) Digitally Dominant Automotive",
         "order": 4,
-        "header_custom": "<meta name=\"google-site-verification\" content=\"W1F8EL_2JHTTqF-9XdmjrCVtKasOpMnIq-WHBsWR024\" />\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-121222214-1');\n</script>\n"
+        "header_custom": "<meta name=\"google-site-verification\" content=\"W1F8EL_2JHTTqF-9XdmjrCVtKasOpMnIq-WHBsWR024\" />\n"
       },
       "components": [
         {
@@ -3158,7 +3158,7 @@
       "settings": {
         "title": "Contact-GDPR-SAFE",
         "meta_descr": "Name, Phone, Email and message form.   This form should be directed to GDPR-SAFE@digitallydominantautomotive.com",
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-121222214-1');\n</script>\n",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 1
@@ -3710,7 +3710,7 @@
         "meta_descr": "Digitally Dominant Data's page:  A personal introduction by Phillip Nakata, who has been involved with GDPR security & privacy issues since 1997.  Links to (1) Key facts & DDD Offerings, (2) do's and don'ts, (3) GDPR Security Strategy, and (4) GDPR-SAFE™ Reference Guide",
         "title": "GDPR-SAFE™ Consulting",
         "order": 7,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-121222214-1');\n</script>\n"
+        "header_custom": ""
       },
       "components": [
         {
@@ -4245,7 +4245,7 @@
         "meta_descr": "The DDD (div. of DDA) Partner Landing Page that reflects the mission and core principles of our offering:  namely, our processes that addresses everyone's security & privacy issues, by making market research data anonymous but invaluable w/psychometric & social-geo-demographic tags, revealing the multiple traits & patterns of psychological archetypes & multi-dimensional analysis of each person's needs, motivations, value systems & experiences*... 10+ years in the making*... Our data reveals these highly predictable (probable) individual traits & behavior patterns by anonymous psychometric tags (the most *insightful metric), albeit 100% anonymous (e.g. Identities/names removed; multi-group & psychometric tags inserted; Big Data analytics applied).  ",
         "title": "Landing Page for GDPR-SAFE™, 501c3-SME™ and AnonymityInc.net™‎",
         "order": 3,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-121222214-1');\n</script>\n"
+        "header_custom": ""
       },
       "components": [
         {
@@ -4790,7 +4790,7 @@
         "meta_descr": "Resources and information for reporters, publishers, futurists, business/social celebrities & social technology polymaths ‎like the founders.  We love press, here’s everything you need to put your story together as well as how to reach us.  Includes: Founders BIOs, YouTube, Logos, Landing pages, Founders Intro, Marketing profile, Messaging, Graphics, Forms, GDPR-SAFE Consulting, GDPR Chapters/Articles, GDPR Dos and Donts, 501c3-SME Consulting, Psychometrics (auto indus.), AnonymityInc Countdown, AnonymityInc Subscription, DDD Contact, DDD RFPs and BIDs, DDA Home, DDD Cover page and DDD Contact.",
         "title": "DDD Press Kit",
         "order": 2,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-121222214-1');\n</script>\n"
+        "header_custom": ""
       },
       "components": [
         {
@@ -5426,7 +5426,7 @@
         "meta_descr": "A Socially Progressive & Effective 501(c)3 (PENDING)  ‎Response* to the GDPR... AKA Anonymous Research Data SALE that Supports Data Donor’s Philanthropy”‎ that is also driven by 501(c)3 consulting that helps business secure funding for their R&D as a 501(c)3.  We allow people to license their 100% Anonymous (No identity) ‎Personal-Social Trait & Behavioral Data to DDA, as licensee/controller.‎  The service generates funding for people's social causes from 50% of the profits of anonymous data sales for socially responsible research (and remarketing).  The service's integrity is maintained by watchdog services reporting the social impact of each 501(c)3 supported, and data monitoring insuring the socially responsible use of people's albeit anonymous data.  The focus of the service is Article 89 of the GDPR, related to market research that is of Public Interest, Scientific or Historical statistics.  Minimum anticipated cash flow: $50 Million year one.  A no-lose proposition; exceptional philanthropic/CSR value,  Based on 10+ years research, planning and developments.",
         "title": "GDPR-SAFE™, 501c3-SME™ and AnonymityInc.net™‎",
         "order": 6,
-        "header_custom": "<script language=\"JavaScript\">\n<!--\nfunction changetext(did)\n{\n\t\tvar value = document.getElementById(did).style.display;\n\t\t\n\t\tif(value == \"block\"){\n\t\t\tdocument.getElementById(did).style.display = \"none\";\n\t\t\t//document.getElementById(did).style.display = \"none\";\n\t\t\t//document.getElementById(did).style.display = \"none\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(did).style.display = \"block\";\n\t\t\t//document.getElementById(did).style.display = \"block\";\n\t\t\t//document.getElementById(did).style.display = \"block\";\n\t\t}\n\t\t\n\t}\n-->\n\t</script>\n<script>\nfunction aud_play_pause() {\n var myAudio = document.getElementById(\"myAudio\");\n if (myAudio.paused) {\n  myAudio.play();\n } else {\n  myAudio.pause();\n }\n}\n</script>\nsection:last-of-type {\ndisplay:none\n}\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-121222214-1');\n</script>\n"
+        "header_custom": "<script language=\"JavaScript\">\n<!--\nfunction changetext(did)\n{\n\t\tvar value = document.getElementById(did).style.display;\n\t\t\n\t\tif(value == \"block\"){\n\t\t\tdocument.getElementById(did).style.display = \"none\";\n\t\t\t//document.getElementById(did).style.display = \"none\";\n\t\t\t//document.getElementById(did).style.display = \"none\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(did).style.display = \"block\";\n\t\t\t//document.getElementById(did).style.display = \"block\";\n\t\t\t//document.getElementById(did).style.display = \"block\";\n\t\t}\n\t\t\n\t}\n-->\n\t</script>\n<script>\nfunction aud_play_pause() {\n var myAudio = document.getElementById(\"myAudio\");\n if (myAudio.paused) {\n  myAudio.play();\n } else {\n  myAudio.pause();\n }\n}\n</script>\nsection:last-of-type {\ndisplay:none\n}\n"
       },
       "components": [
         {
@@ -8812,7 +8812,7 @@
         "meta_descr": "DDD’s DATA & RESEARCH CONSULTING SERVICE OPPORTUNITIES* include but are not limited to: (1) GDPR-SAFE™ Consulting Solutions -‎‎ ‎mitigate your data privacy liability with DDD’s full services which range from seminars, to assessments, to on-going audits, to ‎alignment of ‎interests w/AnonymityInc, (2) 501c3-SME™ Consulting Solutions, that aids the ‎socially responsible R&D of our clients, ‎secure needed ‎funds by becoming a 501(c)3, (3) AnonymityInc.net Hosting - sourcing anonymous data donor candidates from ‎host subscribers for ‎research & host/subscriber benefits, and (4) AnonymityInc.net Sponsoring - buying targeted, insightful, anonymous psychometric ‎data), from ‎‎(5) DDD's Psychometric Research & Philanthropy Services Club, AnonymityInc.net™.‎ ‎ \n‎ \n‎>>>  SPONSOR, THEN HOST STRATEGY: As compared with other research programs that support philanthropy, DDD’s strategic ‎approach ‎starts by first visiting sponsors with our philanthropic, psychometric research data offer & the consulting tools to ‎secure most ‎host markets (our funding, business, or protection offer), before visiting hosts w/ those consulting tools  (e.g. ‎‎Always ask first what data ‎they want to buy, before asking what data they have to sell).  We thus visit most hosts for our consulting with 1+ ‎big anonymous data buyers ‎in hand.‎  \n‎ \n‎>>>  INSIGHT & GREATER PRODUCTIVITY: DDD's consulting also addresses (a) BIG data Consulting, and its' close cousin (b) manipulating ‎Highly ‎Secure Legacy/ Enterprise/Cloud data, like it was simple middleware, by writing intelligent interpreters for the message ‎handlers, (c) ‎automotive data engineering (our DDA role), and (d) psychometrics for: recruiting, training, team building, sales, conflict ‎resolution, ‎career counseling & more; the Fortune 500 lives on its’ consistent, proven performance & communication logic.  \n",
         "title": "DDD Pages: Sections I-V",
         "order": 8,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-121222214-1');\n</script>\n"
+        "header_custom": ""
       },
       "components": [
         {
@@ -9845,7 +9845,7 @@
         "meta_descr": "Digitally Dominant Automative/Data (DDA & DDS) Founder BIOs",
         "title": "BIOs",
         "order": 5,
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-121222214-1');\n</script>\n"
+        "header_custom": ""
       },
       "components": [
         {
