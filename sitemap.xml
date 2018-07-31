@@ -21,9 +21,6 @@
 		<loc>http://www.digitallydominantautomotive.com/presskit.html</loc>
 	</url>
 	<url>
-		<loc>http://www.digitallydominantautomotive.com/gdpr-safe5.html</loc>
-	</url>
-	<url>
 		<loc>http://www.digitallydominantautomotive.com/gdpr-safe.html</loc>
 	</url>
 	<url>
@@ -31,5 +28,14 @@
 	</url>
 	<url>
 		<loc>http://www.digitallydominantautomotive.com/dda-bios.html</loc>
+	</url>
+	<url>
+		<loc>http://www.digitallydominantautomotive.com/gdpr-safe.bk0.html</loc>
+	</url>
+	<url>
+		<loc>http://www.digitallydominantautomotive.com/gdpr-safe.bk1.html</loc>
+	</url>
+	<url>
+		<loc>http://www.digitallydominantautomotive.com/gdpr-safe.bk2.html</loc>
 	</url>
 </urlset>
