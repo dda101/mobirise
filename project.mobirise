@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Latest DigitallyDominantAutomotive.com",
-    "currentPage": "index.html",
+    "currentPage": "contact1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1242,8 +1242,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -1356,8 +1356,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -1482,8 +1482,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -1596,8 +1596,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -1704,8 +1704,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -1818,8 +1818,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -2381,10 +2381,13 @@
             },
             ".mbr-text, .mbr-section-btn B": {
               "color": "#fcee0f"
+            },
+            ".mbr-text, .mbr-section-btn SPAN": {
+              "color": "#ffffff"
             }
           },
           "_name": "header6",
-          "_customHTML": "<section class=\"header6\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#555555\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\" selected>\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#149dcc\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"color: white;\">Digitally Dominant Automotive</span></h1>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><span style=\"color: black;\"><b>ACTIONABLE BUSINESS INTELLIGENCE from \"smart\" IoT, media market research &amp; psychometrics, producing overly productive &amp; beneficial \"cutting edge\" &lt; 1 &gt; Automotive &amp; data technologies (\"Smart OBD-II\", Equity-Mining + Psychometrics, \"licensed\" anonymous research &amp; Enterprise data tech), &lt; 2 &gt; Related automotive apps &amp; services, and &lt; 3 &gt; Digitally Dominant Data's (a 501(c)3 DDA division)  GDPR-SAFE™ &amp; 501c3-SME™ BIG Data Consulting, Psychometric Research &amp; Philanthropy Services Club... </b>converting GDPR <u>liabilities into invaluable assets</u>, and socially responsible R&amp;D into (<u>tax deductible</u>) 501(c)3's (supporter/ follower <u>funding</u> Channel) for business &amp; social organizations, and <u>unlocking the potential of psychographics</u> (the most insightful classification with 6-10 behavior traits). &nbsp;No political donations are supported by 501(c)3 definition, however, you may buy our research club's (AnonymityInc.net™) anonymous, <u>actionable</u> <u>psychographic</u> research data, and our deep (insightful) <u>pattern</u> analysis &amp; (80%+) behavioral <u>predictions</u> (that you won't find anywhere else) as a very afforable, <b>charitable</b> tax deduction, <b>fueling</b> medical &amp; market research, based on a <b>framework</b> of guaranteed integrity (monitoring psychometric data for socially responsible usage and causes for their social impact).</span><br><br><span style=\"color: black;\"><b>Harnessing anonymous psychometric research data for socially responsible use, will transform the extraordinary value of anonymous market research into an extraordinary amount of social impact and business intelligence. &nbsp;Anonymous social interaction data will become a social currency for people &amp; their causes, along with a foundaton for actionable business insight, changing forever the research &amp; philanthropic landscape.</b> &nbsp;</span><span style=\"color: white;\">We (DDD) are philanthropic business &amp; technical polymaths with a history and a vision. &nbsp; We are the people's champions of security, privacy, research, marketing, funding &amp; philanthropy. &nbsp;We do this by harnessing psychometric research, monitoring, AI &amp; anonymity,<i>&nbsp;</i></span><span style=\"color: black;\"><i>while working on some of &nbsp;the most important, unsolved problems in computer science. &nbsp;</i>We are accepting discounted deposits &amp; LOIs from data buyers &amp; DDD equity bids from mangement consulting partner candidates. &nbsp;Please see DDD's mission statement below.</span></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"dda-bios.html\" data-app-placeholder=\"Type Text\">Polymath<br>Founders<br></a>\n                        <a class=\"btn btn-md btn-secondary\" href=\"http://tny.im/e-B\" data-app-placeholder=\"Type Text\">PR.COM<br>Press<br>Release<br></a>  <a class=\"btn btn-md btn-success\" href=\"gdpr-safe.html#image1-1v\" data-app-placeholder=\"Type Text\">Philanthropic<br>DDD Research&nbsp;<br>Mission<br></a> <a class=\"btn btn-md btn-info\" href=\"presskit.html\" data-app-placeholder=\"Type Text\">Press<br>Kit<br></a> <a class=\"btn btn-md btn-info\" href=\"index.html#header2-e\" data-app-placeholder=\"Type Text\">Digitally<br>Dominant<br>Automotive<br>(divisions)<br></a> <a class=\"btn btn-md btn-white\" href=\"gdpr-safe.html\" data-app-placeholder=\"Type Text\">*Digitally<br>Dominant<br>Data &amp;<br>Anonymityinc<br>SHOWCASE<br></a> <a class=\"btn btn-md btn-warning\" href=\"DDA.VI.html\" data-app-placeholder=\"Type Text\">Digitally<br>Dominant<br>Automotive<br>Breakthrough<br>Smart Apps<br>&amp;&nbsp;Services<br></a> <a class=\"btn btn-md btn-black\" href=\"contact1.html\" data-app-placeholder=\"Type Text\">Contact<br>DDA<br></a></div>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header6\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#555555\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\" selected>\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#149dcc\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"color: white;\">Digitally Dominant Automotive</span></h1>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><span style=\"color: black;\"><b>ACTIONABLE BUSINESS INTELLIGENCE from \"smart\" IoT, media market research &amp; psychometrics, producing overly productive &amp; beneficial \"cutting edge\" &lt; 1 &gt; Automotive &amp; data technologies (\"Smart OBD-II\", Equity-Mining + Psychometrics, \"licensed\" anonymous research &amp; Enterprise data tech), &lt; 2 &gt; Related automotive apps &amp; services, and &lt; 3 &gt; Digitally Dominant Data's (a 501(c)3 DDA division)  GDPR-SAFE™ &amp; 501c3-SME™ BIG Data Consulting, Psychometric Research &amp; Philanthropy Services Club... </b>converting GDPR <u>liabilities into invaluable assets</u>, and socially responsible R&amp;D into (<u>tax deductible</u>) 501(c)3's (supporter/ follower <u>funding</u> Channel) for business &amp; social organizations, and <u>unlocking the potential of psychographics</u> (the most insightful classification with 6-10 behavior traits). &nbsp;</span><br><br><span style=\"color: black;\">No political donations are supported by 501(c)3 definition, however, you may buy our research club's (AnonymityInc.net™) anonymous, <u>actionable</u> <u>psychographic</u> research data, and our deep (insightful) <u>pattern</u> analysis &amp; (80%+) behavioral <u>predictions</u> (that you won't find anywhere else) as a very afforable, <b>charitable</b> tax deduction, <b>fueling</b> medical &amp; market research, based on a <b>framework</b> of guaranteed integrity (monitoring psychometric data for socially responsible usage and causes for their social impact).</span><br><br><span style=\"color: black;\"><b>Harnessing anonymous psychometric research data for socially responsible use, will transform the extraordinary value of anonymous market research into an extraordinary amount of social impact and business intelligence. &nbsp;Anonymous social interaction data will become a social currency for people &amp; their causes, along with a foundaton for actionable business insight, changing forever the research &amp; philanthropic landscape.</b> &nbsp;</span><span style=\"color: white;\">We (DDD) are philanthropic business &amp; technical polymaths with a history and a vision. &nbsp; </span><br><br><span style=\"color: white;\">We are the people's champions of security, privacy, research, marketing, funding &amp; philanthropy. &nbsp;We do this by harnessing psychometric research, monitoring (our framework of Integrity-by-design), AI &amp; anonymity,<i>&nbsp; </i>providing invaluable insights for everyone (people like themselves, hosts &amp; sponsors),<i>&nbsp;</i></span><span style=\"color: black;\"><i>while working on some of &nbsp;the most important, unsolved problems in computer science &amp; the auto industry (the stuff that requires you think in multiple dimensions &amp; see the relationships between them, similar to taking polynomial equations and turning them into linear ones (e.g. The relationship to our P vs. NP &nbsp;thinking along with being the foundation for quantum computing). &nbsp;</i></span><br><span style=\"color: black;\"><i><br></i>We are accepting discounted deposits &amp; LOIs from data buyers &amp; DDD equity bids from mangement consulting partner candidates. &nbsp;Please see DDD's mission statement below.</span></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"dda-bios.html\" data-app-placeholder=\"Type Text\">Polymath<br>Founders<br></a>\n                        <a class=\"btn btn-md btn-secondary\" href=\"http://tny.im/e-B\" data-app-placeholder=\"Type Text\">PR.COM<br>Press<br>Release<br></a>  <a class=\"btn btn-md btn-success\" href=\"gdpr-safe.html#image1-1v\" data-app-placeholder=\"Type Text\">Philanthropic<br>DDD Research&nbsp;<br>Mission<br></a> <a class=\"btn btn-md btn-info\" href=\"presskit.html\" data-app-placeholder=\"Type Text\">Press<br>Kit<br></a> <a class=\"btn btn-md btn-info\" href=\"index.html#header2-e\" data-app-placeholder=\"Type Text\">Digitally<br>Dominant<br>Automotive<br>(divisions)<br></a> <a class=\"btn btn-md btn-white\" href=\"gdpr-safe.html\" data-app-placeholder=\"Type Text\">*Digitally<br>Dominant<br>Data &amp;<br>Anonymityinc<br>SHOWCASE<br></a> <a class=\"btn btn-md btn-warning\" href=\"DDA.VI.html\" data-app-placeholder=\"Type Text\">Digitally<br>Dominant<br>Automotive<br>Breakthrough<br>Smart Apps<br>&amp;&nbsp;Services<br></a> <a class=\"btn btn-md btn-black\" href=\"contact1.html\" data-app-placeholder=\"Type Text\">Contact<br>DDA<br></a></div>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "qYNqsAic7Q",
           "_anchor": "header6-5b",
           "_PHPplaceholders": [],
@@ -2538,8 +2541,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -2660,8 +2663,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -2785,8 +2788,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -2913,8 +2916,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -3035,8 +3038,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -5776,13 +5779,13 @@
             }
           },
           "_name": "header2",
-          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#767676\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    Digitally Dominant Data</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Invaluable, Deep, Anonymous Psychometric Comparative Insight &amp; Goodwill, as a 501(c)3 tax deductible that benefits our donor's philanthropy &amp; yours;&nbsp;Guaranteed Integrity-by-design; GDPR compliant; turn liabilities into invaluable assets.</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"gdpr-safe.html#header7-4d\" data-app-placeholder=\"Type Text\">LEARN <br>MORE</a>\n                    <a class=\"btn btn-md btn-primary\" href=\"http://tny.im/e-B\" data-app-placeholder=\"Type Text\">PRESS <br>RELEASE</a> <a class=\"btn btn-md btn-warning\" href=\"dda-bios.html\" data-app-placeholder=\"Type Text\">FOUNDERS</a> <a class=\"btn btn-md btn-black\" href=\"gdpr-safe.html#image1-1v\" data-app-placeholder=\"Type Text\">MISSION</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#767676\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    Digitally Dominant Data</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Invaluable, Deep, Anonymous, <u>Authenticated</u> Psychometric Comparative Insight &amp; Goodwill, as a 501(c)3 tax deductible that benefits our donor's philanthropy &amp; yours;&nbsp;Guaranteed Integrity-by-design; GDPR compliant; turn liabilities into invaluable assets.</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"gdpr-safe.html#header7-4d\" data-app-placeholder=\"Type Text\">LEARN <br>MORE</a>\n                    <a class=\"btn btn-md btn-primary\" href=\"http://tny.im/e-B\" data-app-placeholder=\"Type Text\">PRESS <br>RELEASE</a> <a class=\"btn btn-md btn-warning\" href=\"dda-bios.html\" data-app-placeholder=\"Type Text\">FOUNDERS</a> <a class=\"btn btn-md btn-black\" href=\"gdpr-safe.html#image1-1v\" data-app-placeholder=\"Type Text\">MISSION</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "qZq3K584OA",
+          "_anchor": "header2-i1",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header2-i1"
+          "_params": {}
         },
         {
           "_styles": {
@@ -5843,7 +5846,7 @@
             }
           },
           "_name": "header7",
-          "_customHTML": "<section class=\"header7\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Media On Right/Left\" name=\"reverseContent\" checked>\n\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"55\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#f4a997\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" name=\"color2\" title=\"Color 2\" value=\"#149dcc\" condition=\"bg.type=='color'\" selected>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n\n            <div class=\"media-content align-right\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><i><div style=\"font-size: 12px; color: darkblue; margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px; line-height: 20px; vertical-align: baseline; \">dMusic <a href=\"gdpr-safe.html#social-buttons3-4z\" style=\"line-height: 18px;\"><u><i>here</i></u></a>; Directions <a href=\"http://tny.im/f5y\" style=\"line-height: 18px;\"><u><i>here</i></u></a>; Easy, upbeat; currently: <u>Mary Chapin Carpenter</u>/<b>Stones in the Road</b></div><span style=\"font-size: 12px; font-family:'Patua One'; color: blue; margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px; line-height: 18px; font-weight: normal;\">.</span></i><span style=\"line-height:1.3;\"><br></span><b>Digitally Dominant Data, Anonymityinc.net &amp; the Anonymous Psychometric Research Data Market of <font color=\"#191970\">'Comparative Insight'</font></b></h1>\n                <div class=\"mbr-section-text mbr-white pb-3\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><span style=\"color: darkblue;\"><i><b><u>We are the New People's Champions of Socially Responsible Security, Privacy, Research, Marketing &amp; Funding for worthy R&amp;D Philanthropy; We Harness&nbsp;Psychometrics, Biometrics &amp; Anonymity, while monitoring usage &amp; impact to insure integrity for this noble endeavor, for INSIGHT</u>. &nbsp;</b>We are offering to openly share &amp; spread this model/ concept &amp; technologies with reporters, futurists, business/social &nbsp;celebrities &amp; social technology poloymaths like ourselves, who can see the convergence &nbsp;of philanthropy, technology, psychometrics, history, culture, religion, politics, music celebrities and BIG Data marketing, that will harness the potential of mankind's cognitive surplus for social good. &nbsp;See the magic words in our highlighted <b>500 &amp; 329 character statements</b> below (what we do &amp; its' simple <b>keys</b>), followed by our <a href=\"gdpr-safe.html#image1-1v\"><u><b><i>mission</i></b></u></a> statement.</i></span><br><br><b>ANONYMITYINC (<span style=\"background-color: wheat;\">THE FRAMEWORK OF RESEARCH &amp; PHILANTHROPIC INTEGRITY</span>):</b> &nbsp;This is a zero risk offer for everyone, with <b>significant</b> <u>security, privacy, psychometric insight, goodwill &amp; financial </u><b>value.</b>  We’ve ‎mastered the <b>art</b> of applied anonymous psychometrics for socially <b>responsible</b> scientific, social &amp; business <b>research</b> &amp; remarketing ‎that <b>funds</b> philanthropy. &nbsp;<span style=\"background-color: wheat;\">We<b> (a)</b> address corporate security &amp; privacy data responsibility &amp; liabilities <b>(b) </b>by licensing people’s data as ‎a trusted, 3rd party <u>liability mitigation &amp; consumer rights</u> 501(c)3,<b> (c)</b> making all their data <u>anonymous but invaluable</u> w/ psychometric, ‎social &amp; geo-demographic tags, <b>(d)</b> for <b>socially responsible</b> research &amp; remarketing, <b>(e) </b>that <b>funds</b> their 501(c)3 philanthropy,<b> (f)</b> based on popularity ‎&amp; its’ <u>social impact rating</u>; <b>(g)</b> w/ all data monitored for <u>socially responsible usage &amp; anonymity</u></span> ('Anonymos' in ancient Greece meant <b>'nameless'</b>).<br><br><b>SERVICES: &nbsp;THIS IS A 501(c)3 SOLUTION FOR:</b> SECURITY, PRIVACY &amp; SOCIALLY RESPONSIBLE RESEARCH, MARKETING &amp; FUNDING THAT BENEFITS PHILANTHROPY, and ‎the anonymous psychometric data market (invaluable psychometric research data &amp; services – <span style=\"background-color: wheat;\"><u><b>sold as a charitable CSR donation of social ‎responsibility</b></u></span>). &nbsp;Similarly, we offer <b>a dozen+ consulting services from</b> GDPR, 501(c)3, BIG data &amp; psychometric research consulting (managing privacy liability, research, marketing, funding, CSR, etc.)... <b>to marketing &amp; managing socially responsible data usage and 501(c)3 social impact ratings </b>for Anonymityinc (<u>anonymous psychometric data that benefits philanthropy</u>), that now also includes a host's referral income of up to $0.05/member/day, in addition to extended data access. &nbsp;<br><br><b>FEATURES: Predict</b> behavior to stimuli, needs, motivations &amp; values; <b>eliminate</b> security &amp; privacy concerns; <b>secure</b> &amp; ‎support <b>501(c)3 ‎R&amp;D </b>philanthropy/funding; <b>fuel </b>invaluable market &amp; medical research;<b> integrity</b> guaranteed-by-design; <b>‎no</b> purchase required; <b>GDPR </b>compliant; <b><u>tax deductible ‎‎501(c)3 data &amp; services</u></b> (that’s <b>right</b>, buying invaluable research data <b><u>found nowhere else </u></b>that benefits philanthropy).‎  <span style=\"background-color: wheat;\"><u>Total <b>anonymity</b>, ‎<b>philanthropy</b> ‎&amp; program creditability/<b>integrity-by-design</b></u> are the keys to gain the people’s <b>trust</b>, and <u>psychometric + ‎behavior tags</u> are the ‎keys to ‎unlock the scientific &amp; marketing <u>research potential</u>&nbsp;(insight) value of <b>licensed anonymous </b>psychometric data. &nbsp;The invaluable common value is <b><u>anonymous psychometric comparative insight</u></b></span>‎: ‎ From (a) what other people like you think ( 1/16th of the population by personality archetype) for comparison purposes, to (z) the predictable behavior by males, this age range, Facebook users, mobile device, these best hours, to this stimuli, in this zip code OR based on this event... and (b-y), everything else in between. &nbsp;Because it is anonymous, it can have that level of detail - e.g. <u>All of the other related research data you ever wanted to know</u>. &nbsp;<br><br><b>THE FUTURE PSYCHOMETRIC RESEARCH INSIGHT &amp; PHILANTHROPIC LANDSCAPE: &nbsp;</b>Harnessing anonymous psychometric research data for socially responsible use, will <b>transform</b> ‎the extraordinary value of ‎anonymous market research into a ‎<b>extraordinary</b> amount of social ‎<b>impact</b> &amp; business <b>intelligence.</b> &nbsp;Here, anonymous social ‎interaction data becomes a <i>social ‎</i>currency for people &amp; ‎their causes, along with a <u>foundation</u> for actionable business insight.‎ &nbsp;In addition to being <b>“the ‎socially responsible thing to do”</b>, the service provides helpful*&nbsp;<span style=\"background-color: wheat;\"><u>anonymous psychometric comparison insight ('Public Interest &amp; Scientific Research, respective to the GDPR)</u></span>, from members ‎w/ ‎similar ‎personality &amp; social, geo-demographic tags (<b>people like me</b>), on <u>almost</u> any topic‎. &nbsp;<b>Albeit anonymous</b> ‎‎(protecting privacy) and *helpful, licensed &amp; socially responsible DEEP data research adds pattern analysis &amp; behavior prediction ‎‎(<b>insight</b>) to all ‎of our sponsor's &amp; host's remarketing data.‎<br><br><b>MANAGEMENT CONSULTING PARTNER CANDIDATES: </b>Please see section II below, aka <u>our \"sweet\" deal</u>. &nbsp;Before franchising, with 100-1000+ people (+ support) involved, with <b>something invaluable to offer every organizatio<u>n</u></b> - e.g. GDPR, 501(c)3, Big Data, Psychometric research, high end IT/BI and Anonymityinc (xbenefit to 501(c)3s by social impact, social credit), considering the <b>on-going</b>, growing returns &amp; most importantly <b>the data</b>, <u>we'll let your actuaries guess the value</u> (but it's pretty big if you had my <b>522 word story</b> above, history, research &amp; <u>much</u> more). What we want from our ten year vision, is to see it come to fruition, like a child growing up. &nbsp;We only want a small piece of something that is bigger than anyone could imagine... <b>that is </b>until we start releasing some of the other unique technology we've figuratively stumbled upon in taking a polymath's approach (P vs NP) to things, e.g. Seeing the patterns, or not - <b>what you didn't know that you didn't know</b> - most people have no idea that that is creativity (and the secret of marketing), and why DDD's first rule of research is: <u>Assume nothing, plan for everything</u> (e.g. Take every point of view, and more).<br><br><b>JONATHAN HARRIS' VIDEO&nbsp;</b>(from 2007) inspired our thinking these past 10+ years; albeit his was interactive vs. anonymous, the similarity is research <u>based on passive observance</u>. &nbsp;And as compared to social geo-demographics, we're applying <b>biometrics </b>to distinguish emotional character and <b>psychometrics </b>research based on society's 2500 year old study of <u>needs, motivations and values</u>, expressed as pattern analysis and behavioral predictability (probability stimulus to response). &nbsp; Effectively, Digitally Dominant Data, via its' plethora of professional consulting, marketing &amp; research services, highlighting GDPR-SAFE™‎, ‎501c3-SME™, Psychometric research‎ &amp; our philanthropy club, Anonymityinc.net™, is <b>merging psycho-analysis with Big Data &amp; anonymity, </b>to unlock this tech's potential. &nbsp; &nbsp;<br>\n                    </p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-black-outline\" href=\"gdpr-safe.html#image1-1v\" data-app-placeholder=\"Type Text\">Mission of<br>Anonymityinc<br></a>\n                        <a class=\"btn btn-md btn-primary\" href=\"http://tny.im/e-B\" data-app-placeholder=\"Type Text\">PR.COM<br>Press<br>Release<br></a> <a class=\"btn btn-md btn-secondary\" href=\"presskit.html\" data-app-placeholder=\"Type Text\">Press Kit<br></a> <a class=\"btn btn-md btn-info-outline\" href=\"dda-bios.html\" data-app-placeholder=\"Type Text\">Polymath<br>Founders<br></a> <a class=\"btn btn-md btn-warning\" href=\"gdpr-safe.html#image1-3x\" data-app-placeholder=\"Type Text\">Joint<br>Venture<br>Consulting<br>Partner<br>Intro<br></a> <a class=\"btn btn-md btn-primary-outline\" href=\"gdpr-safe.html#header6-2v\" data-app-placeholder=\"Type Text\">**Website&nbsp;Portal**<br>A 501(c)3 Solution<br>for&nbsp;Responsible<br>Security, Privacy,<br>Research, Mktg.,<br>&amp; 501(c)3 Funding <br>for&nbsp;Philanthropy<br><br></a> <a class=\"btn btn-md btn-black\" href=\"gdpr-safe.html#image1-i\" data-app-placeholder=\"Type Text\">Data Buyer&nbsp;&amp; <br>Partner Proposal<br>10+yr &amp; 1000+<br>pages of R&amp;D<br>&amp;&nbsp;Best Practices<br></a> <a class=\"btn btn-md btn-secondary-outline\" href=\"contact2.html\" data-app-placeholder=\"Type Text\">Contact DDD for<br>Deposits, LOIs,<br>Donations, Equity<br>Bids &amp; Questions<br></a></div>\n            </div>\n\n            <div mbr-video class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <iframe src=\"https://embed.ted.com/talks/jonathan_harris_tells_the_web_s_secret_stories?loop=1&autoplay=1\"></iframe>\n            </div>\n\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header7\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Media On Right/Left\" name=\"reverseContent\" checked>\n\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"55\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#f4a997\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" name=\"color2\" title=\"Color 2\" value=\"#149dcc\" condition=\"bg.type=='color'\" selected>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n\n            <div class=\"media-content align-right\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><i><div style=\"font-size: 12px; color: darkblue; margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px; line-height: 20px; vertical-align: baseline; \">dMusic <a href=\"gdpr-safe.html#social-buttons3-4z\" style=\"line-height: 18px;\"><u><i>here</i></u></a>; Directions <a href=\"http://tny.im/f5y\" style=\"line-height: 18px;\"><u><i>here</i></u></a>; Easy, upbeat; currently: <u>Mary Chapin Carpenter</u>/<b>Stones in the Road</b></div><span style=\"font-size: 12px; font-family:'Patua One'; color: blue; margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px; line-height: 18px; font-weight: normal;\">.</span></i><span style=\"line-height:1.3;\"><br></span><b>Digitally Dominant Data, Anonymityinc.net &amp; the Anonymous Psychometric Research Data Market of <font color=\"#191970\">'Comparative Insight'</font></b></h1>\n                <div class=\"mbr-section-text mbr-white pb-3\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><span style=\"color: darkblue;\"><i><b><u>We are the New People's Champions of Socially Responsible Security, Privacy, Research, Marketing &amp; Funding for worthy R&amp;D Philanthropy; We Harness&nbsp;Psychometrics, Biometrics &amp; Anonymity, while monitoring usage &amp; impact to insure integrity for this noble endeavor, for INSIGHT</u>. &nbsp;</b>We are offering to openly share &amp; spread this model/ concept &amp; technologies with reporters, futurists, business/social &nbsp;celebrities &amp; social technology poloymaths like ourselves, who can see the convergence &nbsp;of philanthropy, technology, psychometrics, history, culture, religion, politics, music celebrities and BIG Data marketing, that will harness the potential of mankind's cognitive surplus for social good. &nbsp;See the magic words in our highlighted <b>500 &amp; 329 character statements</b> below (what we do &amp; its' simple <b>keys</b>), followed by our <a href=\"gdpr-safe.html#image1-1v\"><u><b><i>mission</i></b></u></a> statement.</i></span><br><br><b>ANONYMITYINC (<span style=\"background-color: wheat;\">THE FRAMEWORK OF RESEARCH &amp; PHILANTHROPIC INTEGRITY</span>):</b> &nbsp;This is a zero risk offer for everyone, with <b>significant</b> <u>security, privacy, psychometric insight, goodwill &amp; financial </u><b>value.</b>  We’ve ‎mastered the <b>art</b> of applied anonymous psychometrics for socially <b>responsible</b> scientific, social &amp; business <b>research</b> &amp; remarketing ‎that <b>funds</b> philanthropy. &nbsp;<span style=\"background-color: wheat;\">We<b> (a)</b> address corporate security &amp; privacy data responsibility &amp; liabilities <b>(b) </b>by licensing people’s data as ‎a trusted, 3rd party <u>liability mitigation &amp; consumer rights</u> 501(c)3,<b> (c)</b> making all their data <u>anonymous but invaluable</u> w/ psychometric, ‎social &amp; geo-demographic tags, <b>(d)</b> for <b>socially responsible</b> research &amp; remarketing, <b>(e) </b>that <b>funds</b> their 501(c)3 philanthropy,<b> (f)</b> based on popularity ‎&amp; its’ <u>social impact rating</u>; <b>(g)</b> w/ all data monitored for <u>socially responsible usage &amp; anonymity</u></span> ('Anonymos' in ancient Greece meant <b>'nameless'</b>).<br><br><b>SERVICES: &nbsp;THIS IS A 501(c)3 SOLUTION FOR:</b> SECURITY, PRIVACY &amp; SOCIALLY RESPONSIBLE RESEARCH, MARKETING &amp; FUNDING THAT BENEFITS PHILANTHROPY, and ‎the anonymous psychometric data market (invaluable psychometric research data &amp; services – <span style=\"background-color: wheat;\"><u><b>sold as a charitable CSR donation of social ‎responsibility</b></u></span>). &nbsp;Similarly, we offer <b>a dozen+ consulting services from</b> GDPR, 501(c)3, BIG data &amp; psychometric research consulting (managing privacy liability, research, marketing, funding, CSR, etc.)... <b>to marketing &amp; managing socially responsible data usage and 501(c)3 social impact ratings </b>for Anonymityinc (<u>anonymous psychometric data that benefits philanthropy</u>), that now also includes a host's referral income of up to $0.05/member/day, in addition to extended data access. &nbsp;<br><br><b>FEATURES: Predict</b> behavior to stimuli, needs, motivations &amp; values; <b>eliminate</b> security &amp; privacy concerns; <b>secure</b> &amp; ‎support <b>501(c)3 ‎R&amp;D </b>philanthropy/funding; <b>fuel </b>invaluable market &amp; medical research;<b> integrity</b> guaranteed-by-design; <b>‎no</b> purchase required; <b>GDPR </b>compliant; <b><u>tax deductible ‎‎501(c)3 data &amp; services</u></b> (that’s <b>right</b>, buying invaluable research data <b><u>found nowhere else </u></b>that benefits philanthropy).‎  <span style=\"background-color: wheat;\"><u>Total <b>anonymity</b>, ‎<b>philanthropy</b> ‎&amp; program creditability/<b>integrity-by-design</b></u> are the keys to gain the people’s <b>trust</b>, and <u>psychometric + ‎behavior tags</u> are the ‎keys to ‎unlock the scientific &amp; marketing <u>research potential</u>&nbsp;(insight) value of <b>licensed anonymous </b>psychometric data. &nbsp;The invaluable common value is <b><u>anonymous psychometric comparative insight</u></b></span>‎: ‎ From <b>(a) </b>what other people like you think ( 1/16th of the population by personality archetype) for comparison purposes, to <b>(z)</b> the predictable behavior by males, this age range, Facebook users, mobile device, these best hours, to this stimuli, in this zip code OR based on this event... and <b>(b-y)</b>, everything else in between. &nbsp;Because it is anonymous, it can have that level of detail - e.g. <u>All of the other related research data you ever wanted to know</u>. &nbsp;<br><br><b>PROCESS: </b>&nbsp;We authenticate people’s monitored/tracked data, analyze the data - adding psychometric &amp; emotion tags, insure it is anonymous, sell it ‎&amp; as 501(c)3 for socially responsible research, pay off process costs, convert 50% of residual to the donor’s 501(c)3, and 50% to 501(c)3’s by ‎popularity &amp; social impact rating.‎ &nbsp;<b>The process is \"self-fulfilling\" if (A) it always starts with </b>the \"anonymous psychometric insight\" &amp; Goodwill as a 501(c)3 tax deductible service (like tax processors) for data buyers, as that <b>(B)</b>&nbsp;provides strategic focus for our consulting services, with insight &amp; more for our hosts, guaranteed by our \"Integrity-by-Design\" (monitor the social impact of causes &amp; socially responsible data usage).&nbsp;<br><br><b>THE FUTURE PSYCHOMETRIC RESEARCH INSIGHT &amp; PHILANTHROPIC LANDSCAPE: &nbsp;</b>Harnessing anonymous psychometric research data for socially responsible use, will <b>transform</b> ‎the extraordinary value of ‎anonymous market research into a ‎<b>extraordinary</b> amount of social ‎<b>impact</b> &amp; business <b>intelligence.</b> &nbsp;Here, anonymous social ‎interaction data becomes a <i>social ‎</i>currency for people &amp; ‎their causes, along with a <u>foundation</u> for actionable business insight.‎ &nbsp;In addition to being <b>“the ‎socially responsible thing to do”</b>, the service provides helpful*&nbsp;<span style=\"background-color: wheat;\"><u>anonymous psychometric comparison insight ('Public Interest &amp; Scientific Research, respective to the GDPR)</u></span>, from members ‎w/ ‎similar ‎personality &amp; social, geo-demographic tags (<b>people like me</b>), on <u>almost</u> any topic‎. &nbsp;<b>Albeit anonymous</b> ‎‎(protecting privacy) and *helpful, licensed &amp; socially responsible DEEP data research adds pattern analysis &amp; behavior prediction ‎‎(<b>insight</b>) to all ‎of our sponsor's &amp; host's remarketing data.‎<br><br><b>MANAGEMENT CONSULTING PARTNER CANDIDATES: </b>Please see section II below, aka <u>our \"sweet\" deal</u>. &nbsp;Before franchising, with 100-1000+ people (+ support) involved, with <b>something invaluable to offer every organizatio<u>n</u></b> - e.g. GDPR, 501(c)3, Big Data, Psychometric research, high end IT/BI and Anonymityinc (xbenefit to 501(c)3s by social impact, social credit), considering the <b>on-going</b>, growing returns &amp; most importantly <b>the data</b>, <u>we'll let your actuaries guess the value</u> (but it's pretty big if you had my <b>522 word story</b> above, history, research &amp; <u>much</u> more). What we want from our ten year vision, is to see it come to fruition, like a child growing up. &nbsp;We only want a small piece of something that is bigger than anyone could imagine... <b>that is </b>until we start releasing some of the other unique technology we've figuratively stumbled upon in taking a polymath's approach (P vs NP) to things, e.g. Seeing the patterns, or not - <b>what you didn't know that you didn't know</b> - most people have no idea that that is creativity (and the secret of marketing), and why DDD's first rule of research is: <u>Assume nothing, plan for everything</u> (e.g. Take every point of view, and more).<br><br><b>JONATHAN HARRIS' VIDEO&nbsp;</b>(from 2007) inspired our thinking these past 10+ years; albeit his was interactive vs. anonymous, the similarity is research <u>based on passive observance</u>. &nbsp;And as compared to social geo-demographics, we're applying <b>biometrics </b>to distinguish emotional character and <b>psychometrics </b>research based on society's 2500 year old study of <u>needs, motivations and values</u>, expressed as pattern analysis and behavioral predictability (probability stimulus to response). &nbsp; Effectively, Digitally Dominant Data, via its' plethora of professional consulting, marketing &amp; research services, highlighting GDPR-SAFE™‎, ‎501c3-SME™, Psychometric research‎ &amp; our philanthropy club, Anonymityinc.net™, is <b>merging psycho-analysis with Big Data &amp; anonymity, </b>to unlock this tech's potential. &nbsp; &nbsp;<br>\n                    </p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-black-outline\" href=\"gdpr-safe.html#image1-1v\" data-app-placeholder=\"Type Text\">Mission of<br>Anonymityinc<br></a>\n                        <a class=\"btn btn-md btn-primary\" href=\"http://tny.im/e-B\" data-app-placeholder=\"Type Text\">PR.COM<br>Press<br>Release<br></a> <a class=\"btn btn-md btn-secondary\" href=\"presskit.html\" data-app-placeholder=\"Type Text\">Press Kit<br></a> <a class=\"btn btn-md btn-info-outline\" href=\"dda-bios.html\" data-app-placeholder=\"Type Text\">Polymath<br>Founders<br></a> <a class=\"btn btn-md btn-warning\" href=\"gdpr-safe.html#image1-3x\" data-app-placeholder=\"Type Text\">Joint<br>Venture<br>Consulting<br>Partner<br>Intro<br></a> <a class=\"btn btn-md btn-primary-outline\" href=\"gdpr-safe.html#header6-2v\" data-app-placeholder=\"Type Text\">**Website&nbsp;Portal**<br>A 501(c)3 Solution<br>for&nbsp;Responsible<br>Security, Privacy,<br>Research, Mktg.,<br>&amp; 501(c)3 Funding <br>for&nbsp;Philanthropy<br><br></a> <a class=\"btn btn-md btn-black\" href=\"gdpr-safe.html#image1-i\" data-app-placeholder=\"Type Text\">Data Buyer&nbsp;&amp; <br>Partner Proposal<br>10+yr &amp; 1000+<br>pages of R&amp;D<br>&amp;&nbsp;Best Practices<br></a> <a class=\"btn btn-md btn-secondary-outline\" href=\"contact2.html\" data-app-placeholder=\"Type Text\">Contact DDD for<br>Deposits, LOIs,<br>Donations, Equity<br>Bids &amp; Questions<br></a></div>\n            </div>\n\n            <div mbr-video class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <iframe src=\"https://embed.ted.com/talks/jonathan_harris_tells_the_web_s_secret_stories?loop=1&autoplay=1\"></iframe>\n            </div>\n\n        </div>\n    </div>\n</section>",
           "_cid": "qYI6hRbqLI",
           "_anchor": "header7-4d",
           "_PHPplaceholders": [],
@@ -6053,89 +6056,6 @@
         },
         {
           "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQofmtytw",
-          "_anchor": "footer5-9x",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
             "& when (@fullWidth = false)": {
               "padding-top": "(@paddingTop * 15px)",
               "padding-bottom": "(@paddingBottom * 15px)"
@@ -6174,89 +6094,6 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qWeJ5cZ4ia",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQovHHpLZ",
-          "_anchor": "footer5-9y",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -6312,89 +6149,6 @@
         },
         {
           "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQoHi4W2b",
-          "_anchor": "footer5-9z",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
             "& when (@fullWidth = false)": {
               "padding-top": "(@paddingTop * 15px)",
               "padding-bottom": "(@paddingBottom * 15px)"
@@ -6438,89 +6192,6 @@
         },
         {
           "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQoSE1Jca",
-          "_anchor": "footer5-a0",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
             "& when (@fullWidth = false)": {
               "padding-top": "(@paddingTop * 15px)",
               "padding-bottom": "(@paddingBottom * 15px)"
@@ -6557,89 +6228,6 @@
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"3\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"87\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#073b4c\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <a href=\"http://tny.im/f1a\"><img src=\"@PROJECT_PATH@/assets/images/dda.psychometric.foresight.for.businessmktg.page1.big-min-page-001a-1228x1589.jpg\" width=\"1400\" alt=\"Introduction to DDD's Psychometric Foresight\" title=\"Introduction to DDD's Psychometric Foresight\"></a>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-4\">\n                        <b><a href=\"http://tny.im/f1a\" style=\"text-decoration: underline;\"><b>Alternate download link</b></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b> <br><br><br>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><br><br></div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "qYrOrzYJVU",
           "_anchor": "image1-3y",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQp45LsM3",
-          "_anchor": "footer5-a1",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -6692,89 +6280,6 @@
         },
         {
           "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQpgycIcW",
-          "_anchor": "footer5-a2",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
             "& when (@fullWidth = false)": {
               "padding-top": "(@paddingTop * 15px)",
               "padding-bottom": "(@paddingBottom * 15px)"
@@ -6820,89 +6325,6 @@
         },
         {
           "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQpsxAcXw",
-          "_anchor": "footer5-a3",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
             "& when (@fullWidth = false)": {
               "padding-top": "(@paddingTop * 15px)",
               "padding-bottom": "(@paddingBottom * 15px)"
@@ -6935,89 +6357,6 @@
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"3\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"91\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#073b4c\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <a href=\"http://www.digitallydominantautomotive.com/DOCS/Buy.Sell.discussions.pdf\"><img src=\"@PROJECT_PATH@/assets/images/cover2-page-001a-1692x2190.jpg\" width=\"1400\" alt=\"GDPR-SAFE & 501c3 Consulting & Market Research Services Presentation\" title=\"GDPR-SAFE & 501c3 Consulting & Market Research Services\"></a>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "qVY5RIznd1",
           "_anchor": "image1-i",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQpDQm9BT",
-          "_anchor": "footer5-a4",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -7347,89 +6686,6 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQpPYQOmb",
-          "_anchor": "footer5-a5",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
@@ -7703,89 +6959,6 @@
               }
             ]
           }
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQq1xTZwi",
-          "_anchor": "footer5-a6",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
         },
         {
           "_styles": {
@@ -8066,89 +7239,6 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQqdfS6PW",
-          "_anchor": "footer5-a7",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
@@ -8414,92 +7504,6 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            },
-            ".links A": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQqnXiPub",
-          "_anchor": "footer5-a8",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
@@ -8589,92 +7593,6 @@
           "_customHTML": "<section class=\"header6\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#555555\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\" selected>\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#073b4c\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">TED...ideas worth sharing</h1>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    See the <b>TED</b> videos what shaped our research, analytics &amp; development of services related to psychometrics, research &amp; philanthropy. &nbsp;They should enlighten &amp; entertain you.</p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"http://www.ted.com/talks/lang/eng/jonathan_harris_tells_the_web_s_secret_stories.html\" data-app-placeholder=\"Type Text\">Web's Secret Stories</a>\n                        <a class=\"btn btn-md btn-white\" href=\"https://www.ted.com/talks/jesse_schell_when_games_invade_real_life\" data-app-placeholder=\"Type Text\">When Games <br>Invade Real Life<br></a> <a class=\"btn btn-md btn-secondary\" href=\"https://www.ted.com/talks/clay_shirky_how_cognitive_surplus_will_change_the_world\" data-app-placeholder=\"Type Text\">How‎ ‎Cognitive‎ ‎Surplus‎ <br>‎will‎ ‎Change‎ ‎the ‎World‎<br></a> <a class=\"btn btn-md btn-success\" href=\"http://www.ted.com/talks/seth_godin_on_the_tribes_we_lead.html\" data-app-placeholder=\"Type Text\">The‎ ‎Tribes‎ ‎<br>We‎ ‎Lead<br></a> <a class=\"btn btn-md btn-black\" href=\"http://www.ted.com/talks/dan_pink_on_motivation.html\" data-app-placeholder=\"Type Text\">‎The‎ ‎Surprising‎ ‎Science‎ <br>‎of‎ ‎Motivation‎<br></a> <a class=\"btn btn-md btn-warning\" href=\"https://www.ted.com/talks/brian_little_who_are_‎you_really_the_puzzle_of_personality\" data-app-placeholder=\"Type Text\">The Puzzle of ‎<br>Personality Psychology‎<br></a> <a class=\"btn btn-md btn-danger\" href=\"https://drive.google.com/file/d/16Z0zh0yx3Sl8npMARrfN7sUPdmlAdY4t/view?usp=sharing\" data-app-placeholder=\"Type Text\">‎Free‎ ‎Speech‎, ‎Free‎ <br>‎Minds‎ ‎&amp;‎ ‎Free‎Markets<br></a> <a class=\"btn btn-md btn-primary\" href=\"http://www.ted.com/talks/lang/en/yochai_benkler_on_the_new_open_source_economics.html\" data-app-placeholder=\"Type Text\">The‎ ‎New‎ ‎Open‎ ‎<br>Source‎ ‎Economics<br></a> <a class=\"btn btn-md btn-white\" href=\"https://www.ted.com/talks/dan_gilbert_you_are_‎always_changing ‎\" data-app-placeholder=\"Type Text\">The Psychology of<br> Your Future Self<br></a> <a class=\"btn btn-md btn-secondary\" href=\"https://www.ted.com/talks/dan_ariely_asks_are_‎we_in_control_of_our_own_decisions\" data-app-placeholder=\"Type Text\">Are We in Control of<br> Our Own Decisions?<br></a> <a class=\"btn btn-md btn-success\" href=\"https://www.ted.com/talks/jeff_hancock_3_types‎_of_digital_lies‎\" data-app-placeholder=\"Type Text\">The Future of <br>Lying<br></a> <a class=\"btn btn-md btn-black\" href=\"https://www.ted.com/playlists/374/what_your_data_reveals_about_y\" data-app-placeholder=\"Type Text\">What Your Data <br>Reveals About You<br></a></div>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "qW9OaVNewg",
           "_anchor": "header6-1l",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".media-wrap": {
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem",
-                "text-align": "center"
-              },
-              ".mbr-iconfont-logo": {
-                "font-size": "7rem",
-                "color": "#f36"
-              },
-              "img": {
-                "height": "6rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".footer-lower": {
-              ".copyright": {
-                "@media (max-width: 767px)": {
-                  "margin-bottom": "1rem",
-                  "text-align": "center"
-                }
-              },
-              "hr": {
-                "margin": "1rem 0",
-                "border-color": "#000",
-                "opacity": ".05"
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "flex-wrap": "wrap",
-                "justify-content": "flex-end",
-                "-webkit-justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.3rem",
-                  "color": "#232323"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "justify-content": "center",
-                  "-webkit-justify-content": "center"
-                }
-              }
-            },
-            ".links": {
-              "color": "#fcee0f"
-            },
-            ".links B": {
-              "color": "#fcee0f"
-            }
-          },
-          "_name": "footer5",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Data - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qYQqzZoOF3",
-          "_anchor": "footer5-a9",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -9397,8 +8315,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -9523,8 +8441,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -9646,8 +8564,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -9778,8 +8696,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -9904,8 +8822,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -11386,8 +10304,8 @@
           "_cid": "qZo96rL79A",
           "_anchor": "footer5-as",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -11514,8 +10432,8 @@
           "_cid": "qZo96BWC8F",
           "_anchor": "footer5-au",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -11645,8 +10563,8 @@
           "_cid": "qZo96G72uB",
           "_anchor": "footer5-aw",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -11771,8 +10689,8 @@
           "_cid": "qZo96Kh0Bo",
           "_anchor": "footer5-ay",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -11897,8 +10815,8 @@
           "_cid": "qZo96OzXhM",
           "_anchor": "footer5-b0",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -12025,8 +10943,8 @@
           "_cid": "qZo96Tdbb7",
           "_anchor": "footer5-b2",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -12153,8 +11071,8 @@
           "_cid": "qZo96Xqc8q",
           "_anchor": "footer5-b4",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -12275,8 +11193,8 @@
           "_cid": "qZo971AdPu",
           "_anchor": "footer5-b6",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -12678,8 +11596,8 @@
           "_cid": "qZo97dMccp",
           "_anchor": "footer5-b9",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -13039,8 +11957,8 @@
           "_cid": "qZo97ocG5k",
           "_anchor": "footer5-bc",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -13397,8 +12315,8 @@
           "_cid": "qZo97ykCZ8",
           "_anchor": "footer5-bf",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -13748,8 +12666,8 @@
           "_cid": "qZo97J4hbN",
           "_anchor": "footer5-bi",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -13932,8 +12850,8 @@
           "_cid": "qZo97QVVcu",
           "_anchor": "footer5-bl",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -14796,8 +13714,8 @@
           "_cid": "qZp1OWYQ5H",
           "_anchor": "footer5-h4",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -14924,8 +13842,8 @@
           "_cid": "qZp1P2Kixo",
           "_anchor": "footer5-h6",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -15055,8 +13973,8 @@
           "_cid": "qZp1P7QRp3",
           "_anchor": "footer5-h8",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -15181,8 +14099,8 @@
           "_cid": "qZp1Pdx9Qu",
           "_anchor": "footer5-ha",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -15307,8 +14225,8 @@
           "_cid": "qZp1Pizb9I",
           "_anchor": "footer5-hc",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -15435,8 +14353,8 @@
           "_cid": "qZp1Pnqllp",
           "_anchor": "footer5-he",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -15563,8 +14481,8 @@
           "_cid": "qZp1Pt0ZMG",
           "_anchor": "footer5-hg",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -15685,8 +14603,8 @@
           "_cid": "qZp1Pybznh",
           "_anchor": "footer5-hi",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -16088,8 +15006,8 @@
           "_cid": "qZp1PLLLs6",
           "_anchor": "footer5-hl",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -16449,8 +15367,8 @@
           "_cid": "qZp1PXKWmJ",
           "_anchor": "footer5-ho",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -16807,8 +15725,8 @@
           "_cid": "qZp1Q9RWfv",
           "_anchor": "footer5-hr",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -17158,8 +16076,8 @@
           "_cid": "qZp1Qmxz75",
           "_anchor": "footer5-hu",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
@@ -17342,8 +16260,8 @@
           "_cid": "qZp1QwaEmz",
           "_anchor": "footer5-hx",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": true,
           "_params": {}
         },
         {
