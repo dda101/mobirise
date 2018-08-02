@@ -6597,10 +6597,11 @@
             },
             "P": {
               "color": "#fcee0f",
-              "text-align": "center"
+              "text-align": "left"
             },
             "H2": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             }
           },
           "_name": "slider1",
@@ -6633,10 +6634,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Anonymityinc, the new Framework of Research &amp; Philanthropic Integrity",
+                "title": "<br>Anonymityinc, the new Framework of Research &amp; Philanthropic Integrity",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "This is a zero risk offer for everyone, with <b><i>significant</i></b> <u>security, privacy, invaluable psychometric <b><i>insight</i></b></u><b><i> </i></b>(comparison &amp; scientific research), <u>goodwill &amp; financial <b><i>value</i></b></u>. &nbsp;We have \"mastered\" the art of applied psychometrics for <b><u>socially responsible</u></b> scientific, social &amp; business <b>research</b> &amp; remarketing that <u><b>funds</b></u> <b>501(c)3 R&amp;D philanthropy</b>. &nbsp;We've planned for this 10+ years. &nbsp;Here's how we're going to do it &amp; the keys to unlocking its' potential =&gt;",
+                "text": "<b>This is a zero risk offer for everyone, with <i>significant</i> <u>security, privacy, invaluable psychometric <i>insight</i></u><i> </i>(comparison &amp; scientific research), <u>goodwill &amp; financial <i>value</i></u>. &nbsp;We have \"mastered\" the art of applied psychometrics for <u>socially responsible</u> scientific, social &amp; business research &amp; remarketing that <u>funds</u> 501(c)3 R&amp;D philanthropy. &nbsp;We've planned for this 10+ years. &nbsp;Here's how we're going to do it &amp; the keys to unlocking its' potential =&gt;</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Continue to Digitally Dominant Data:<br>GDPR-SAFE™ &amp;&nbsp;‎501c3-SME™‎ Consulting,<br>Psychometric Research Services &amp; <br>Philanthropy&nbsp;Club, Anonymityinc.net<br></a> ",
                 "overlayOpacity": "0.2"
               },
@@ -6702,7 +6703,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "(d) for socially responsible scientific research...",
+                "title": "<br>(d) for socially responsible scientific research...",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -6722,7 +6723,7 @@
                 "title": "and remarketing,",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Albeit anonymous (protecting privacy) and providing invaluable personal comparison insight, licensed and sociall responsible Deep data research, adds pattern analysis &amp; behavior prediction (insight) to all of our sponsor's and host's remarketing data.",
+                "text": "<b>Albeit anonymous (protecting privacy) and providing invaluable personal comparison insight, licensed and sociall responsible Deep data research, adds <u>pattern analysis &amp; behavior prediction (insight)</u> to all of our sponsor's and host's remarketing data.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -6739,7 +6740,7 @@
                 "title": "(e) that funds their 501(c)3 philanthropy",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "(based on - next slide)",
+                "text": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(based on - next slide)</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -6756,7 +6757,7 @@
                 "title": "(f) based on the 501(c)3's popularity &amp; its' social <u>impact</u> rating",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "(with integrity-by-design; next; note - this is the single biggest point of failure with research for charity programs - e.g. A bad charity, not delivering benefits to beneficiaries; spending its' money on awareness and organization internal benefits; see the BCG study on creating social impact)",
+                "text": "<b>(with integrity-by-design; next; note - this is the single biggest point of failure with research for charity programs - e.g. A bad charity, not delivering benefits to beneficiaries; spending its' money on awareness and organization internal benefits; see the BCG study on creating social impact)</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -6773,12 +6774,12 @@
                 "title": "(g) with all data monitored for socially responsible usage &amp; anonymity",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Anonymityinc's Integrity-by-Design monitors (1) data usage, (2) 501(c)3 vetting &amp; social impact and (3) being a psychometric research &amp; consumer rights 501(c).&nbsp;",
+                "text": "<b>Anonymityinc's Integrity-by-Design monitors (1) data usage, (2) 501(c)3 vetting &amp; social impact and (3) being a psychometric research &amp; consumer rights 501(c).&nbsp;</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1440x1920.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -6787,10 +6788,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Keys1: &nbsp;Value Propositions",
+                "title": "Key 1: &nbsp;Value Propositions",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>(A) </b>The value of anonymous, authenticated, psychometric comparative <b>insight</b>&nbsp;for everyone<br><b>(B)</b> Offering deep psychometric research data as a 501(c)3 charitable CSR donation for philanthropy (insuring recovery plus Goodwill, and a socially responsible buyer for our host consulting).",
+                "text": "<b>(A) The value of anonymous, authenticated, psychometric comparative insight&nbsp;for everyone<br>(B) Offering deep psychometric research data as a 501(c)3 charitable CSR donation for philanthropy (insuring recovery plus Goodwill), and (c) A socially responsible buyer for our host consulting.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -6804,10 +6805,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Keys2: &nbsp;Trust",
+                "title": "Key 2: &nbsp;Trust",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Total Anonymity, Philanthropy &amp; Program Creditability/Integrity</b>&nbsp;are the keys to gain the people's and the host's trust - as provided by our simple explanation - it's easy to make data anonymous but invaluable with psychometric, social and geo-demographic <b>tags,</b>&nbsp;so we just have to monitor data for socially responsible usage and monitor the charities for social impact.<br><br>This is likely the key failure of most support for charity programs. &nbsp;The majority of funds raised for a social organization should be measured by the impact on the program's beneficiaries.",
+                "text": "<b><u>Total Anonymity, Philanthropy &amp; Program Creditability/Integrity</u>&nbsp;are the keys to gain the people's and the host's trust - as provided by our simple explanation - it's easy to make data anonymous but invaluable with psychometric, social and geo-demographic tags,&nbsp;so we just have to monitor data for socially responsible usage and monitor the charities for social impact.<br><br>This is likely the key failure of most support for charity programs. &nbsp;The majority of funds raised for a social organization should be measured by the impact on the program's beneficiaries.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -6821,10 +6822,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Keys3: &nbsp;Integrity-by-design Framework",
+                "title": "Key 3: &nbsp;Integrity-by-design Framework",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Psychometric &amp; Behavior tags and anonymous authentication </b>are the keys to unlock the scientific &amp; marketing research potential (<b>insight</b>) value of <b>licensed, anonymous</b>&nbsp;personal data (that you won't find anywhere else, with such insight, exactly because it is all anonymous but authenticated).",
+                "text": "<b><u>Psychometric &amp; Behavior tags and anonymous authentication</u> are the keys to unlock the scientific &amp; marketing research potential (insight) value of licensed, anonymous&nbsp;personal data (that you won't find anywhere else, with such insight, exactly because it is all anonymous but authenticated).</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -6841,7 +6842,7 @@
                 "title": "DIGITALLY DOMINANT DATA PSYCHOMETRIC RESEARCH SOLUTIONS:  GDPR-SAFE™ &amp; 501c3-‎SME™ <b><u>BIG Data</u></b> Consulting, <u>Psychometric</u> Research and <u>Philanthropy</u> Club, Anonymityinc.net™ &amp; ‎the anonymous psychometric research market (sponsored psychometric behavior &amp; pattern research)‎",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "A 501(c)3 SOLUTION FOR SECURITY, PRIVACY &amp; SOCIALLY RESPONSIBLE RESEARCH, MARKETING &amp; FUNDING THAT BENEFITS PHILANTHROPY, and ‎the anonymous psychometric data market (invaluable psychometric research data &amp; services – sold as a charitable CSR donation of social ‎responsibility)‎",
+                "text": "<b>A 501(c)3 SOLUTION FOR <u>SECURITY, PRIVACY &amp; SOCIALLY RESPONSIBLE RESEARCH, MARKETING &amp; FUNDING THAT BENEFITS PHILANTHROPY</u>, and ‎the anonymous psychometric data market (invaluable psychometric research data &amp; services – sold as a charitable CSR donation of social ‎responsibility)‎</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -6858,13 +6859,13 @@
                 "title": "THE FUTURE PSYCHOMETRIC RESEARCH &amp; PHILANTHROPIC LANDSCAPE:‎",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Harnessing anonymous psychometric research data for socially responsible use, will <u><b>transform</b></u> ‎the extraordinary ‎value of ‎anonymous market research into a ‎extraordinary amount of <b><u>social ‎impact &amp; business intelligence</u></b>. &nbsp; Here, ‎anonymous social ‎interaction data becomes a social ‎currency for people &amp; ‎their causes, along with a foundation ‎for <b>actionable business insight</b>.‎  In addition to being “the ‎socially responsible thing to do”, the service provides ‎helpful* <b><u>anonymous psychometric comparison insight</u></b> ('Public Interest &amp; Scientific Research, respective to the ‎GDPR), from members ‎w/ ‎similar ‎personality &amp; social, geo-demographic tags (<b>people like me</b>), on almost any ‎topic‎. <br><br> Albeit anonymous ‎‎(protecting privacy) and *helpful, licensed &amp; socially responsible DEEP data research ‎adds <u>pattern analysis &amp; behavior prediction</u> ‎‎(<b>insight</b>) to all ‎of our sponsor's &amp; host's <b><u>remarketing</u></b> data.‎<br><br>",
+                "text": "<b>Harnessing anonymous psychometric research data for socially responsible use, will <u>transform</u> ‎the extraordinary ‎value of ‎anonymous market research into a ‎extraordinary amount of <u>social ‎impact &amp; business intelligence</u>. &nbsp; Here, ‎anonymous social ‎interaction data becomes a social ‎currency for people &amp; ‎their causes, along with a foundation ‎for actionable business insight.‎  In addition to being “the ‎socially responsible thing to do”, the service provides ‎helpful* <u>anonymous psychometric comparison insight</u> ('Public Interest &amp; Scientific Research, respective to the ‎GDPR), from members ‎w/ ‎similar ‎personality &amp; social, geo-demographic tags (people like me), on almost any ‎topic‎. <br><br> Albeit anonymous ‎‎(protecting privacy) and *helpful, licensed &amp; socially responsible DEEP data research ‎adds <u>pattern analysis &amp; behavior prediction</u> ‎‎(insight) to all ‎of our sponsor's &amp; host's <u>remarketing</u> data.‎<br></b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header7-4d\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1357.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -6873,10 +6874,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "‎Digitally Dominant Data , ‎Anonymityinc.net &amp; the ‎Anonymous Psychometric ‎Research Data Market of ‎‎‘Comparative Insight’‎",
+                "title": "‎<br><br>Digitally Dominant Data , ‎Anonymityinc.net &amp; the ‎Anonymous Psychometric ‎Research Data Market of ‎‎‘Comparative Insight’‎",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "DDD is offering to openly share &amp; spread this model/concept &amp; technologies with reporters, futurists, business/social ‎celebrities &amp; social technology polymaths like themselves who can see the convergence of philanthropy, technology, ‎psychometrics, history, culture, religion, politics, music celebrities &amp; Big Data marketing, that will harness the potential of ‎mankind’s cognitive surplus for social good.‎",
+                "text": "<b>DDD is offering to openly share &amp; spread this model/concept &amp; technologies with reporters, futurists, business/social ‎celebrities &amp; social technology polymaths like themselves who can see the convergence of philanthropy, technology, ‎psychometrics, history, culture, religion, politics, music celebrities &amp; Big Data marketing, that will harness the potential of ‎mankind’s cognitive surplus for social good.‎</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header7-4d\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000"
               }
