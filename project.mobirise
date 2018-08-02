@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Latest DigitallyDominantAutomotive.com",
-    "currentPage": "gdpr-safe.html",
+    "currentPage": "contact1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6592,16 +6592,19 @@
               "z-index": "auto"
             },
             "P": {
-              "color": "#fcee0f"
+              "color": "#fcee0f",
+              "text-align": "left"
             },
             "H2": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "slider1",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
           "_cid": "qZtqfCMZZ2",
           "_anchor": "slider1-n0",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -6805,7 +6808,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -6839,6 +6842,24 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1357.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=jz_QaSnlN6Q",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "THE FUTURE PSYCHOMETRIC RESEARCH &amp; PHILANTHROPIC LANDSCAPE:‎",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Harnessing anonymous psychometric research data for socially responsible use, will <u><b>transform</b></u> ‎the extraordinary ‎value of ‎anonymous market research into a ‎extraordinary amount of <b><u>social ‎impact &amp; business intelligence</u></b>. &nbsp; Here, ‎anonymous social ‎interaction data becomes a social ‎currency for people &amp; ‎their causes, along with a foundation ‎for <b>actionable business insight</b>.‎  In addition to being “the ‎socially responsible thing to do”, the service provides ‎helpful* <b><u>anonymous psychometric comparison insight</u></b> ('Public Interest &amp; Scientific Research, respective to the ‎GDPR), from members ‎w/ ‎similar ‎personality &amp; social, geo-demographic tags (<b>people like me</b>), on almost any ‎topic‎.  Albeit anonymous ‎‎(protecting privacy) and *helpful, licensed &amp; socially responsible DEEP data research ‎adds <u>pattern analysis &amp; behavior prediction</u> ‎‎(<b>insight</b>) to all ‎of our sponsor's &amp; host's <b><u>remarketing</u></b> data.‎",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header7-4d\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1357.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": false,
@@ -6856,9 +6877,7 @@
                 "overlayColor": "#000000"
               }
             ]
-          },
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          }
         },
         {
           "_styles": {
