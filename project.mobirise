@@ -90,7 +90,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-121222214-1');\r\n</script>\r\n",
     "siteUrl": "http://www.digitallydominantautomotive.com",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 859,
+    "uniqCompNum": 864,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on",
@@ -660,7 +660,7 @@
       "settings": {
         "meta_descr": "Automotive Industry CRM 3.0, Psychometric Foresight, OBD-II, Philanthropy & more like:  Telematics, IFTTT/IoT, OBD-II, Psychometrics (DISC/OCEAN/Crystal), Linkedin, Media, OEM Research, GDPR, Relationship Reports, Advanced REST integration, Artificial Intelligence, ‎Personas/ Personality Foresight Support “as a Service”, Business Intelligence, DevOps, Social, Mobile, Cloud, Security-by-Design (AI) & CRM 3.0 Research, Changes, Findings, Markets & ‎more.\n\nKEY service offerings include:  (1) ODB-II SMART CODES, Red Carpet Services & Philanthropy, (2) Psychometric Equity-Opportunity Mining & Philanthropy, (3) Automobile Psychometrics for Dynamic Web Marketing & Sales, (4) CRM 3.0 for Auto Dealerships, (5) Enterprise Infrastructure, (6) Auto Videos (Used; Virtual Test Drives; Inventory) and (7) Philanthropy ",
         "title": "DDA Auto Solutions, V1: OBD-II, EquityMining and Psychometrics",
-        "order": 11,
+        "order": 14,
         "header_custom": "<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js'></script>\n<script type='text/javascript' src='loadImg.js'></script>\n<script type='text/javascript'>\n    $(function(){\n        $('img').imgPreload()\n    })\n</script>\n<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js'></script>\n<script type='text/javascript' src='loadImg.js'></script>\n<script type='text/javascript'>\n    $(function(){\n        $('img').imgPreload()\n    })\n</script>",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
@@ -2606,7 +2606,7 @@
       "settings": {
         "meta_descr": "Digitally Dominant Automotive (DDA) Solutions offers cutting edge technologies, apps, service programs, market research & consting.  This includes, but is not limited to GDPR-SAFE Management Consulting and Market Research Services (& Philanthropic CLUB), 501(c)3 Consulting, OBD-II SMART Codes, IFTTT (IoT; Messaging), AutomatServices, Primary Car Dealers, Equity Management & Philanthropy, Psychometric Equity-Opportunity Mining, Client-Salesperson Communications & Strategies, Auto Psychometrics - Consumer Research & BI for Marketing & Sales, CRM 3.0, Enterprise Infrastructure, Philanthropy (from Anonymous Data) & MORE! Now accepting pre-orders for anonymous data sales, and partnership bids from management consultancies.  Contact us today at pnakata@digitallydominantautomotive.com or (303) 800-5766. \n\nOBD-II    Connected-Car    IoT-IFTTT   Telematics    Equity-Mining-Matching    CRM3‎ Personality-Psychometrics  Tags  Android AI Edmunds Expert-Systems OEMs  ‎Analytics     Infrastructure (web, mobile, cloud)  Dealers  Facebook Agile   ‎Architecture (SOA)   Development (Security, UML, APIs, DevOps, Web-Services)    ‎Content Management   Branding    CarPlay    DMS   Integration (REST, SOAP, ‎RPC)    Crystal  iPhone  CRM    GMAIL    ERP    vAuto   3rd-Party-Automotive-Data     ‎eCommerce    Corporate-Social-Responsibility    Digital-Marketing   Android-Auto  Email   ‎SMS    GDPR   Car-VIDEOS  vAuto  Google   Social-Media Field-Services  Market-‎Research    Consulting   FFM    OEMs  eBusiness  Dealerships  KBB  MBTI    Linkedin    ‎Automated-Service     Remote-Diagnostics  Automatic   YouTube    Philanthropy  ‎Social Responsibility CSR (Corporate Social Responsibility) Amazon market research     Public ‎Interest     Medical Research     Auto Safety Research    Emissions Research  Big6  Urban Planning\n",
         "title": "(DDA HOME) Digitally Dominant Automotive",
-        "order": 7,
+        "order": 10,
         "header_custom": "<meta name=\"google-site-verification\" content=\"W1F8EL_2JHTTqF-9XdmjrCVtKasOpMnIq-WHBsWR024\" />\n<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js'></script>\n<script type='text/javascript' src='loadImg.js'></script>\n<script type='text/javascript'>\n    $(function(){\n        $('img').imgPreload()\n    })\n</script>\n<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js'></script>\n<script type='text/javascript' src='loadImg.js'></script>\n<script type='text/javascript'>\n    $(function(){\n        $('img').imgPreload()\n    })\n</script>\n",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
@@ -4555,7 +4555,7 @@
         "header_custom": "",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -5104,7 +5104,7 @@
       "settings": {
         "meta_descr": "Digitally Dominant Data's page:  A personal introduction by Phillip Nakata, who has been involved with GDPR security & privacy issues since 1997.  Links to (1) Key facts & DDD Offerings, (2) do's and don'ts, (3) GDPR Security Strategy, and (4) GDPR-SAFE™ Reference Guide",
         "title": "DDD GDPR-SAFE™ Consulting",
-        "order": 10,
+        "order": 13,
         "header_custom": "",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": ""
@@ -5644,7 +5644,7 @@
       "settings": {
         "meta_descr": "The DDD (div. of DDA) Partner Landing Page that reflects the mission and core principles of our offering:  namely, our processes that addresses everyone's security & privacy issues, by making market research data anonymous but invaluable w/psychometric & social-geo-demographic tags, revealing the multiple traits & patterns of psychological archetypes & multi-dimensional analysis of each person's needs, motivations, value systems & experiences*... 10+ years in the making*... Our data reveals these highly predictable (probable) individual traits & behavior patterns by anonymous psychometric tags (the most *insightful metric), albeit 100% anonymous (e.g. Identities/names removed; multi-group & psychometric tags inserted; Big Data analytics applied).  ",
         "title": "Landing Page for DDD - GDPR-SAFE™, 501c3-SME™ and AnonymityInc.net™‎",
-        "order": 6,
+        "order": 9,
         "header_custom": "",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
@@ -6192,7 +6192,7 @@
       "settings": {
         "meta_descr": "Resources and information for reporters, publishers, futurists, business/social celebrities & social technology polymaths ‎like the founders.  We love press, here’s everything you need to put your story together as well as how to reach us.  Includes: Founders BIOs, YouTube, Logos, Landing pages, Founders Intro, Marketing profile, Messaging, Graphics, Forms, GDPR-SAFE Consulting, GDPR Chapters/Articles, GDPR Dos and Donts, 501c3-SME Consulting, Psychometrics (auto indus.), AnonymityInc Countdown, AnonymityInc Subscription, DDD Contact, DDD RFPs and BIDs, DDA Home, DDD Cover page and DDD Contact.",
         "title": "DDD Press Kit",
-        "order": 5,
+        "order": 8,
         "header_custom": "",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": ""
@@ -6740,7 +6740,7 @@
       "settings": {
         "meta_descr": "A Socially Progressive & Effective 501(c)3 (PENDING)  ‎Response* to the GDPR... AKA Anonymous Research Data SALE that Supports Data Donor’s Philanthropy”‎ that is also driven by 501(c)3 consulting that helps business secure funding for their R&D as a 501(c)3.  We allow people to license their 100% Anonymous (No identity) ‎Personal-Social Trait & Behavioral Data to DDA, as licensee/controller.‎  The service generates funding for people's social causes from 50% of the profits of anonymous data sales for socially responsible research (and remarketing).  The service's integrity is maintained by watchdog services reporting the social impact of each 501(c)3 supported, and data monitoring insuring the socially responsible use of people's albeit anonymous data.  The focus of the service is Article 89 of the GDPR, related to market research that is of Public Interest, Scientific or Historical statistics.  Minimum anticipated cash flow: $50 Million year one.  A no-lose proposition; exceptional philanthropic/CSR value,  Based on 10+ years research, planning and developments.",
         "title": "DDD Psychometric Insight Solutions, V1: GDPR-SAFE™, 501c3-SME™ and AnonymityInc.net™‎",
-        "order": 8,
+        "order": 11,
         "header_custom": "<script language=\"JavaScript\">\n<!--\nfunction changetext(did)\n{\n\t\tvar value = document.getElementById(did).style.display;\n\t\t\n\t\tif(value == \"block\"){\n\t\t\tdocument.getElementById(did).style.display = \"none\";\n\t\t\t//document.getElementById(did).style.display = \"none\";\n\t\t\t//document.getElementById(did).style.display = \"none\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(did).style.display = \"block\";\n\t\t\t//document.getElementById(did).style.display = \"block\";\n\t\t\t//document.getElementById(did).style.display = \"block\";\n\t\t}\n\t\t\n\t}\n-->\n\t</script>\n<script>\nfunction aud_play_pause() {\n var myAudio = document.getElementById(\"myAudio\");\n if (myAudio.paused) {\n  myAudio.play();\n } else {\n  myAudio.pause();\n }\n}\n</script>\nsection:last-of-type {\ndisplay:none\n}\n<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js'></script>\n<script type='text/javascript' src='loadImg.js'></script>\n<script type='text/javascript'>\n    $(function(){\n        $('img').imgPreload()\n    })\n</script>",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": ""
@@ -11084,7 +11084,7 @@
       "settings": {
         "meta_descr": "DDD’s DATA & RESEARCH CONSULTING SERVICE OPPORTUNITIES* include but are not limited to: (1) GDPR-SAFE™ Consulting Solutions -‎‎ ‎mitigate your data privacy liability with DDD’s full services which range from seminars, to assessments, to on-going audits, to ‎alignment of ‎interests w/AnonymityInc, (2) 501c3-SME™ Consulting Solutions, that aids the ‎socially responsible R&D of our clients, ‎secure needed ‎funds by becoming a 501(c)3, (3) AnonymityInc.net Hosting - sourcing anonymous data donor candidates from ‎host subscribers for ‎research & host/subscriber benefits, and (4) AnonymityInc.net Sponsoring - buying targeted, insightful, anonymous psychometric ‎data), from ‎‎(5) DDD's Psychometric Research & Philanthropy Services Club, AnonymityInc.net™.‎ ‎ \n‎ \n‎>>>  SPONSOR, THEN HOST STRATEGY: As compared with other research programs that support philanthropy, DDD’s strategic ‎approach ‎starts by first visiting sponsors with our philanthropic, psychometric research data offer & the consulting tools to ‎secure most ‎host markets (our funding, business, or protection offer), before visiting hosts w/ those consulting tools  (e.g. ‎‎Always ask first what data ‎they want to buy, before asking what data they have to sell).  We thus visit most hosts for our consulting with 1+ ‎big anonymous data buyers ‎in hand.‎  \n‎ \n‎>>>  INSIGHT & GREATER PRODUCTIVITY: DDD's consulting also addresses (a) BIG data Consulting, and its' close cousin (b) manipulating ‎Highly ‎Secure Legacy/ Enterprise/Cloud data, like it was simple middleware, by writing intelligent interpreters for the message ‎handlers, (c) ‎automotive data engineering (our DDA role), and (d) psychometrics for: recruiting, training, team building, sales, conflict ‎resolution, ‎career counseling & more; the Fortune 500 lives on its’ consistent, proven performance & communication logic.  \n",
         "title": "DDD Pages: Sections I-VI",
-        "order": 9,
+        "order": 12,
         "header_custom": "<script language=\"JavaScript\">\n<!--\nfunction changetext(did)\n{\n\t\tvar value = document.getElementById(did).style.display;\n\t\t\n\t\tif(value == \"block\"){\n\t\t\tdocument.getElementById(did).style.display = \"none\";\n\t\t\t//document.getElementById(did).style.display = \"none\";\n\t\t\t//document.getElementById(did).style.display = \"none\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(did).style.display = \"block\";\n\t\t\t//document.getElementById(did).style.display = \"block\";\n\t\t\t//document.getElementById(did).style.display = \"block\";\n\t\t}\n\t\t\n\t}\n-->\n\t</script>\n",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
@@ -12265,7 +12265,7 @@
       "settings": {
         "meta_descr": "Digitally Dominant Automative/Data (DDA & DDS) Founder BIOs",
         "title": "BIOs",
-        "order": 4,
+        "order": 7,
         "header_custom": "",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": ""
@@ -12952,7 +12952,8 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Anonymityinc Subscribe",
-        "order": 3
+        "order": 6,
+        "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
       "components": [
         {
@@ -13415,7 +13416,7 @@
       "settings": {
         "meta_descr": "Consent Description and link to Anonymityinc.net licensing of anonymous psychometric research data for socially responsible research & remarketing that benefits each anonymous data donor's philanthropy",
         "title": "Consent - Full",
-        "order": 2,
+        "order": 5,
         "header_custom": "",
         "footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
@@ -13848,6 +13849,904 @@
           "_customHTML": "<section class=\"header5\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/img/03.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#7fd9fc\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" name=\"color2\" title=\"Color2\" value=\"#6576aa\" condition=\"bg.type=='color'\" selected>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\"><br><br><br>Digitally Dominant Automotive's Full Consent Description and link to Anonymityinc's Registration of Visitor's Anonymous Research Data that benefits your 501(c)3 R&amp;D / Community / Philanthropy</h1>\n                <p class=\"mbr-text align-center display-5 pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Anonymityinc.net is the new framework of Psychometric Research Insight &amp; Philanthropic Integrity.  We (a) address corporate ‎security &amp; data privacy responsibilities &amp; liabilities, by (b) licensing people's anonymous personal data as a trusted 3rd party liability ‎mitigation &amp; consumer rights 501(c)3‎, that (c) sells our client's anonymous but invaluable psychometric data as a tax deductible - e.g. ‎For 501(c)3 R&amp;D Philanthropy, ‎(d) making all of people's data anonymous (nameless) but invaluable with psychometric (6-10 traits), ‎social &amp; geo-‎demographic 'tags' (anonymous; non-specific)‎, ‎(e) for socially responsible scientific research, and (f) socially ‎responsible remarketing, ‎(g) that funds each anonymous data donor’s 501(c)3 philanthropy… ‎(h) based on the 501(c)3's popularity ‎&amp; its' social impact rating‎, with ‎(i) all data monitored for socially responsible usage &amp; anonymity‎.‎\n<br>\n<br><b>Key 1 – Value Propositions:</b>  <b>‎(A)</b> The value of anonymous, authenticated, psychometric comparative insight for everyone  ‎\n<br>‎<b>(B)</b> Offering deep psychometric research data as a 501(c)3 charitable CSR donation for philanthropy (insuring recovery ‎plus ‎Goodwill), and  <b>(C)</b> a socially responsible buyer for our host consulting.‎\n<br>\n<br><b>Key 2 - Trust = Anonymity, Philanthropy &amp; Integrity-by-design: </b> Total Anonymity, Philanthropy &amp; Program Creditability/Integrity are ‎the keys to gain the people's and the host's trust.  It's ‎easy to make data anonymous but invaluable with psychometric, social and ‎geo-demographic tags; we just have to ‎monitor data for socially responsible usage &amp; monitor the charities for social impact.‎\n<br>\n<br><b>Key 3 - Integrity-by-design Framework:</b>  Psychometric &amp; Behavior tags and anonymous authentication are the keys to unlock the ‎scientific &amp; marketing research ‎potential (insight) value of licensed, anonymous personal data - that you won't find anywhere else, ‎with such insight, ‎exactly because it is all anonymous but authenticated.‎\n<br>‎\n<br>These services are provided by <b>DIGITALLY DOMINANT DATA’s RESEARCH SOLUTIONS: GDPR-SAFE™ &amp; 501c3-‎SME™ BIG Data ‎Consulting, ‎Psychometric Research and Philanthropy Club, Anonymityinc.net™</b> (e.g. Anonymous psychometric research ‎market ‎‎(sponsored psychometric behavior &amp; pattern research)‎.    This is A 501(c)3 solution for security, privacy &amp; socially ‎responsible research, marketing &amp; funding that ‎benefits philanthropy, leveraging anonymous invaluable psychometric research ‎data &amp; ‎services – <b>sold as a charitable CSR donation of social ‎responsibility.‎\n</b><br>\n<br><b>THE FUTURE PSYCHOMETRIC RESEARCH &amp; PHILANTHROPIC LANDSCAPE:‎ </b> Harnessing anonymous psychometric research data for ‎socially responsible use, will transform ‎the extraordinary ‎value ‎of ‎anonymous market research into a ‎extraordinary amount of ‎social ‎impact &amp; business intelligence. Here, ‎anonymous ‎social ‎interaction data becomes a social ‎currency for people &amp; ‎their causes, ‎along with a foundation ‎for actionable ‎business insight.‎   In addition to being “the ‎socially responsible thing to do”, the service ‎provides ‎helpful* anonymous ‎psychometric comparison insight ('Public Interest &amp; Scientific Research, respective to the ‎GDPR), ‎from ‎members ‎w/ ‎similar ‎personality &amp; social, geo-demographic tags (people like me), on almost any ‎topic‎. ‎\n<br>\n<br>Click on the button below to register the 501(c)3 R&amp;D/Community Philanthropy you wish to support.  Otherwise, donations from ‎profits of anonymous research data sold for socially responsible research &amp; remarketing will go those 501(c)3’s based on popularity ‎&amp; their social impact rating.   ‎&nbsp;<br></p>\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"http://tny.im/fkj\" data-app-placeholder=\"Type Text\">LICENSE MY ANONYMOUS DATA<br>FOR MY 501(C)3 PHILANTHROPY<br></a></div>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "r0596veOHs",
           "_anchor": "header5-nu",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "terms.html": {
+      "settings": {
+        "meta_descr": "Digitally Dominant Automotive Terms",
+        "title": "DDA Terms",
+        "order": 3,
+        "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
+        "header_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".navbar": {
+              "padding": ".5rem 0",
+              "background": "@menuBgColor",
+              "transition": "none",
+              "min-height": "77px"
+            },
+            ".navbar-dropdown.bg-color.transparent.opened": {
+              "background": "@menuBgColor"
+            },
+            "a": {
+              "font-style": "normal"
+            },
+            ".nav-item": {
+              "& span": {
+                "padding-right": "0.4em",
+                "line-height": "0.5em",
+                "vertical-align": "text-bottom",
+                "position": "relative",
+                "text-decoration": "none"
+              },
+              "& a": {
+                "display": "flex",
+                "align-items": "center",
+                "justify-content": "center",
+                "padding": "0.7rem 0 !important",
+                "margin": "0rem .65rem !important"
+              }
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".btn": {
+              "padding": "0.4rem 1.5rem",
+              ".mbr-iconfont": {
+                "font-size": "1.6rem"
+              },
+              "display": "inline-flex",
+              "align-items": "center"
+            },
+            ".menu-logo": {
+              "margin-right": "auto",
+              ".navbar-brand": {
+                "display": "flex",
+                "margin-left": "5rem",
+                "padding": "0",
+                "transition": "padding .2s",
+                "min-height": "3.8rem",
+                "align-items": "center",
+                ".navbar-caption-wrap": {
+                  "display": "-webkit-flex",
+                  "-webkit-align-items": "center",
+                  "align-items": "center",
+                  "word-break": "break-word",
+                  "min-width": "7rem",
+                  "margin": ".3rem 0",
+                  ".navbar-caption": {
+                    "line-height": "1.2rem !important",
+                    "padding-right": "2rem"
+                  }
+                },
+                ".navbar-logo": {
+                  "font-size": "4rem",
+                  "transition": "font-size 0.25s",
+                  "& img": {
+                    "display": "flex"
+                  },
+                  ".mbr-iconfont": {
+                    "transition": "font-size 0.25s"
+                  }
+                }
+              }
+            },
+            ".navbar-toggleable-sm .navbar-collapse": {
+              "justify-content": "flex-end",
+              "-webkit-justify-content": "flex-end",
+              "padding-right": "5rem",
+              "width": "auto",
+              ".navbar-nav": {
+                "flex-wrap": "wrap",
+                "-webkit-flex-wrap": "wrap",
+                "padding-left": "0",
+                ".nav-item": {
+                  "-webkit-align-self": "center",
+                  "align-self": "center"
+                }
+              },
+              ".navbar-buttons": {
+                "padding-left": "0",
+                "padding-bottom": "0"
+              }
+            },
+            ".dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                "display": "none",
+                "position": "absolute",
+                "min-width": "5rem",
+                "padding-top": "1.4rem",
+                "padding-bottom": "1.4rem",
+                "text-align": "left",
+                ".dropdown-item": {
+                  "width": "auto",
+                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
+                  "&::after": {
+                    "right": "0.5rem"
+                  }
+                },
+                ".dropdown-submenu": {
+                  "margin": "0"
+                }
+              },
+              "&.open > .dropdown-menu": {
+                "display": "block"
+              }
+            },
+            ".navbar-toggleable-sm": {
+              "&.opened:after": {
+                "position": "absolute",
+                "width": "100vw",
+                "height": "100vh",
+                "content": "''",
+                "background-color": "rgba(0, 0, 0, 0.1)",
+                "left": "0",
+                "bottom": "0",
+                "transform": "translateY(100%)",
+                "-webkit-transform": "translateY(100%)",
+                "z-index": "1000"
+              }
+            },
+            ".navbar.navbar-short": {
+              "min-height": "60px",
+              "transition": "all .2s",
+              "& .navbar-toggler-right": {
+                "top": "20px"
+              },
+              "& .navbar-logo a": {
+                "font-size": "2.5rem !important",
+                "line-height": "2.5rem",
+                "transition": "font-size 0.25s",
+                "& .mbr-iconfont": {
+                  "font-size": "2.5rem !important"
+                },
+                "& img": {
+                  "height": "3rem !important"
+                }
+              },
+              "& .navbar-brand": {
+                "min-height": "3rem"
+              }
+            },
+            "button.navbar-toggler": {
+              "width": "31px",
+              "height": "18px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "top": "1.5rem",
+              "right": "1rem",
+              "&:focus": {
+                "outline": "none"
+              },
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".collapsed": {
+              "&.navbar-expand": {
+                "flex-direction": "column"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".navbar-expand": {
+                "flex-direction": "column"
+              },
+              "img": {
+                "height": "3.8rem !important"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (min-width: 767px)": {
+              ".menu-logo": {
+                "flex-shrink": "0"
+              }
+            },
+            ".navbar-collapse": {
+              "flex-basis": "auto"
+            },
+            ".nav-link:hover, .dropdown-item:hover": {
+              "color": "@itemsHoverColor !important"
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#333333\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://www.digitallydominantautomotive.com/gdpr-safe.html\">\n                         <img src=\"@PROJECT_PATH@/assets/images/dda.logo.pic-1-176x159.jpg\" alt=\"Digitally Dominant Automotive Solutions\" mbr-style=\"{'height': logoSize + 'rem'}\" title=\"Digitally Dominant Automotive Solutions\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-1v\" data-app-placeholder=\"Type Text\">Digitally Dominant<br>Automotive</a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item dropdown open\">\n                    <a class=\"nav-link link dropdown-toggle text-white\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Data Services: GDPR, Security, Anonmity, <br>Big&nbsp;Data, Monitoring,&nbsp;Psychometrics, Research, <br>Cloud, Marketing, 501(c)3 Funds, Philanthropy;<br>Tax Deductible Psychometric Data &amp; Services.</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-white\" href=\"presskit.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Press Kit (35+ items)</a><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2. &nbsp;DDA Automotive Websites</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"index.html#header2-e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">1. Digitally Dominant Automotive &nbsp;HOME</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#Header6-5b\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">1. &nbsp;DDA HOME</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"index.html#header2-e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">DDA Home</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/DOCS/Intelligent.ERP.Auto.Industry.pdf#page=7\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">SMART OBD-II, Codes, Service &amp; Philanthropy</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/DOCS/Equity Mining Major Redesign.pdf\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Equity Mining, Psychometrics &amp; Philanthropy</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f1a\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Psychometrics for Marketing, Sales, Training</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f6C\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Test Drive Videos, Expert Systems, NoSQL</a></div></div><a class=\"dropdown-item text-white\" href=\"http://tny.im/f0H\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Strategy &amp; Development Doc</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f0M\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Master Document Reference</a></div></div><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Polymath DDA &amp; DDD Founder BIOs</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/presskit.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. Press Kit including PR.COM Press &amp; Business Profile</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/partnerlanding.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. Joint Veture Consulting Partner Landing Page</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#Header7-4d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;DDD Strategic Consulting &amp;&nbsp;Psychometric Research<br>(Data &amp; Services) HOME</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">6. &nbsp;GDPR-SAFE™‎ Consulting &amp; Related Services</a><a class=\"dropdown-item text-white\" href=\"http://www.anonymityinc.net\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">7. Anonymityinc.net™ Reseach Philanthropy Club</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/dda.v1.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\"><strong>8. DDA Dealer Solutions:&nbsp;OBD-II, Equity Mining, Psychometrics</strong></a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">3. &nbsp;Digitally Dominant Data (DDD)<br>&nbsp; &nbsp; Presentation &amp; Partner Invite</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#Header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. Web Portal, Guide &amp; Partner Introduction</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#Header6-3b\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. Psychometric Research &amp; Data Services</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#Header6-3c\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. Socially Responsible Research</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#Header6-3d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. The Framework of Integrity/Monitoring</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#Header6-3e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. What's on our Horizon?</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#Header6-3g\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">6. Accepting Deposits, LOIs from Data Buyers<br>&amp; Equity Bids from Consultng Partners<br></a></div></div><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle text-white\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">4. &nbsp;DDD Start-Up Services &amp; Plans</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Founder's BIOs</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/e-B\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;PR.COM Press - 071818<br></a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f05\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Founder Mission &amp; Welcome</a><a class=\"dropdown-item text-white\" href=\"http://goo.gl/1FhMGe\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. &nbsp;Consultng Partner Joint Venture</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f0G\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;Tax Deductible, 501(c)3, Psychometric Research Data</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">5. &nbsp;DDD Research Marketing</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#Image-20\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Offerings, Candidate Mgmt. Consulting<br>&nbsp; &nbsp; &nbsp;Partners/Practices, 3 yr. Strategy &amp; Exit</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-21\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Messaging by Market - e.g. Sponsors (data buyers),<br>&nbsp; &nbsp; &nbsp;Hosts (trusted, need 1 or more of DDD services)</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#Image1-i\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Data Buyer (Sponsor) and Partner Presentation:&nbsp;<br>&nbsp; &nbsp; &nbsp;Anonymous Invaluable Psychometric Research as<br>a 501(c)3 charitable, tax deductible expense.</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><p>6. &nbsp;DDD Videos Worth Sharing</p></a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;GDPR Roles &amp; Responsibilities</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1f\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Everything About Becoming a 501(c)3</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1g\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Psychometrics: Needs, Motivations, Values</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1h\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. &nbsp;Research &amp; Philanthropy; Convergence w/tech</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#header6-1l\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;DDD Selected TED Videos: Ideas worth Sharing</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">7. &nbsp;SERVICES: Consulting, &nbsp;<br>&nbsp; &nbsp; &nbsp;Research,&nbsp;Tech &amp; Marketing</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;GDPR-SAFE™‎</a><a class=\"dropdown-item text-white\" href=\"https://drive.google.com/file/d/18EPoxmeV1zKi5pQOIfNCUT4Uauk0-yNF/view?usp=sharing\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;‎501c3-SME™‎</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f1a\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Psychometric Research++</a><a class=\"dropdown-item text-white\" href=\"http://www.anonymityinc.net\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4 &nbsp;Psychometric Data for Philanthropy</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#soundcloud1-45\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><p>8. &nbsp;Classy Web Music</p></a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#soundcloud1-45\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Selected SoundCloud</a></div></div></div>\n                </li><li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        <span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>\n                        About Us\n                    </a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-1v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Mission</a></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/contact2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\"><span class=\"mbri-upload mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Contact Us</a></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"http://www.digitallydominantautomotive.com/contact1.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span>\n                    \n                    Partners - Get<br>invited! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></div>\n        </div>\n    </nav>\n</section>",
+          "_cid": "qYNG2iVK7R",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "menu1-nv",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background": "linear-gradient(45deg, @bg-value, @color2)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "H1": {
+              "color": "#0000ff"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
+          "_name": "header5",
+          "_customHTML": "<section class=\"header5\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/img/03.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#7fd9fc\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" name=\"color2\" title=\"Color2\" value=\"#55b4d4\" condition=\"bg.type=='color'\" selected>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n                    <br><br>Digitally Dominant Automotive &amp; Data Terms</h1>\n                <p class=\"mbr-text align-center display-5 pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Welcome to Digitally Dominant Data, division of Digitally Dominant Automotive LLC</b><br>\n<br>These terms and conditions outline the rules and regulations for the use of Digitally Dominant Data, division of Digitally Dominant Automotive LLC's Website. &nbsp;&nbsp;Digitally Dominant Data, division of Digitally Dominant Automotive LLC is located at: &nbsp;90 Logan Street , Watsonville,&nbsp;CA - 95076, United States \n<br>\n<br>By accessing this website we assume you accept these terms and conditions in full. Do not continue to use Digitally Dominant Data, division of Digitally Dominant Automotive LLC's website if you do not accept all of the terms and conditions stated on this page.\n<br>\n<br>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and any or all Agreements: “Client”, “You” and “Your” refers to you, the person accessing this website and accepting the Company’s terms and conditions. “The Company”, “Ourselves”, “We”, “Our” and “Us”, refers to our Company. “Party”, “Parties”, or “Us”, refers to both the Client and ourselves, or either the Client or ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner, whether by formal meetings of a fixed duration, or any other means, for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services/products, in accordance with and subject to, prevailing law of United States. Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.\n<br>\n<br><b>Cookies\n</b><br>We employ the use of cookies. By using Digitally Dominant Data, division of Digitally Dominant Automotive LLC's website you consent to the use of cookies in accordance with Digitally Dominant Data, division of Digitally Dominant Automotive LLC’s privacy policy.\n<br>\n<br>Most of the modern day interactive web sites use cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. Some of our affiliate / advertising partners may also use cookies.\n<br>\n<br><b>License\n</b><br>Unless otherwise stated, Digitally Dominant Data, division of Digitally Dominant Automotive LLC and/or it’s licensors own the intellectual property rights for all material on Digitally Dominant Data, division of Digitally Dominant Automotive LLC. All intellectual property rights are reserved. You may view and/or print pages from http://www.digitallydominantautomotive.com/gdpr-safe.html for your own personal use subject to restrictions set in these terms and conditions.\n<br>\n<br><b>You must not:\n</b><br>Republish material from http://www.digitallydominantautomotive.com/gdpr-safe.html\n<br>Sell, rent or sub-license material from http://www.digitallydominantautomotive.com/gdpr-safe.html\n<br>Reproduce, duplicate or copy material from http://www.digitallydominantautomotive.com/gdpr-safe.html\n<br>Redistribute content from Digitally Dominant Data, division of Digitally Dominant Automotive LLC (unless content is specifically made for redistribution).\n<br>\n<br><b>Hyperlinking to our Content\n</b><br>The following organizations may link to our Web site without prior written approval: Government agencies;\nSearch engines;\nNews organizations;\nOnline directory distributors when they list us in the directory may link to our Web site in the same manner as they hyperlink to the Web sites of other listed businesses; and\nSystemwide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.\n<br>\n<br>These organizations may link to our home page, to publications or to other Web site information so long as the link: (a) is not in any way misleading; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party's site. \n<br>\n<br>We may consider and approve in our sole discretion other link requests from the following types of organizations: commonly-known consumer and/or business information sources such as Chambers of Commerce, American Automobile Association, AARP and Consumers Union; &nbsp;dot.com community sites;\nassociations or other groups representing charities, including charity giving sites, &nbsp;online directory distributors;\ninternet portals;\naccounting, law and consulting firms whose primary clients are businesses; and\neducational institutions and trade associations.\n<br>\n<br>We will approve link requests from these organizations if we determine that: (a) the link would not reflect unfavorably on us or our accredited businesses (for example, trade associations or other organizations representing inherently suspect types of business, such as work-at-home opportunities, shall not be allowed to link); (b)the organization does not have an unsatisfactory record with us; (c) the benefit to us from the visibility associated with the hyperlink outweighs the absence of ; and (d) where the link is in the context of general resource information or is otherwise consistent with editorial content in a newsletter or similar product furthering the mission of the organization.\n<br>\n<br>These organizations may link to our home page, to publications or to other Web site information so long as the link: (a) is not in any way misleading; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and it products or services; and (c) fits within the context of the linking party's site.\n<br>\n<br>If you are among the organizations listed in paragraph 2 above and are interested in linking to our website, you must notify us by sending an e-mail to pnakata@digitallydominantautomotive.com. Please include your name, your organization name, contact information (such as a phone number and/or e-mail address) as well as the URL of your site, a list of any URLs from which you intend to link to our Web site, and a list of the URL(s) on our site to which you would like to link. Allow 2-3 weeks for a response.\n<br>\n<br><b>Approved organizations may hyperlink to our Web site as follows:</b>\n<br>By use of our corporate name; or\nBy use of the uniform resource locator (Web address) being linked to; or\nBy use of any other description of our Web site or material being linked to that makes sense within the context and format of content on the linking party's site.\n<br>\n<br>No use of Digitally Dominant Data, division of Digitally Dominant Automotive LLC’s logo or other artwork will be allowed for linking absent a trademark license agreement.\n<br>\n<br><b>Iframes\n</b><br>Without prior approval and express written permission, you may not create frames around our Web pages or use other techniques that alter in any way the visual presentation or appearance of our Web site.\n<br>\n<br><b>Reservation of Rights\n</b><br>We reserve the right at any time and in its sole discretion to request that you remove all links or any particular link to our Web site. You agree to immediately remove all links to our Web site upon such request. We also reserve the right to amend these terms and conditions and its linking policy at any time. By continuing to link to our Web site, you agree to be bound to and abide by these linking terms and conditions.\n<br>\n<br><b>Removal of links from our website\n</b><br>If you find any link on our Web site or any linked web site objectionable for any reason, you may contact us about this. We will consider requests to remove links but will have no obligation to do so or to respond directly to you.\n<br>\n<br>Whilst we endeavour to ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we commit to ensuring that the website remains available or that the material on the website is kept up to date.\n<br>\n<br><b>Content Liability\n</b><br>We shall have no responsibility or liability for any content appearing on your Web site. You agree to indemnify and defend us against all claims arising out of or based upon your Website. No link(s) may appear on any page on your Web site or within any context containing content or materials that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.\n<br>\n<br><b>Disclaimer\n</b><br>To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website (including, without limitation, any warranties implied by law in respect of satisfactory quality, fitness for purpose and/or the use of reasonable care and skill). Nothing in this disclaimer will: &nbsp;limit or exclude our or your liability for death or personal injury resulting from negligence;\nlimit or exclude our or your liability for fraud or fraudulent misrepresentation;\nlimit any of our or your liabilities in any way that is not permitted under applicable law; or\nexclude any of our or your liabilities that may not be excluded under applicable law.\n<br><br>The limitations and exclusions of liability set out in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer or in relation to the subject matter of this disclaimer, including liabilities arising in contract, in tort (including negligence) and for breach of statutory duty.\n<br>\n<br>To the extent that the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.\n<br>\n<br>Anonymous, authenticated psychometric data for socially responsible research, marketing &amp; funding that benefits 501(c)3 R&amp;D Philanthropy\n<br>\n<br>Anonymityinc.net is the new Framework of Research &amp; Philanthropic Integrity. We (a) address corporate security &amp; data privacy responsibility &amp; liability ‎(b) by licensing people's anonymous personal data as a trusted 3rd party liability mitigation &amp; consumer rights 501(c)3‎, that (d) sells anonymous psychometric data as a tax deductible (501(c)3 R&amp;D Philanthropy), ‎(d) making all of people's data anonymous (nameless) but invaluable with psychometric (6-10 traits), social &amp; geo-‎demographic 'tags' (anonymous; non-specific)‎‎‎, ‎(e) for socially responsible scientific research... ‎and (f) socially responsible remarketing, ‎(g) that funds their 501(c)3 philanthropy, ‎(h) based on the 501(c)3's popularity &amp; its' social impact rating, ‎(i) with all data monitored for socially responsible usage &amp; anonymity. ‎ Key 1 - Value Propositions: ‎(A) The value of anonymous, authenticated, psychometric comparative insight for everyone ‎(B) Offering deep psychometric research data as a 501(c)3 charitable CSR donation for philanthropy (insuring recovery plus ‎Goodwill), and (C) A socially responsible buyer for our host consulting.‎ Key 2 - Trust – Anonymity, Philanthropy, Integrity: Total Anonymity, Philanthropy &amp; Program Integrity are the keys to gain the people's and the host's trust - ‎it's ‎easy to make data anonymous but invaluable with psychometric, social and geo-demographic tags; we ‎monitor all data for socially responsible usage &amp; monitor the charities for their social impact.‎ Key 3 - Integrity-by-design Framework: Psychometric &amp; Behavior tags and anonymous authentication are the keys to unlock the scientific &amp; marketing ‎research ‎potential (insight) value of licensed, anonymous personal data - that you won't find anywhere else, with such ‎insight, ‎exactly because it is all anonymous but authenticated.‎ Market: DIGITALLY DOMINANT DATA PSYCHOMETRIC RESEARCH SOLUTIONS: GDPR-SAFE™ &amp; 501c3-‎SME™ BIG Data Consulting, ‎Psychometric Research and Philanthropy Club, Anonymityinc.net™ &amp; ‎the anonymous psychometric research market ‎‎(sponsored psychometric behavior &amp; pattern research)‎ Description: A 501(c)3 SOLUTION FOR SECURITY, PRIVACY &amp; SOCIALLY RESPONSIBLE RESEARCH, MARKETING &amp; FUNDING THAT ‎BENEFITS PHILANTHROPY, and ‎the anonymous psychometric data market (invaluable psychometric research data &amp; ‎services – sold as a charitable CSR donation of social ‎responsibility)‎.\n<br>\n<br><b>Contact Information\n</b><br>If you have any queries regarding any of our terms, please contact us.<br>Phillip Nakata (DPO), pnakata@digitallydominantautomotive.com; (303) 800-5766</p>\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                        <a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_cid": "r05DpDC2NM",
+          "_anchor": "header5-nw",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "privacy.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "DDA Privacy Policy",
+        "order": 4,
+        "header_custom": "",
+        "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".navbar": {
+              "padding": ".5rem 0",
+              "background": "@menuBgColor",
+              "transition": "none",
+              "min-height": "77px"
+            },
+            ".navbar-dropdown.bg-color.transparent.opened": {
+              "background": "@menuBgColor"
+            },
+            "a": {
+              "font-style": "normal"
+            },
+            ".nav-item": {
+              "& span": {
+                "padding-right": "0.4em",
+                "line-height": "0.5em",
+                "vertical-align": "text-bottom",
+                "position": "relative",
+                "text-decoration": "none"
+              },
+              "& a": {
+                "display": "flex",
+                "align-items": "center",
+                "justify-content": "center",
+                "padding": "0.7rem 0 !important",
+                "margin": "0rem .65rem !important"
+              }
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".btn": {
+              "padding": "0.4rem 1.5rem",
+              ".mbr-iconfont": {
+                "font-size": "1.6rem"
+              },
+              "display": "inline-flex",
+              "align-items": "center"
+            },
+            ".menu-logo": {
+              "margin-right": "auto",
+              ".navbar-brand": {
+                "display": "flex",
+                "margin-left": "5rem",
+                "padding": "0",
+                "transition": "padding .2s",
+                "min-height": "3.8rem",
+                "align-items": "center",
+                ".navbar-caption-wrap": {
+                  "display": "-webkit-flex",
+                  "-webkit-align-items": "center",
+                  "align-items": "center",
+                  "word-break": "break-word",
+                  "min-width": "7rem",
+                  "margin": ".3rem 0",
+                  ".navbar-caption": {
+                    "line-height": "1.2rem !important",
+                    "padding-right": "2rem"
+                  }
+                },
+                ".navbar-logo": {
+                  "font-size": "4rem",
+                  "transition": "font-size 0.25s",
+                  "& img": {
+                    "display": "flex"
+                  },
+                  ".mbr-iconfont": {
+                    "transition": "font-size 0.25s"
+                  }
+                }
+              }
+            },
+            ".navbar-toggleable-sm .navbar-collapse": {
+              "justify-content": "flex-end",
+              "-webkit-justify-content": "flex-end",
+              "padding-right": "5rem",
+              "width": "auto",
+              ".navbar-nav": {
+                "flex-wrap": "wrap",
+                "-webkit-flex-wrap": "wrap",
+                "padding-left": "0",
+                ".nav-item": {
+                  "-webkit-align-self": "center",
+                  "align-self": "center"
+                }
+              },
+              ".navbar-buttons": {
+                "padding-left": "0",
+                "padding-bottom": "0"
+              }
+            },
+            ".dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                "display": "none",
+                "position": "absolute",
+                "min-width": "5rem",
+                "padding-top": "1.4rem",
+                "padding-bottom": "1.4rem",
+                "text-align": "left",
+                ".dropdown-item": {
+                  "width": "auto",
+                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
+                  "&::after": {
+                    "right": "0.5rem"
+                  }
+                },
+                ".dropdown-submenu": {
+                  "margin": "0"
+                }
+              },
+              "&.open > .dropdown-menu": {
+                "display": "block"
+              }
+            },
+            ".navbar-toggleable-sm": {
+              "&.opened:after": {
+                "position": "absolute",
+                "width": "100vw",
+                "height": "100vh",
+                "content": "''",
+                "background-color": "rgba(0, 0, 0, 0.1)",
+                "left": "0",
+                "bottom": "0",
+                "transform": "translateY(100%)",
+                "-webkit-transform": "translateY(100%)",
+                "z-index": "1000"
+              }
+            },
+            ".navbar.navbar-short": {
+              "min-height": "60px",
+              "transition": "all .2s",
+              "& .navbar-toggler-right": {
+                "top": "20px"
+              },
+              "& .navbar-logo a": {
+                "font-size": "2.5rem !important",
+                "line-height": "2.5rem",
+                "transition": "font-size 0.25s",
+                "& .mbr-iconfont": {
+                  "font-size": "2.5rem !important"
+                },
+                "& img": {
+                  "height": "3rem !important"
+                }
+              },
+              "& .navbar-brand": {
+                "min-height": "3rem"
+              }
+            },
+            "button.navbar-toggler": {
+              "width": "31px",
+              "height": "18px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "top": "1.5rem",
+              "right": "1rem",
+              "&:focus": {
+                "outline": "none"
+              },
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".collapsed": {
+              "&.navbar-expand": {
+                "flex-direction": "column"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".navbar-expand": {
+                "flex-direction": "column"
+              },
+              "img": {
+                "height": "3.8rem !important"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (min-width: 767px)": {
+              ".menu-logo": {
+                "flex-shrink": "0"
+              }
+            },
+            ".navbar-collapse": {
+              "flex-basis": "auto"
+            },
+            ".nav-link:hover, .dropdown-item:hover": {
+              "color": "@itemsHoverColor !important"
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#333333\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://www.digitallydominantautomotive.com/gdpr-safe.html\">\n                         <img src=\"@PROJECT_PATH@/assets/images/dda.logo.pic-1-176x159.jpg\" alt=\"Digitally Dominant Automotive Solutions\" mbr-style=\"{'height': logoSize + 'rem'}\" title=\"Digitally Dominant Automotive Solutions\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-1v\" data-app-placeholder=\"Type Text\">Digitally Dominant<br>Automotive</a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item dropdown open\">\n                    <a class=\"nav-link link dropdown-toggle text-white\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Data Services: GDPR, Security, Anonmity, <br>Big&nbsp;Data, Monitoring,&nbsp;Psychometrics, Research, <br>Cloud, Marketing, 501(c)3 Funds, Philanthropy;<br>Tax Deductible Psychometric Data &amp; Services.</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-white\" href=\"presskit.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Press Kit (35+ items)</a><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2. &nbsp;DDA Automotive Websites</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"index.html#header2-e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">1. Digitally Dominant Automotive &nbsp;HOME</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#Header6-5b\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">1. &nbsp;DDA HOME</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"index.html#header2-e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">DDA Home</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/DOCS/Intelligent.ERP.Auto.Industry.pdf#page=7\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">SMART OBD-II, Codes, Service &amp; Philanthropy</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/DOCS/Equity Mining Major Redesign.pdf\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Equity Mining, Psychometrics &amp; Philanthropy</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f1a\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Psychometrics for Marketing, Sales, Training</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f6C\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Test Drive Videos, Expert Systems, NoSQL</a></div></div><a class=\"dropdown-item text-white\" href=\"http://tny.im/f0H\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Strategy &amp; Development Doc</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f0M\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Master Document Reference</a></div></div><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Polymath DDA &amp; DDD Founder BIOs</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/presskit.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. Press Kit including PR.COM Press &amp; Business Profile</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/partnerlanding.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. Joint Veture Consulting Partner Landing Page</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#Header7-4d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;DDD Strategic Consulting &amp;&nbsp;Psychometric Research<br>(Data &amp; Services) HOME</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">6. &nbsp;GDPR-SAFE™‎ Consulting &amp; Related Services</a><a class=\"dropdown-item text-white\" href=\"http://www.anonymityinc.net\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">7. Anonymityinc.net™ Reseach Philanthropy Club</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/dda.v1.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\"><strong>8. DDA Dealer Solutions:&nbsp;OBD-II, Equity Mining, Psychometrics</strong></a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">3. &nbsp;Digitally Dominant Data (DDD)<br>&nbsp; &nbsp; Presentation &amp; Partner Invite</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#Header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. Web Portal, Guide &amp; Partner Introduction</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#Header6-3b\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. Psychometric Research &amp; Data Services</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#Header6-3c\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. Socially Responsible Research</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#Header6-3d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. The Framework of Integrity/Monitoring</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#Header6-3e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. What's on our Horizon?</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#Header6-3g\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">6. Accepting Deposits, LOIs from Data Buyers<br>&amp; Equity Bids from Consultng Partners<br></a></div></div><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle text-white\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">4. &nbsp;DDD Start-Up Services &amp; Plans</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Founder's BIOs</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/e-B\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;PR.COM Press - 071818<br></a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f05\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Founder Mission &amp; Welcome</a><a class=\"dropdown-item text-white\" href=\"http://goo.gl/1FhMGe\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. &nbsp;Consultng Partner Joint Venture</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f0G\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;Tax Deductible, 501(c)3, Psychometric Research Data</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">5. &nbsp;DDD Research Marketing</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#Image-20\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Offerings, Candidate Mgmt. Consulting<br>&nbsp; &nbsp; &nbsp;Partners/Practices, 3 yr. Strategy &amp; Exit</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-21\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Messaging by Market - e.g. Sponsors (data buyers),<br>&nbsp; &nbsp; &nbsp;Hosts (trusted, need 1 or more of DDD services)</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#Image1-i\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Data Buyer (Sponsor) and Partner Presentation:&nbsp;<br>&nbsp; &nbsp; &nbsp;Anonymous Invaluable Psychometric Research as<br>a 501(c)3 charitable, tax deductible expense.</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><p>6. &nbsp;DDD Videos Worth Sharing</p></a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;GDPR Roles &amp; Responsibilities</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1f\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Everything About Becoming a 501(c)3</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1g\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Psychometrics: Needs, Motivations, Values</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1h\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. &nbsp;Research &amp; Philanthropy; Convergence w/tech</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#header6-1l\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;DDD Selected TED Videos: Ideas worth Sharing</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">7. &nbsp;SERVICES: Consulting, &nbsp;<br>&nbsp; &nbsp; &nbsp;Research,&nbsp;Tech &amp; Marketing</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;GDPR-SAFE™‎</a><a class=\"dropdown-item text-white\" href=\"https://drive.google.com/file/d/18EPoxmeV1zKi5pQOIfNCUT4Uauk0-yNF/view?usp=sharing\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;‎501c3-SME™‎</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f1a\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Psychometric Research++</a><a class=\"dropdown-item text-white\" href=\"http://www.anonymityinc.net\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4 &nbsp;Psychometric Data for Philanthropy</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#soundcloud1-45\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><p>8. &nbsp;Classy Web Music</p></a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#soundcloud1-45\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Selected SoundCloud</a></div></div></div>\n                </li><li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        <span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>\n                        About Us\n                    </a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-1v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Mission</a></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/contact2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\"><span class=\"mbri-upload mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Contact Us</a></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"http://www.digitallydominantautomotive.com/contact1.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span>\n                    \n                    Partners - Get<br>invited! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></div>\n        </div>\n    </nav>\n</section>",
+          "_cid": "qYNG2iVK7R",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "menu1-nx",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background": "linear-gradient(45deg, @bg-value, @color2)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-section-subtitle": {
+              "font-style": "italic",
+              "letter-spacing": "1rem"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            ".mbr-section-title, .mbr-section-btn": {
+              "color": "#0000ff"
+            }
+          },
+          "_name": "header11",
+          "_customHTML": "<section class=\"header11\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen, 'mbr-parallax-background': bg.parallax}\">\n\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#55b4d4\">\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container align-left\">\n        <div class=\"media-container-column mbr-white col-md-12\">\n            <h3 class=\"mbr-section-subtitle py-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                MOBIRISE WEBSITES BUILDER\n            </h3>\n            <h1 class=\"mbr-section-title py-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .mbr-section-btn\"><br>DDA PRIVACY POLICY</h1>\n            <p class=\"mbr-text py-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\"><b>Last updated August 05, 2018 \n</b><br>\n<br>Thank you for choosing to be part of our community at Digitally Dominant Automotive LLC , doing business as Digitally Dominant Data (“ Digitally Dominant Data ”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at pnakata@digitallydominantautomotive.com .\n<br>\n<br>When you visit our website www.digitallydominantautomotive.com/gdpr-safe.html , mobile application, Facebook application, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites or Apps and our services.\n<br>\n<br>This privacy policy applies to all information collected through our website (such as www.digitallydominantautomotive.com/gdpr-safe.html ), mobile application, Facebook application, (\"Apps\"), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the \"Sites\").&nbsp;\n<br>\n<br>Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.&nbsp;\n<br>\n<br><b>1. WHAT INFORMATION DO WE COLLECT?&nbsp;</b>\n<br>\n<br><b>Information automatically collected&nbsp;\n</b><br>\n<br>In Short:&nbsp;Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Sites or Apps . &nbsp;&nbsp;We automatically collect certain information when you visit, use or navigate the Sites or Apps . This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Sites or Apps and other technical information. This information is primarily needed to maintain the security and operation of our Sites or Apps , and for our internal analytics and reporting purposes. &nbsp;&nbsp;Like many businesses, we also collect information through cookies and similar technologies. \n<br>\n<br><b>Information collected through our Apps&nbsp;\n</b><br>\n<br>In Short:&nbsp;We may collect information regarding your geo-location, mobile device, and Facebook permissions when you use our apps. &nbsp;&nbsp;If you use our Apps, we may also collect the following information: \n<br>\n<br><b>Geo-Location Information.</b>&nbsp;We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our mobile application, to provide location-based services. If you wish to change our access or permissions, you may do so in your device’s settings. \n<br>\n<br><b>Mobile Device Access</b>.&nbsp;We may request access or permission to certain features from your mobile device, including your mobile device’s bluetooth , calendar , camera , contacts , microphone , reminders , sensors , sms messages , social media accounts , storage , and other features. If you wish to change our access or permissions, you may do so in your device’s settings. \n<br>\n<br><b>Mobile Device Data.</b>&nbsp;We may automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and IP address. \n<br>\n<br><b>Facebook Permissions.</b>&nbsp;We by default access your&nbsp;Facebook&nbsp;basic account information, including your name, email, gender, birthday, current city, and profile picture URL, as well as other information that you choose to make public. We may also request access to other permissions related to your account, such as friends, checkins, and likes, and you may choose to grant or deny us access to each individual permission. For more information regarding Facebook permissions, refer to the&nbsp;Facebook Permissions Reference&nbsp;page. \n<br>\n<br><b>Information collected from other sources</b>&nbsp;\n<br>\n<br>In Short:&nbsp;We may collect limited data from public databases, marketing partners, social media platforms, and other outside sources.&nbsp;\n<br>\n<br>We may obtain information about you from other sources, such as public databases, joint marketing partners, social media platforms (such as Facebook), as well as from other third parties. Examples of the information we receive from other sources include: social media profile information (your name, gender, birthday, email, current city, state and country, user identification numbers for your contacts, profile picture URL and any other information that you choose to make public) ; marketing leads and search results and links, including paid listings (such as sponsored links).&nbsp;\n<br>\n<br><b>2. HOW DO WE USE YOUR INFORMATION?&nbsp;\n</b><br>\n<br>In Short:&nbsp;We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.&nbsp;\n<br>\n<br>We use personal information collected via our Sites or Apps for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests (\"Business Purposes\"), in order to enter into or perform a contract with you (\"Contractual\"), with your consent (\"Consent\"), and/or for compliance with our legal obligations (\"Legal Reasons\"). We indicate the specific processing grounds we rely on next to each purpose listed below.&nbsp;\n<br>\n<br><b>We use the information we collect or receive: \n</b><br>\n<br>To send you marketing and promotional communications&nbsp;for Business Purposes and/or with your Consent . We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the \"WHAT ARE YOUR PRIVACY RIGHTS\" below). \n<br>\n<br>To send administrative information to you&nbsp;for Business Purposes, Legal Reasons and/or possibly for Contractual . We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies. \n<br>\n<br>Deliver targeted advertising to you&nbsp;for our Business Purposes and/or with your Consent . We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness. \n<br>\n<br>Administer prize draws and competitions&nbsp;for our Business Purposes and/or with your Consent . We may use your information to administer prize draws and competitions when you elect to participate in competitions. \n<br>\n<br>Request Feedback&nbsp;for our Business Purposes and/or with your Consent . We may use your information to request feedback and to contact you about your use of our Sites or Apps . \n<br><br>To protect our Sites&nbsp;. We may use your information as part of our efforts to keep our Sites or Apps safe and secure (for example, for fraud monitoring and prevention). \n<br>\n<br>To enforce our terms, conditions and policies&nbsp;for Business Purposes, Legal Reasons and/or possibly Contractual . \n<br>\n<br>To respond to legal requests and prevent harm&nbsp;for Legal Reasons. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond. \n<br>\n<br>For other Business Purposes.&nbsp;We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Sites or Apps , products, services, marketing and your experience. \n<br>\n<br><b>3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?&nbsp;\n</b><br>\n<br>In Short:&nbsp;We only share information with your consent, to comply with laws, to protect your rights, or to fulfill business obligations.&nbsp;\n<br>\n<br>We only share and disclose your information in the following situations:&nbsp;\n<br>\n<br><b>Compliance with Laws.</b>&nbsp;We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).&nbsp;\n<br>\n<br><b>Vital Interests and Legal Rights.</b>&nbsp;We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved. \n<br>\n<br><b>Vendors, Consultants and Other Third-Party Service Providers.&nbsp;</b>We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Sites or Apps , which will enable them to collect data about how you interact with the Sites or Apps over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes. \n<br>\n<br><b>Business Transfers.&nbsp;</b>We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. \n<br>\n<br><b>Third-Party Advertisers.&nbsp;</b>We may use third-party advertising companies to serve ads when you visit the Sites or Apps . These companies may use information about your visits to our Website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you. \n<br>\n<br><b>Affiliates.&nbsp;</b>We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us. \n<br>\n<br><b>Business Partners.&nbsp;</b>We may share your information with our business partners to offer you certain products, services or promotions. \n<br>\n<br><b>With your Consent.&nbsp;</b>We may disclose your personal information for any other purpose with your consent. \n<br>\n<br><b>Offer Wall.&nbsp;</b>Our Apps may display a third-party hosted “offer wall.” Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for acceptance and completion of an advertisement offer. Such an offer wall may appear in our mobile application and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will leave our mobile application. A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account. \n<br>\n<br><b>4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?&nbsp;\n<br>\n<br></b>In Short:&nbsp;We may use cookies and other tracking technologies to collect and store your information.&nbsp;\n<br>\n<br>We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy . \n<br>\n<br><b>5. DO WE USE GOOGLE MAPS?&nbsp;\n<br></b>\n<br>In Short:&nbsp;Yes, we use Google Maps for the purpose of providing better service.&nbsp;\n<br>\n<br>This website, mobile application, or Facebook application uses Google Maps APIs. You may find the Google Maps APIs Terms of Service&nbsp;here. To better understand Google’s Privacy Policy, please refer to this&nbsp;link.&nbsp;\n<br>\n<br>By using our Maps API Implementation, you agree to be bound by Google’s Terms of Service. By using our implementation of the Google Maps APIs, you agree to allow us to gain access to information about you including personally identifiable information (such as usernames) and non-personally identifiable information (such as location). We will be collecting the following information: \n<br>\n<br>■ Similar to map apps, no stop and start data, just anonymous info in between \n<br>\n<br>For a full list of what we use information for, please see the previous section titled \"HOW DO WE USE YOUR INFORMATION?\" and “WILL YOUR INFORMATION BE SHARED WITH ANYONE?” You agree to allow us to obtain or cache your location. You may revoke your consent at anytime. We use information about location in conjunction with data from other data providers. \n<br>\n<br>The Maps APIs that we use store and access cookies and other information on your devices. If you are a user currently in the European Union, please take a look at our EU User Consent Policy . \n<br>\n<br><b>6. HOW DO WE HANDLE YOUR SOCIAL LOGINS?&nbsp;\n<br></b>\n<br>In Short:&nbsp;If you choose to register or log in to our websites using a social media account, we may have access to certain information about you.&nbsp;\n<br>\n<br>Our Sites or Apps offer you the ability to register and login using your third party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile Information we receive may vary depending on the social media provider concerned, but will often include your name, e-mail address, friends list, profile picture as well as other information you choose to make public. If you login using Facebook, we may also request access to other permissions related to your account, such as friends, check-ins, and likes, and you may choose to grant or deny us access to each individual permission. \n<br>\n<br>We will use the information we receive only for the purposes that are described in this privacy policy or that are otherwise made clear to you on the Sites or Apps . Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps. \n<br>\n<br><b>7. HOW LONG DO WE KEEP YOUR INFORMATION?&nbsp;\n</b><br>\n<br>In Short:&nbsp;We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.&nbsp;\n<br>\n<br>We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than the period of time in which users have an account with us .&nbsp;\n<br>\n<br>When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.\n<br>\n<br><b>8. HOW DO WE KEEP YOUR INFORMATION SAFE?&nbsp;\n</b><br>\n<br>In Short:&nbsp;We aim to protect your personal information through a system of organizational and technical security measures.&nbsp;\n<br>\n<br>We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, transmission of personal information to and from our Sites or Apps is at your own risk. You should only access the services within a secure environment. \n<br>\n<br><b>9. DO WE COLLECT INFORMATION FROM MINORS?&nbsp;\n</b><br>\n<br>In Short:&nbsp;We do not knowingly collect data from or market to children under 18 years of age.&nbsp;\n<br>\n<br>We do not knowingly solicit data from or market to children under 18 years of age. By using the Sites or Apps , you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Sites or Apps . If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at pnakata@digitallydominantautomotive.com . \n<br>\n<br><b>10. WHAT ARE YOUR PRIVACY RIGHTS?&nbsp;\n</b><br>\n<br>In Short:&nbsp;You may review, change, or terminate your account at any time. \n<br>\n<br>If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here:&nbsp;http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm&nbsp;\n<br>\n<br><b>Account Information&nbsp;\n</b><br>\n<br>If you would at any time like to review or change the information in your account or terminate your account, you can: \n<br>\n<br>■ Log into your account settings and update your user account. \n<br>\n<br>■ Contact us using the contact information provided. \n<br>\n<br><b>Upon your request to terminate your account, </b>we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements. \n<br>\n<br><b>Cookies and similar technologies:</b>&nbsp;Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Sites or Apps . To opt-out of interest-based advertising by advertisers on our Sites or Apps visit&nbsp;http://www.aboutads.info/choices/. \n<br>\n<br><b>Opting out of email marketing:&nbsp;</b>You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may: \n<br>\n<br>■ Note your preferences when you register an account with the site. \n<br>\n<br>■ Access your account settings and update preferences. \n<br>\n<br>■ Contact us using the contact information provided. \n<br>\n<br><b>11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?&nbsp;\n</b><br>\n<br>In Short:&nbsp;Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.&nbsp;\n<br>\n<br><b>California Civil Code Section 1798.83, </b>also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.&nbsp;\n<br>\n<br>If you are under 18 years of age, reside in California, and have a registered account with the Sites or Apps , you have the right to request removal of unwanted data that you publicly post on the Sites or Apps . To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites or Apps , but please be aware that the data may not be completely or comprehensively removed from our systems.\n<br>\n<br><b>12. DO WE MAKE UPDATES TO THIS POLICY?&nbsp;\n</b><br>\n<br>In Short:&nbsp;Yes, we will update this policy as necessary to stay compliant with relevant laws.&nbsp;\n<br>\n<br>We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.&nbsp;\n<br>\n<br><b>13. HOW CAN YOU CONTACT US ABOUT THIS POLICY?&nbsp;\n</b><br>\n<br>If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO),&nbsp;PHILLIP R NAKATA , by email at pnakata@digitallydominantautomotive.com , by phone at 3038005766 , or by post to:\n<br>\n<br>Digitally Dominant Automotive LLC&nbsp;\n<br>PHILLIP R NAKATA \n<br>1332 Lincoln Street \n<br>Longmont , CO 80501 \n<br>United States \n<br>\n<br>If you have any further questions or comments about us or our policies, email us at pnakata@digitallydominantautomotive.com or by post to:&nbsp;\n<br>\n<br>Digitally Dominant Automotive LLC \n<br>90 Logan Street \n<br>Watsonville , CA 95076 \n<br>United States \n<br>Phone: 3038005766 \n<br>\n<br></p>\n            <div class=\"mbr-section-btn py-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_cid": "r05HoCHclH",
+          "_anchor": "header11-ny",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
