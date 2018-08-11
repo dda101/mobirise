@@ -7070,7 +7070,7 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "that (c) sells anonymous psychometric data as a tax deductible (for 501(c)3 R&amp;D Philanthropy).<br>",
+                "title": "that (c) sells <u>anonymous psychometric data as a tax deductible</u> (for 501(c)3 R&amp;D Philanthropy).<br>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
@@ -7128,6 +7128,23 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "and (g) authenticated psychometric comparative insight",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "(anonymous Host groups or archetypes - e.g. 'People who think like me' or 'Think like this group')&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1658.jpg",
                 "active": false,
                 "showButtons": false,
@@ -7138,10 +7155,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<br><br>that (g) funds their 501(c)3 philanthropy",
+                "title": "<br>‎that (h) funds our anonymous data donor's 501(c)3 R&amp;D / Community / Philanthropy‎",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b><br></b><b>(based on - next slide)</b>",
+                "text": "‎that (h) funds our anonymous data donor's 501(c)3 R&amp;D / Community / Philanthropy‎<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -7155,7 +7172,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "(h) based on the 501(c)3's popularity &amp; its' social <u>impact</u> rating",
+                "title": "(i) based on the 501(c)3's popularity &amp; its' social <u>impact</u> rating",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>with integrity-by-design; next; note - this is the single biggest point of failure with research for charity programs - e.g. A bad charity, not delivering benefits to beneficiaries; spending its' money on awareness and organization internal benefits.</b>",
@@ -7172,7 +7189,7 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "(i) with all data monitored for socially responsible usage &amp; anonymity",
+                "title": "(j) with all data monitored for socially responsible usage &amp; anonymity",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Anonymityinc's Integrity-by-Design monitors (1) data usage, (2) 501(c)3 vetting &amp; social impact and (3) being a psychometric research &amp; consumer rights 501(c).&nbsp;</b>",
@@ -7187,7 +7204,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
-                "customStyle2": "display-7",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Key 1: &nbsp;Value Propositions",
                 "overlay": true,
@@ -7206,10 +7223,10 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "Key 2: &nbsp;Trust",
+                "title": "<br>Key 2: &nbsp;Trust",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b><u><br></u></b><b><u>Total Anonymity, Philanthropy &amp; Program Creditability/Integrity</u>&nbsp;are the keys to gain the people's and the host's trust... it's easy to make data anonymous but invaluable with psychometric, social and geo-demographic tags; you just have to monitor the anonymous data for socially responsible usage and monitor the charities for social impact. &nbsp;This is a key failure of most support for charity programs - not to monitor their social impact.</b>",
+                "text": "<b><u>Total Anonymity, Philanthropy &amp; Program Creditability/Integrity</u>&nbsp;are the keys to gain the people's and the host's trust... it's easy to make data anonymous but invaluable with psychometric, social and geo-demographic tags; you just have to monitor the anonymous data for socially responsible usage and monitor the charities for social impact. &nbsp;This is a key failure of most support for charity programs - not to monitor their social impact.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -7226,7 +7243,7 @@
                 "title": "Key 3: &nbsp;Integrity-by-design Framework",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b><u><br></u></b><b><u>Psychometric &amp; Behavior tags and anonymous authentication</u> are the keys to unlock the scientific &amp; marketing research potential (insight) value of licensed, anonymous&nbsp;personal data - that you won't find anywhere else, with such insight, exactly because it is all anonymous but authenticated.</b>",
+                "text": "<b><u>Psychometric &amp; Behavior tags and anonymous authentication</u> are the keys to unlock the scientific &amp; marketing research potential (insight) value of licensed, anonymous&nbsp;personal data - that you won't find anywhere else, with such insight, exactly because it is all anonymous but authenticated.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -8496,7 +8513,7 @@
             }
           },
           "_name": "image1",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"3\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"89\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#073b4c\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <a href=\"http://tny.im/e-C\"><img src=\"@PROJECT_PATH@/assets/images/joint.venture.mgmt.consulting.partner.intro.page1.min-001c-1656x2143.jpg\" width=\"1400\" alt=\"Management Consulting Joint Venture Partner Introduction to BID\" title=\"Management Consulting Joint Venture Partner Introduction to BID\"></a>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-4\">\n                        <a href=\"http://tny.im/e-C\"><b><u>2nd download link</u></b></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"3\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"89\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#073b4c\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <a href=\"http://tny.im/e-C\"><img src=\"@PROJECT_PATH@/assets/images/ddd.partner.mailer-page-001c-1656x2143.jpg\" width=\"1400\" alt=\"Management Consulting Joint Venture Partner Introduction to BID\" title=\"Management Consulting Joint Venture Partner Introduction to BID\"></a>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-4\">\n                        <a href=\"http://tny.im/e-C\"><b><u>2nd download link</u></b></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "qYrLOwpUal",
           "_anchor": "image1-3x",
           "_protectedParams": [],
