@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Latest DigitallyDominantAutomotive.com-clone",
-    "currentPage": "contact1.html",
+    "currentPage": "slider1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7390,7 +7390,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dataprivacy1a-1600x1200.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -7532,7 +7532,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -16430,7 +16430,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dataprivacy1a-1600x1200.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -16573,7 +16573,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
