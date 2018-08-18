@@ -90,7 +90,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-121222214-1');\r\n</script>\r\n",
     "siteUrl": "http://www.digitallydominantautomotive.com",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 1062,
+    "uniqCompNum": 1066,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on",
@@ -660,7 +660,7 @@
       "settings": {
         "meta_descr": "Automotive Industry CRM 3.0, Psychometric Foresight, OBD-II, Philanthropy & more like:  Telematics, IFTTT/IoT, OBD-II, Psychometrics (DISC/OCEAN/Crystal), Linkedin, Media, OEM Research, GDPR, Relationship Reports, Advanced REST integration, Artificial Intelligence, ‎Personas/ Personality Foresight Support “as a Service”, Business Intelligence, DevOps, Social, Mobile, Cloud, Security-by-Design (AI) & CRM 3.0 Research, Changes, Findings, Markets & ‎more.\n\nKEY service offerings include:  (1) ODB-II SMART CODES, Red Carpet Services & Philanthropy, (2) Psychometric Equity-Opportunity Mining & Philanthropy, (3) Automobile Psychometrics for Dynamic Web Marketing & Sales, (4) CRM 3.0 for Auto Dealerships, (5) Enterprise Infrastructure, (6) Auto Videos (Used; Virtual Test Drives; Inventory) and (7) Philanthropy ",
         "title": "DDA Auto Solutions, V1: OBD-II, EquityMining and Psychometrics",
-        "order": 15,
+        "order": 16,
         "header_custom": "<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js'></script>\n<script type='text/javascript' src='loadImg.js'></script>\n<script type='text/javascript'>\n    $(function(){\n        $('img').imgPreload()\n    })\n</script>\n<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js'></script>\n<script type='text/javascript' src='loadImg.js'></script>\n<script type='text/javascript'>\n    $(function(){\n        $('img').imgPreload()\n    })\n</script>",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
@@ -5229,7 +5229,7 @@
       "settings": {
         "meta_descr": "Digitally Dominant Data's page:  A personal introduction by Phillip Nakata, who has been involved with GDPR security & privacy issues since 1997.  Links to (1) Key facts & DDD Offerings, (2) do's and don'ts, (3) GDPR Security Strategy, and (4) GDPR-SAFE™ Reference Guide",
         "title": "DDD GDPR-SAFE™ Consulting",
-        "order": 14,
+        "order": 15,
         "header_custom": "",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": ""
@@ -11349,7 +11349,7 @@
       "settings": {
         "meta_descr": "DDD’s DATA & RESEARCH CONSULTING SERVICE OPPORTUNITIES* include but are not limited to: (1) GDPR-SAFE™ Consulting Solutions -‎‎ ‎mitigate your data privacy liability with DDD’s full services which range from seminars, to assessments, to on-going audits, to ‎alignment of ‎interests w/AnonymityInc, (2) 501c3-SME™ Consulting Solutions, that aids the ‎socially responsible R&D of our clients, ‎secure needed ‎funds by becoming a 501(c)3, (3) AnonymityInc.net Hosting - sourcing anonymous data donor candidates from ‎host subscribers for ‎research & host/subscriber benefits, and (4) AnonymityInc.net Sponsoring - buying targeted, insightful, anonymous psychometric ‎data), from ‎‎(5) DDD's Psychometric Research & Philanthropy Services Club, AnonymityInc.net™.‎ ‎ \n‎ \n‎>>>  SPONSOR, THEN HOST STRATEGY: As compared with other research programs that support philanthropy, DDD’s strategic ‎approach ‎starts by first visiting sponsors with our philanthropic, psychometric research data offer & the consulting tools to ‎secure most ‎host markets (our funding, business, or protection offer), before visiting hosts w/ those consulting tools  (e.g. ‎‎Always ask first what data ‎they want to buy, before asking what data they have to sell).  We thus visit most hosts for our consulting with 1+ ‎big anonymous data buyers ‎in hand.‎  \n‎ \n‎>>>  INSIGHT & GREATER PRODUCTIVITY: DDD's consulting also addresses (a) BIG data Consulting, and its' close cousin (b) manipulating ‎Highly ‎Secure Legacy/ Enterprise/Cloud data, like it was simple middleware, by writing intelligent interpreters for the message ‎handlers, (c) ‎automotive data engineering (our DDA role), and (d) psychometrics for: recruiting, training, team building, sales, conflict ‎resolution, ‎career counseling & more; the Fortune 500 lives on its’ consistent, proven performance & communication logic.  \n",
         "title": "DDD Pages: Sections I-VI",
-        "order": 13,
+        "order": 14,
         "header_custom": "<script language=\"JavaScript\">\n<!--\nfunction changetext(did)\n{\n\t\tvar value = document.getElementById(did).style.display;\n\t\t\n\t\tif(value == \"block\"){\n\t\t\tdocument.getElementById(did).style.display = \"none\";\n\t\t\t//document.getElementById(did).style.display = \"none\";\n\t\t\t//document.getElementById(did).style.display = \"none\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(did).style.display = \"block\";\n\t\t\t//document.getElementById(did).style.display = \"block\";\n\t\t\t//document.getElementById(did).style.display = \"block\";\n\t\t}\n\t\t\n\t}\n-->\n\t</script>\n",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
@@ -15606,7 +15606,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -15785,7 +15785,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -15909,7 +15909,7 @@
       "settings": {
         "meta_descr": "Automotive Industry CRM 3.0, Psychometric Foresight, OBD-II, Philanthropy & more like:  Telematics, IFTTT/IoT, OBD-II, Psychometrics (DISC/OCEAN/Crystal), Linkedin, Media, OEM Research, GDPR, Relationship Reports, Advanced REST integration, Artificial Intelligence, ‎Personas/ Personality Foresight Support “as a Service”, Business Intelligence, DevOps, Social, Mobile, Cloud, Security-by-Design (AI) & CRM 3.0 Research, Changes, Findings, Markets & ‎more.\n\nKEY service offerings include:  (1) ODB-II SMART CODES, Red Carpet Services & Philanthropy, (2) Psychometric Equity-Opportunity Mining & Philanthropy, (3) Automobile Psychometrics for Dynamic Web Marketing & Sales, (4) CRM 3.0 for Auto Dealerships, (5) Enterprise Infrastructure, (6) Auto Videos (Used; Virtual Test Drives; Inventory) and (7) Philanthropy ",
         "title": "Slider3",
-        "order": 16,
+        "order": 17,
         "header_custom": "<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js'></script>\n<script type='text/javascript' src='loadImg.js'></script>\n<script type='text/javascript'>\n    $(function(){\n        $('img').imgPreload()\n    })\n</script>\n<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js'></script>\n<script type='text/javascript' src='loadImg.js'></script>\n<script type='text/javascript'>\n    $(function(){\n        $('img').imgPreload()\n    })\n</script>",
         "footer_custom": "<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b68a904df040c3e9e0c5810/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
@@ -17447,6 +17447,23 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1382.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b>That's the basic story/idea... Next: The Keys to Success</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>That's the 501(c)3 solution to security, GDPR privacy, psychometric research, remarketing, funding &amp; philanthropy, where the costs for invaluable, anonymous, authenticated research are a tax deductible, promoting productive social impact &amp; goodwill.  The keys to success are based on solutions to why other similar soundings programs failed.</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1440x1920.jpg",
                 "active": false,
                 "showButtons": false,
@@ -17495,6 +17512,23 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>..by monitoring socially responsible data usage &amp; the social impact of the 501(c)3s &amp; being audited by a major management consultant. &nbsp;&nbsp;</b><b>Psychometric &amp; Behavior tags and anonymous authentication are then the keys to unlock the scientific &amp; marketing research ‎potential (insight) value of licensed, anonymous personal data; that you won't find anywhere else, with such insight, ‎exactly because it is all anonymous but authenticated.</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/put.all.together-2000x1414.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b>Putting it all together...</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>The specialty skill sets (GDPR, 501(c)3, Security, Privacy, Big Data, Psychometric Research,  Pattern Analysis, Behavior Prediction, Social &amp; Media Tags, Consumer Advocacy, Re-Marketing, Funding, Monitoring, Measuring Social impact and some deep programming... with specific steps in a self-perpetuating process (1-2-3 cycle).</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -17657,6 +17691,23 @@
                 "text": "<b>We are issuing ITBs (Invitation to Bid) to prospective <u>global</u> managment consulting partners with strategic skills to fulfill: a deductible 501(c)3 service for socially responsible research, marketing, funding &amp; philanthropy than resolves security &amp; GDPR privacy concerns... on a national &amp; global scale; together we'll responsibly be trusted to manage the world's anonymous research market.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/an-opportunity-of-a-lifetime1a-675x380.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b>The Opportunity - For a Savvy Management Consulting Partner...</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>What would be the perfect app to accompany Anonymityinc?  What is the one thing everybody would want if they could have it?  How about anonymous feedback from people just like themselves? (a 2nd filtering service for all search).</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/conformity1-1-450x344.jpg",
