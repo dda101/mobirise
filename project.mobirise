@@ -90,7 +90,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-121222214-1');\r\n</script>\r\n",
     "siteUrl": "http://www.digitallydominantautomotive.com",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 1089,
+    "uniqCompNum": 1093,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on",
@@ -21127,7 +21127,7 @@
         }
       ]
     },
-    "slider.html": {
+    "autos2.html": {
       "settings": {
         "meta_descr": "A Socially Progressive & Effective 501(c)3 (PENDING)  ‎Response* to the GDPR... AKA Anonymous Research Data SALE that Supports Data Donor’s Philanthropy”‎ that is also driven by 501(c)3 consulting that helps business secure funding for their R&D as a 501(c)3.  We allow people to license their 100% Anonymous (No identity) ‎Personal-Social Trait & Behavioral Data to DDA, as licensee/controller.‎  The service generates funding for people's social causes from 50% of the profits of anonymous data sales for socially responsible research (and remarketing).  The service's integrity is maintained by watchdog services reporting the social impact of each 501(c)3 supported, and data monitoring insuring the socially responsible use of people's albeit anonymous data.  The focus of the service is Article 89 of the GDPR, related to market research that is of Public Interest, Scientific or Historical statistics.  Minimum anticipated cash flow: $50 Million year one.  A no-lose proposition; exceptional philanthropic/CSR value,  Based on 10+ years research, planning and developments.",
         "title": "autoshow2",
@@ -21383,8 +21383,7 @@
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_cid": "r19ewyMV2o",
-          "_anchor": "slider1-u5",
+          "_cid": "r1aDTPsli1",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -21449,6 +21448,44 @@
                 "contentAlign": "center",
                 "text": "<b>Who wants to hack anonymous (no unique identity) data? Yet it only takes any non-anonymous (non-unique) identity, plus your date of birth and city and/or time to do a 95% or better anonymous authentication.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/applied.machine.learning1-333x151.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=AoldOnGnmy8",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b>Revealing the Unsolved Mysteries of Science, Business &amp; People...</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>Much of the unsolved patterns of life. why somethings affects someone but not someone else, why it's not what you do but exactly how you do something, or in what circumstances (people, places, things &amp; time) can be found in the granular detail of our data interaction. This is the mission of Anonymityinc.net that will change the world forever.</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.6"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/digitizing.smell-300x285.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=AoldOnGnmy8",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b>an example of research (studying people's smell receptors):</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>Until only a few years ago, the mystery of digitizing smell had yet to be uncovered. &nbsp;But if you had all the data regarding what people thought about when they smelled the same smell &amp; you knew their genetircs, you could map smell for them. &nbsp;Our understanding of most everything is based on how much of the data we can see.</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1767x1043.jpg",
@@ -21655,25 +21692,6 @@
                 "contentAlign": "center",
                 "text": "<b>Anonymityinc's Integrity-by-Design monitors (1) data usage, (2) 501(c)3 vetting &amp; social impact and (3) being a psychometric research &amp; consumer rights 501(c).&nbsp;</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/applied.machine.learning1-333x151.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=AoldOnGnmy8",
-                "customStyle1": "display-5",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "<b>Revealing the Unsolved Mysteries of Science, Business &amp; People...</b>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<b>Much of the unsolved patterns of life. why somethings affects someone but not someone else, why it's not what you do but exactly how you do something, or in what circumstances (people, places, things &amp; time) can be found in the granular detail of our data interaction. This is the mission of Anonymityinc.net that will change the world forever.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
-                "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1382.jpg",
@@ -21961,6 +21979,44 @@
                 "overlayOpacity": "0.6"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/myfood1-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=AoldOnGnmy8",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b>a recipe for anonymous, autthenticated psychometric research...</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>As a former Executive Chef (I cook all my food &amp; eat like a king for cheap) the magic of food (just like data) is a combination of the ingredients (tech) and the process to develop the exact taste &amp; experience I desire. &nbsp;My interest - Managing the world's feelings from my restataurant in Breck in Colorado, bringing together the world's greatest social scientists. &nbsp; Our common objective - To help the world help itself &amp; advance to the next level from psychometrics.</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.6"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/culture1-227x222.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=AoldOnGnmy8",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b>understanding personality types is key with older cultures...</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>Our understanding of personality 'types' is an age old art (going back at least 2500 years), that transcends culture. &nbsp;Respectively, in older cultures, it is a key social classifier by the people that know you (recognition), a mark of trust, that represents one's core values. &nbsp;As a result, older cultures are more connected.</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.6"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1561.jpg",
                 "active": false,
                 "showButtons": false,
@@ -22217,6 +22273,25 @@
                 "overlayOpacity": "0.6"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/actuary.science.people.society-400x276.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=AoldOnGnmy8",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b>Net Worth? - Have your best actuary give us a call.</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>Given our roadmap, experience, research and easy to explain offering (making data anonymous but invaluable; selling it as a charitable deductible; Think like me App; our recipe to market), we're sure you'd be interested to compare it with our most conservative speculation. &nbsp;So have your best acutary give us a call now.</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.6"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/7d6e38aa-4d6c-4c2c-c278-afc2c4f0a917-800x450.jpg",
                 "active": false,
                 "showButtons": true,
@@ -22293,7 +22368,8 @@
                 "overlayOpacity": "0.6"
               }
             ]
-          }
+          },
+          "_anchor": "slider1-u9"
         },
         {
           "_styles": {
@@ -22310,12 +22386,12 @@
           "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Automotive - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_cid": "r19ewKBM0l",
-          "_anchor": "footer6-u6",
+          "_cid": "r1aDU2URni",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {}
+          "_params": {},
+          "_anchor": "footer6-ua"
         },
         {
           "_styles": {
@@ -22395,12 +22471,12 @@
           },
           "_name": "header8",
           "_customHTML": "<section class=\"header8\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"PlayerVimeo\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Video PopUp\" name=\"showVideoPopUp\" checked>\n        <input type=\"text\" title=\"Modal Video\" name=\"modalVideo\" value=\"https://www.youtube.com/watch?v=SC5CX8drAtU\" condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Show Description\" name=\"showDescription\" checked condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" value=\"@PROJECT_PATH@/assets/images/mbr-2-1920x1080.jpg\" title=\"Background Image\" parallax>\n            <input type=\"color\" value=\"#510938\" title=\"Background Color\">\n            <input type=\"video\" value=\"https://www.youtube.com/watch?v=SC5CX8drAtU\" title=\"Background Video\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center py-2 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><br>The Traveling Salesman</h1>\n                <p class=\"mbr-text align-center py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\"><b>\n                        Full-screen intro with movie, 2012; referenced from personal 1st hand participation; 1987, while working at a Philadelphia - University of PA/Drexel/Wharton Thinktank, developing XXXX and YYYY analytics for SEI, Amex &amp; Reuters.  Today, this influences our thinking of BIG Data, Psychometric Pattern Analysis, Behavior Predictability &amp; more... supplied as a personal reminder and source of inspiration to others... see also <a href=\"https://en.wikipedia.org/wiki/Millennium_Prize_Problems\" class=\"text-success\" style=\"text-decoration: underline;\">Millenium Prize problems</a> and our graphic slide above on global issues.\n                </b></p>\n                <div class=\"mbr-media show-modal align-center py-2\" mbr-if=\"showVideoPopUp\" data-modal=\".modalWindow\">\n                         <a href=\"https://solarmoviex.to/watch/travelling-salesman.80q8o/yv0lxx?loop=0&autoplay=0\"><span mbr-icon class=\"mbr-iconfont mbri-play\"></span></a>\n                </div>\n                <div mbr-text class=\"icon-description align-center font-italic pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showDescription && showVideoPopUp\" data-app-selector=\".icon-description\"><b>\n                        Click to Play; &nbsp;Enjoy; &nbsp;Hope the sex game ads don't make you blush.</b><br><b><span style=\"font-style: normal;\">Kill 2-3 popup Windows ads (Ctrl-F4) &amp; let pre-play hosting sponsor finish their game/sex ads @ ~1 minute.</span></b></div>\n                <div class=\"mbr-section-btn text-center\" mbr-buttons mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://en.wikipedia.org/wiki/Travelling_salesman_problem\" data-app-placeholder=\"Type Text\">WIKI</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showVideoPopUp\">\n        <div class=\"modalWindow\" style=\"display: none;\">\n            <div class=\"modalWindow-container\">\n                <div class=\"modalWindow-video-container\">\n                    <div class=\"modalWindow-video\">\n                        <iframe width=\"100%\" height=\"100%\" data-src=\"{{modalVideo}}\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"mbri-close mbr-iconfont closeModal\"></span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r19ewM3mH4",
-          "_anchor": "header8-u7",
+          "_cid": "r1aDU4o5Pn",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "header8-ub"
         },
         {
           "_styles": {
@@ -22802,12 +22878,12 @@
           "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#333333\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://www.digitallydominantautomotive.com/gdpr-safe.html\">\n                         <img src=\"@PROJECT_PATH@/assets/images/dda.logo.pic-1-176x159.jpg\" alt=\"Digitally Dominant Automotive Solutions\" mbr-style=\"{'height': logoSize + 'rem'}\" title=\"Digitally Dominant Automotive Solutions\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-1v\" data-app-placeholder=\"Type Text\">Digitally Dominant<br>Automotive</a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item dropdown\">\n                    <a class=\"nav-link link dropdown-toggle text-white\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Data Services: GDPR, Security, Anonmity, <br>Big&nbsp;Data, Monitoring,&nbsp;Psychometrics, Research, <br>Cloud, Marketing, 501(c)3 Funds, Philanthropy;<br>Tax Deductible Psychometric Data &amp; Services.</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-white\" href=\"presskit.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Press Kit (35+ items)</a><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2. &nbsp;DDA Automotive Websites</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"slider1.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Digitally Dominant Automotive HOME</a><a class=\"dropdown-item text-white\" href=\"dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;DDA &amp; DDD Founder BIOs</a><a class=\"dropdown-item text-white\" href=\"presskit.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. Press Kit including PR.COM &amp; Business Profile</a><a class=\"dropdown-item text-white\" href=\"partnerlanding.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. Joint Venture Consulting Partner Landing Page</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#header7-4d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;DDD Strategic Consulting &amp;&nbsp;Psychometric Research<br></a><a class=\"dropdown-item text-white\" href=\"gdpr-safe2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">6. &nbsp;GDPR-SAFE™‎ Consulting &amp; Related Services</a><a class=\"dropdown-item text-white\" href=\"http://www.anonymityinc.net\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">7. Anonymityinc.net™ Reseach Philanthropy Club</a><a class=\"dropdown-item text-white\" href=\"slider3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\"><strong>8. DDA Dealer Solutions:&nbsp;OBD-II, Equity Mining, Psychometrics</strong></a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">3. &nbsp;Digitally Dominant Data (DDD)<br>&nbsp; &nbsp; Presentation &amp; Partner Invite</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. Web Portal, Guide &amp; Partner Introduction</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#header6-3b\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. Psychometric Research &amp; Data Services</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#header6-3c\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. Socially Responsible Research</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#header6-3d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. The Framework of Integrity/Monitoring</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#header6-3e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. What's on our Horizon?</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#header6-3g\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">6. Accepting Deposits, LOIs from Data Buyers<br>&amp; Equity Bids from Consultng Partners<br></a></div></div><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle text-white\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">4. &nbsp;DDD Start-Up Services &amp; Plans</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Founder's BIOs</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/e-B\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;PR.COM Press - 071818<br></a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f05\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Founder Mission &amp; Welcome</a><a class=\"dropdown-item text-white\" href=\"http://goo.gl/1FhMGe\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. &nbsp;Consultng Partner Joint Venture</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f0G\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;Tax Deductible, 501(c)3, Psychometric Research Data</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">5. &nbsp;DDD Research Marketing</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image-20\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Offerings, Candidate Mgmt. Consulting<br>&nbsp; &nbsp; &nbsp;Partners/Practices, 3 yr. Strategy &amp; Exit</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-21\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Messaging by Market - e.g. Sponsors (data buyers),<br>&nbsp; &nbsp; &nbsp;Hosts (trusted, need 1 or more of DDD services)</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-i\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Data Buyer (Sponsor) and Partner Presentation:&nbsp;<br>&nbsp; &nbsp; &nbsp;Anonymous Invaluable Psychometric Research as<br>a 501(c)3 charitable, tax deductible expense.</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><p>6. &nbsp;DDD Videos Worth Sharing</p></a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;GDPR Roles &amp; Responsibilities</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1f\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Everything About Becoming a 501(c)3</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1g\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Psychometrics: Needs, Motivations, Values</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1h\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. &nbsp;Research &amp; Philanthropy; Convergence w/tech</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#header6-1l\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;DDD Selected TED Videos: Ideas worth Sharing</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">7. &nbsp;SERVICES: Consulting, &nbsp;<br>&nbsp; &nbsp; &nbsp;Research,&nbsp;Tech &amp; Marketing</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;GDPR-SAFE™‎</a><a class=\"dropdown-item text-white\" href=\"https://drive.google.com/file/d/18EPoxmeV1zKi5pQOIfNCUT4Uauk0-yNF/view?usp=sharing\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;‎501c3-SME™‎</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f1a\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Psychometric Research++</a><a class=\"dropdown-item text-white\" href=\"http://www.anonymityinc.net\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4 &nbsp;Psychometric Data for Philanthropy</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#soundcloud1-45\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><p>8. &nbsp;Classy Web Music</p></a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#soundcloud1-45\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Selected SoundCloud</a></div></div></div>\n                </li><li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        <span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>\n                        About Us\n                    </a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-1v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Mission</a></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/contact2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\"><span class=\"mbri-upload mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Contact Us</a></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"http://www.digitallydominantautomotive.com/contact1.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span>\n                    \n                    Partners - Get<br>invited! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></div>\n        </div>\n    </nav>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_cid": "r19ewOm1ag",
-          "_anchor": "menu1-u8",
+          "_cid": "r1aDU6ED7t",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_anchor": "menu1-uc"
         }
       ]
     }
