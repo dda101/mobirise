@@ -90,7 +90,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-121222214-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-121222214-1');\r\n</script>\r\n",
     "siteUrl": "http://www.digitallydominantautomotive.com",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 1137,
+    "uniqCompNum": 1145,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on",
@@ -17235,7 +17235,7 @@
                 "text": "<b>We use progressive Bootstrap to restyle our content for iPhone, Android, Tablet or Desktops. &nbsp;For mobile that means typically no video backgrounds. &nbsp;To view our <u>awesome</u> background (city tours &amp; more) from your mobile device, choose \"Desktop Site\" from your Android Chrome Browser &amp; turn your phone landscape. &nbsp; You need a good connection.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=qvy6f3_SGNI\" data-toolbar=\"-mbrBtnMove\">HOWTO YOUTUBE</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/avatars-000037022862-52drjz-t500x500-1-500x500.jpg",
@@ -17254,7 +17254,26 @@
                 "text": "<b>Anonymityinc.net is dedicated to the memory of <a href=\"http://tny.im/fzT\" class=\"text-white\"><u><b>Rachael</b></u></a>, daughter &amp; sister to two of Digitally Dominant Data's Co-Founders... who passed away related to childhood asthma in 1998, and who loved dogs even though she could never have one (we did for 16 years after - <font color=\"#ffffff\"><u>See Honeybear, her spirit).</u></font>&nbsp; Anonymityinc will insure that preventative analytics within two weeks of birth will recommend anti-triggering life programs - our pledge.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jeff.starship1-480x360.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=AoldOnGnmy8",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b>Nothing will stop us from achieving this socially worthy research &amp; philanthropic mission...</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>From 10+ years of preparation, it will only take one global management consulting partner (ramping us to 1000+ strong), or half a dozen $billion consulting want-to-be's to fulfill our noble research &amp; philanthropic mission. &nbsp;To get the best leverage, contact us today. &nbsp;We are always on-line &amp; listening... OR dial from your mobile. &nbsp;How much time? - Click =&gt; <a href=\"http://www.anonymityinc.net/#header6-g\" class=\"text-white\"><u><b>HERE</b></u></a>.</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/a-change-of-perspective1a-2000x1521.jpg",
@@ -17273,7 +17292,7 @@
                 "text": "<b>From our significant experience in applied biometric and psychometric research, modeling &amp; computer science/AI, we analyze sentiment &amp; emotion, along with profiling the patterns &amp; behavior of people (relationships), places (detail), things (ideas to activities) and time, to understand how it is all related as a predictive science, including what others think are just ideosyncrasies (we know or can find out for you, just ask).</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1440.jpg",
@@ -17290,7 +17309,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Like a great recipe, the success of this offering isn't just about the psychometric technologies nor processes, but rather about the exact steps (in order: sponsors =&gt; hosts =&gt; followers, &amp; followers =&gt; sponsors), the different but contiguous messages, the common themes of the service &amp; the focus on the value of anonymous psychometric comparison, founded on integrity-by-design (built-in) principles (autonomy, social impact, responsible use &amp; openness).</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
@@ -17307,7 +17327,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Who wants to hack anonymous (no unique identity) data? Yet it only takes any non-anonymous (non-unique) identity, plus your date of birth and city and/or time to do a 95% or better anonymous authentication.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"http://tny.im/fnQ\" data-toolbar=\"-mbrBtnMove\">PARTNER<br>TAKEAWAY<br></a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"http://tny.im/fnQ\" data-toolbar=\"-mbrBtnMove\">PARTNER<br>TAKEAWAY<br></a> ",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/applied.machine.learning1-333x151.jpg",
@@ -17326,7 +17347,7 @@
                 "text": "<b>Much of the unsolved patterns of life. why somethings affects someone but not someone else, why it's not what you do but exactly how you do something, or in what circumstances (people, places, things &amp; time) can be found in the granular detail of our data interaction. This is the mission of Anonymityinc.net that will change the world forever.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/digitizing.smell-300x285.jpg",
@@ -17345,7 +17366,7 @@
                 "text": "<b>Until only a few years ago, the mystery of digitizing smell had yet to be uncovered. But if you had all the data regarding what people thought about when they smelled the same smell &amp; you knew their genetircs, you could map smell for them. Our understanding of most everything is based on how much of the data we can see.   What if you could see it all, albeit anonymous but authenticated, as well as understand changes to the patterns?</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/answers-256x310.jpg",
@@ -17364,7 +17385,7 @@
                 "text": "<b>because they were too personally sensitive if you knew who the person was, but what is you could now see the patterns &amp; the predictable behavior from your custom selected audience, anonymous but authenticated?  It's because people aren't responding to anything, but just allowing their daily anonymous data to benefit their 501(c)3 R&amp;D / CSR / Philanthropy, so you can now see it all.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1767x1043.jpg",
@@ -17381,7 +17402,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Giving all profits to vetted 501(c)3 R&amp;D Philanthropy (Community/ Science/ Arts/ Humanities)</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1459.jpg",
@@ -17398,7 +17420,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>e.g. You're buying invaluable, anonymous, authenticated psychometric comparative market insight as a tax write-off, similar to tax services, that supports scientific research &amp; philanthropy.</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1357.jpg",
@@ -17415,7 +17438,8 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "<b>Thus invaluable for Everyone's Pattern Analysis &amp; Behavior Predictability  (e.g. Insight)... based on handle/ name, birth date &amp; birth city or time frame (People, Places, Things &amp; Time)</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/anonymity2a-810x500.jpg",
@@ -17432,7 +17456,8 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "<b>Structured &amp; Unstructured Data: Zip code, Area code +2, Psychometric, Social, GPS/ Events &amp; Demographic TAGS &amp; preferences, along w/ new patterns &amp; behavior predictability never possible before as anonymous authenticated research; invaluable insight(s) for everyone involved (philanthropy, research partners, sponsors, hosts &amp; their followers).  We also tag emotions.</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
@@ -17449,7 +17474,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Pattern Analysis &amp; Behavior Predictability  (e.g. Insight) to event/ situation ideosyncrasies associated with known patterns of needs, motivations, social value systems and resulting behavior on a media &amp; geo-demograpic matrix including medical break-throughs like behavior triggering)</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/15-gc-1-499x369.jpg",
@@ -17468,7 +17494,7 @@
                 "text": "<b>While we're able to map ~70% of the adult populace's psychometric archetype &amp; predictable behavior via Linked-Crystal or other psychometric typing by text-media, these ratings change over time &amp; most people also have mutiple personalities, triggered often by events, &nbsp;anonymously documented &amp; analyzed (e.g. Filed by related people types, places, things &amp; time) respective to each &nbsp;person's needs, motivations &amp; core values (conscience).</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/who-influences-you1-812x456.jpg",
@@ -17487,7 +17513,7 @@
                 "text": "<b>WHO INFLUENCES WHO:  We don't want to just understand the personality archetype but rather how that is shaped by the opinions of others close to each person, which requires digitizing emotion, the intersection between biometrics &amp; sentiment analysis for us.  All of this insight will be available to everyone, anonymus &amp; authenticated (A 501(c)3 charitable tax deduction for sponsors).&nbsp;</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1082.jpg",
@@ -17504,7 +17530,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Albeit anonymous (protecting privacy) and providing invaluable authenticated but anonymous psychometric comparison insight, licensed and socially responsible Deep data research, adds <u>pattern analysis &amp; behavior prediction (insight)</u> to all of our sponsor's and host's remarketing data.</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280.jpg",
@@ -17521,7 +17548,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Potentially to become the <b>MOST POPULAR BUTTON IN HISTORY (Think-Like-Me vs. Most Popular)</b>, For business: By anonymous groups/ archetypes - e.g. <b>'People WHO think like me' or 'Think like this group'... why compare with most popular when what you care about are people who think like you do? </b> From Big Data, we can tell you the best ways to communicate with anyone - <b>THINK ABOUT THAT! - we'll create that app.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/think-like-me2a-932x664.jpg",
@@ -17538,7 +17566,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>While anonymous, authenticated psychometric research/ comparative insight has signficant value for socially responsible research &amp; remarketing, its' value of personal interest should not be underscored, as it is the most common (yet unanswered) question people ask themselves to maintain their sense balance and rationale in the world... how do I compare this to people who think like me?</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cyrstal.ball.2-1300x956.jpg",
@@ -17557,7 +17586,7 @@
                 "text": "<b>People will see others by their personality type/ patterns, and know whose opinions reflect their own type/ class (find people that think like me), while understanding how to best communicate with each other, to fulfill mutual needs, motivations &amp; values, based on their individual personalities. &nbsp;This is what older cultures teach about the world (people &amp; patterns), and this format is Anonymityinc's gift to the world and to philanthropy.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1658.jpg",
@@ -17574,7 +17603,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>(from the socially responsible research &amp; remarketing; and the comparative insight for sponsors; while the anonymous, authenticated psychometric comparative insight is the 'thinks like me' personal value)</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
@@ -17591,7 +17621,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>50% of profits (balance after services) goes to each data donor's 501(c)3; 50% split across those 50(c)3s demonstrating the greatest social impact, by life cycle as well as many other factors like...  how many jobs an offering creates in the target communities - everything else is lip service.  Jobs or creation of overly productive trade value (services included) is how you change society.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1268.jpg",
@@ -17608,7 +17639,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Anonymityinc's Integrity-by-Design monitors (1) data usage, (2) 501(c)3 vetting &amp; social impact and (3) being a psychometric research &amp; consumer rights 501(c).&nbsp;</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1382.jpg",
@@ -17625,7 +17657,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>That's the 501(c)3 solution to security, GDPR privacy, psychometric research, remarketing, funding &amp; philanthropy, where the costs for invaluable, anonymous, authenticated research are a tax deductible, promoting productive social impact &amp; goodwill.  The keys to success are based on solutions to why other similar soundings programs failed.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1440x1920.jpg",
@@ -17642,7 +17675,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>(A) The value of anonymous, authenticated, psychometric comparative insight&nbsp;for everyone<br>(B) Offering deep psychometric research data as a 501(c)3 charitable CSR donation for philanthropy (insuring recovery plus Goodwill), and <br>(C) A socially responsible buyer for our host consulting.</b><br><b>(D) Not burdened by Corp. profits, but unlimited spend on DEEP analytics - computing time &amp; philanthropy.<br></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x793.jpg",
@@ -17659,7 +17693,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b><u>Total Anonymity, Philanthropy &amp; Program Creditability/Integrity</u>&nbsp;are the keys to gain the people's and the host's trust... <i>&nbsp;</i></b><b><i>it's easy to make data anonymous but invaluable with psychometric, social and geo-demographic tags;</i> <u>you just have to monitor the anonymous data for socially responsible usage &amp; monitor the charities for social impact</u>. &nbsp;</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
@@ -17676,7 +17711,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>..by monitoring socially responsible data usage &amp; the social impact of the 501(c)3s &amp; being audited by a major management consultant. &nbsp;&nbsp;</b><b>Psychometric &amp; Behavior tags and anonymous authentication are then the keys to unlock the scientific &amp; marketing research ‎potential (insight) value of licensed, anonymous personal data; that you won't find anywhere else, with such insight, ‎exactly because it is all anonymous but authenticated.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/applied.machine.learning1-333x151.jpg",
@@ -17695,7 +17731,7 @@
                 "text": "<b>For the people (our clients): To secure maximum anonymity &amp; philanthropic benefit from their anonymous &amp; invaluable DEEP pattern analysis &amp; behavior prediction research, as a trusted priviledge we respect &amp; will protect.  To guarantee that, we will monitor &amp; report on responsible data usage &amp; 501(c)3 social impact.&nbsp;</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/put.all.together-2000x1414.jpg",
@@ -17712,7 +17748,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>The specialty skill sets (GDPR, 501(c)3, Security, Privacy, Big Data, Psychometric Research,  Pattern Analysis, Behavior Prediction, Social &amp; Media Tags, Consumer Advocacy, Re-Marketing, Funding, Monitoring, Measuring Social impact and some deep programming... with specific steps in a self-perpetuating process (1-2-3 cycle).</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1357.jpg",
@@ -17729,7 +17766,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>A 501(c)3 SOLUTION FOR <u>SECURITY, PRIVACY &amp; SOCIALLY RESPONSIBLE RESEARCH, MARKETING &amp; FUNDING THAT BENEFITS PHILANTHROPY</u>, and ‎the anonymous psychometric data market (invaluable psychometric research data &amp; services – <u>sold as a charitable CSR donation of social ‎responsibility</u>)‎</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dataprivacy1a-1600x1200.jpg",
@@ -17746,7 +17784,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>supports the anonymizing, marketing, pattern analytics, behavior prediction, usage monitoring, social impact rating &amp; 501(c)3 trust funds disbursal services of Anonymityinc, as a most productive alternative to security &amp; privacy concerns; we create socially responsible research, remarketing &amp; funding for 501(c)3 philanthropy based on popularity &amp; social impact... where all costs are tax deductibles.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/big-personality-personality-assessment-736x728.jpg",
@@ -17765,7 +17804,7 @@
                 "text": "<b>We use Crystal DISC analysis to establish the psychometric DISC class and archetype, for Linkedin members, and/or using Crystal's text analysis. &nbsp;Alternately, we'll use IBM's, Facebook, Twitter, the University of Cambridge (psychometric) and/or client self-test results to establish each Anonymityinc clients' classification for MTBI, DISC &amp; FFM/OCEAN assessments. &nbsp;Think of the value of knowing everyone's personality type &amp; how everything is connected?</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/predictivepsychometrictesting-infographic-840x600.jpg",
@@ -17784,7 +17823,7 @@
                 "text": "<b>Currently implemented by the Fortune 500 and the USA Government, matching the right people to the right jobs, the application of anonymous, authenticated psychometric research that funds philanthropy for socially responsible compative insight is the next data frontier for both consumers &amp; business.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/psychometrics-800x321a-800x321.jpg",
@@ -17803,7 +17842,7 @@
                 "text": "<b>Unleashing the invaluable potential of anonymous authenticated psychometric pattern analysis &amp; behavior prediction for monitored socially responsible anonymous DEEP scientific &nbsp;(like medical) &amp; marketing&nbsp;/ R&amp;D research, monitored for social impact. &nbsp;From enough anonymous data, we can analyze how it's all connected (people, places, things &amp; time).</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/big-data-landscape-2016-870x654.jpg",
@@ -17822,7 +17861,7 @@
                 "text": "<b>Whereas the focus of our consulting is with prospective Anonymityinc 'Hosts', the value chain of anonymous authenticated psychometric research data <u>STARTS WITH</u>&nbsp;finding data buyers interested in our invaluable research as a custom order (market &amp; data interests) - <u>sold as a philanthropic tax deduction</u>. &nbsp; This then creates greater incentives &amp; creditability for our Hosts (targeted by Sponsor discussions), in addition to GDPR Compliance, Goodwill, Funding, IC retention, dynamic websites &amp; more.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dd.research.philanthropy.graphic1b-960x540.jpg",
@@ -17840,7 +17879,7 @@
                 "contentAlign": "center",
                 "text": "<b>(0) &nbsp;Find best Management Consulting Partner.  (1) Then start this repeating cycle, step 1:  Approach sigifiant data buyers (example: DMPs, Oracle, IBM, Amazon, Microsoft, etc.) with all anonymous, authenticated psychometric research, analytical and GDPR-compliant data &amp; services as a 501(c)3 charitable deductible.  Quickly move to 2nd Data Buyers including Hosts (like Celebrities).</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">DDD PORTAL<br></a> ",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ddd.website-audience-research-510x255.jpg",
@@ -17858,7 +17897,7 @@
                 "contentAlign": "center",
                 "text": "<b>Approach Hosts (target by Step 1 research orders) with 501(c)3 funding for their R&amp;D PLUS, anonymous research for 501(c)3 philanthropy of their followers, w/Host endorsement, based on Anonymityinc's INTEGRITY-BY-DESIGN,  e.g. 501(c)3 social impact &amp; socially responsible use of anonymous data like for science research, along with support for the arts, community projects, etc.  Best of all, to have a data buyer from step 1 interested in the hosts' follower's anonymous data; GDPR-Compliant++</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">DDD PORTAL<br></a> ",
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/social-media-heirarchy-of-needs1b-1024x651.jpg",
@@ -17876,7 +17915,7 @@
                 "contentAlign": "center",
                 "text": "<b>HOSTS invite their followers to become Anonymityinc clients, that will protect their identity, provide invaluable but anonymous psychometric insight (people with similar needs, motivations &amp; values) and create on-going donations to their favorite 501(c)3 Community / R&amp;D / Humanitarian;  only for socially responsible research; all 501(c) monitored for social impact &amp; all anonymous data monitoring for socially responsible usage. Click <a href=\"http://tny.im/fqR\" class=\"text-white\"><b><u>HERE</u></b></a> for graphic.  Cycle step 3 =&gt; step 1.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">DDD PORTAL<br></a> ",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1357.jpg",
@@ -17895,7 +17934,7 @@
                 "text": "<b>Harnessing anonymous psychometric research data for socially responsible use, will <u>transform</u> ‎the extraordinary ‎value of ‎anonymous market research into a ‎extraordinary amount of <u>social ‎impact &amp; business intelligence</u>. &nbsp; Here, ‎anonymous social ‎interaction data becomes a social ‎currency for people &amp; ‎their causes, along with a foundation ‎for actionable business insight.‎&nbsp;</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header7-4d\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1357.jpg",
@@ -17913,7 +17952,8 @@
                 "contentAlign": "center",
                 "text": "<b>In addition to being “the ‎socially responsible thing to do”, the service provides ‎helpful* <u>anonymous psychometric comparison insight</u> ('Public Interest ['like me'] &amp; Scientific Research, respective to the ‎GDPR), from members ‎w/ ‎similar ‎personality, social &amp; geo-demographic tags, on almost any ‎topic‎. &nbsp;licensed &amp; socially responsible DEEP data research ‎adds <u>pattern analysis &amp; behavior prediction</u> ‎‎(insight) to all ‎of our sponsor's &amp; host's <u>remarketing</u> data.‎<br></b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header7-4d\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1357.jpg",
@@ -17931,7 +17971,8 @@
                 "contentAlign": "center",
                 "text": "<b>That's all of it in a nutshell: (a) What we do (End Security &amp; Privacy Concerns; manage socially responsible research &amp; remarketing use of anonymous psychometric data; fund 501(c)3 philanthropy by popularity &amp; social impact), (b) How we do it (Sponors =&gt;Hosts =&gt;Followers) &amp; (c) Why?: For the anonymous psychometric comparison; Partners: See Invitation to Bid for DDD Equity. &nbsp;</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ai1-1069x583.jpg",
@@ -17950,7 +17991,7 @@
                 "text": "<b>although we could as experts in multiple behavioral biometrics (since '85) and pattern analysis, and will by contract. Our more socially productive alternative provides its' benefits as ANONYMOUS AUTHENTICATION, associated with people (types), places, things (from topics to events) and time - as that is how all things are related (DDDs design for 'services' in the future - adding people &amp; places to every data record).</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ai1-1069x583.jpg",
@@ -17969,7 +18010,7 @@
                 "text": "<b>That develops a profile of the socially responsible data usage of Anonymityinc's Anonymous Authenticated Psychometric &amp; Behavior Research Data... is that we'll increase your security awareness in our mutual best interests, regularly testing your services for every new exploit.&nbsp;</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/myfood1-2000x1500.jpg",
@@ -17988,7 +18029,7 @@
                 "text": "<b>As a former Executive Chef (I cook all my food &amp; eat like a king for cheap) the magic of food (just like data) is a combination of the ingredients (tech) and the process to develop the exact taste &amp; experience I desire. &nbsp;My interest - Managing the world's feelings from my restaurant in Breckenridge Colorado, bringing together the world's greatest social scientists. &nbsp; Our common objective - To help the world help itself &amp; advance to the next level from psychometrics.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/culture1-227x222.jpg",
@@ -18007,7 +18048,7 @@
                 "text": "<b>Our understanding of personality 'types' is an age old art (going back at least 2500 years), that transcends culture. &nbsp;Respectively, in older cultures, it is a key social classifier by the people that know you (recognition), a mark of trust, that represents one's core values. &nbsp;</b>As a result, older cultures are more quickly connected on the social media, as the media they want everyone to see.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1561.jpg",
@@ -18025,7 +18066,8 @@
                 "contentAlign": "center",
                 "text": "<b>We are issuing ITBs (Invitation to Bid) to prospective <u>global</u> managment consulting partners with strategic skills to fulfill: a deductible 501(c)3 service for socially responsible research, marketing, funding &amp; philanthropy than resolves security &amp; GDPR privacy concerns... on a national &amp; global scale; together we'll responsibly be trusted to manage the world's anonymous research market.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/an-opportunity-of-a-lifetime1a-675x380.jpg",
@@ -18042,7 +18084,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>What would be the perfect app to accompany Anonymityinc?  What is the one thing everybody would want if they could have it?  How about anonymous feedback from people just like themselves? (a 2nd filtering service for all search).  Look again at your benefits with this program.  We've had the technology for years to do this.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/conformity1-1-450x344.jpg",
@@ -18060,7 +18103,8 @@
                 "contentAlign": "center",
                 "text": "<b>For any topic, remaining totally anonymous, this app will find feedback from people with a similar personality (type) &amp; lifestyle to you... while generating $ for your favorite 501(c)3.  This is very easy to do, although it will take a minute or so to process the author's psychometrics.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/getting-beyond-group-think-1-1166x900.jpg",
@@ -18078,7 +18122,8 @@
                 "contentAlign": "center",
                 "text": "<b>While we've assessed MBTI, DISC, &amp; FFM/Ocean methods, our POC uses Linkedin's Crystal profiler of the user's tested type mapped to DDD's profile of authors per search response, filtering authors who match people's multiple personalities.   We think most people will find it interesting, useful &amp; beneficial (fulfilling) to compare themselves with others who think like they do; 80%+ accurate; anonymous, it will generate 501(c)3 donations.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
@@ -18096,7 +18141,7 @@
                 "contentAlign": "center",
                 "text": "<b>ANONYMITYINC.NET REPRESENTS AN ADVANCED &amp; COMMERCIALIZED VERSION OF J. HARRIS' \"WE FEEL FINE\", WHEN YOU CONSIDER ADDING THE COMPLEXITIES OF MULTIPLE PERSONALITIES &amp; OUR PERSONALITY RELATIONSHIPS THAT SHAPE OUR THINKING PATTERNS &amp; BEHAVIOR.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"http://www.ted.com/talks/lang/eng/jonathan_harris_tells_the_web_s_secret_stories.html\" data-toolbar=\"-mbrBtnMove\">WE FEEL FINE</a>  ",
-                "overlayOpacity": "0.1"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/plans-849x566.jpg",
@@ -18114,7 +18159,8 @@
                 "contentAlign": "center",
                 "text": "<b>The collateral of the DDD website, 2nd support pages &amp; the menu header on every page, supports each step (a-j), the keys to success and the sponsor=&gt;host=&gt;follower process including: Mission, Press Release, &nbsp;Founder BIOs, Joint Venture Consulting Partner letter, Offering &amp; Messaging per audience/ industry, Psychometric Research papers, Big Data, GDPR &amp; 501(c)3 Consulting and Anonymityinc - DDD management (50-400+).</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/brain-training-791x450.jpg",
@@ -18132,7 +18178,8 @@
                 "contentAlign": "center",
                 "text": "<b>The potential of anonymous insight &amp; prediction for personal, social &amp; scientific research (like social medicine) is to see the relationships (patterns) between granular event details, social interaction, emotonal response &amp; behavior, like an actuary.  The service must be enacted exactly to the recipe provided to sustain its' momentum &amp; self-driven cycle.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cd4fb87d-b151-463e-a87e-688197d40caa-590x288.jpg",
@@ -18150,7 +18197,8 @@
                 "contentAlign": "center",
                 "text": "<b>Easily Internationalized, the service works to support every social, economic &amp; political environment from within, providing balance to each person's life by comparison to their social doppelgangers.. on the other hand, consider what medicine will find regarding disease trigger (event, food, shock &amp; more).  Our business is like being an actuary.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/pai-1-412x412.jpg",
@@ -18168,7 +18216,8 @@
                 "contentAlign": "center",
                 "text": "<b>Because it will give our data donors the anonymous, authenticated (real) psychometric comparative insight (people that think alike) each person seeks, while generating donations for their 501(c)3 R&amp;D or Philanthropy.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cocacola-1256x892.png",
@@ -18187,7 +18236,7 @@
                 "text": "<b>We've spent 10+ years planning everything... from finding partners... to data buyers, DMPs, DSPs &amp; Ad Exchanges... to meeting with charities &amp; celebrities... to sitting on the user &amp; consumer side, watching as we currently stumble onto the patterns of how everything is related.  We now have before us, the potential to alter our future by pattern analysis &amp; behavior prediction.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/global-comms1-1-960x640.jpg",
@@ -18206,7 +18255,7 @@
                 "text": "<b>We have (1) an invaluable, tax deductible research offer for Sponsors, (2) a most popular, philanthropic &amp; GDPR-compliant offering (think like me) for host referrals, providing (3) invaluable tax deductible research &amp; consulting services for every business, with (4) insured Integrity-by-design.  Our current issues: Data Volumes &amp; legacy, NoSQl/Cloud data w/ multi-Schemas of Unstructured Big Data and processing biometrics when untethered.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/global-growth-16.9-1-2000x1126.jpg",
@@ -18225,7 +18274,7 @@
                 "text": "<b>Partner, so you know us;  all things (services &amp; everything else) are related to people, places &amp; time (IBM White Paper / '97), concurrent to our group establishing the foundation of web services &amp; service (object broker) oriented computing - IBM's most valuable intellectual capital then.  For P vs. NP, see next page.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/15-gc-1-499x369.jpg",
@@ -18244,7 +18293,7 @@
                 "text": "<b>This relates to the copy of \"The Traveling Salesman\" movie I am hosting below as an invaluable source of inspiration, as I was literally there, at the dawn of computing this quantum equation, and it has been central to influencing the way I think about everything (from every angle)  ... Our interests? - the 15 Global Challenges displayed herein, many via Anonymityinc.net - funded by the people's psychometric research data.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/15-gc-1-499x369.jpg",
@@ -18263,7 +18312,7 @@
                 "text": "<b>If you have watched Caprica, from the data perspective, you'd understand the collective of 'events' we're creating, that define a picture of each person's experiences. Our interest is to create an AI collective for each person, reflecting their relationships &amp; memories in life, the ability to compare their thoughts with other people that are similar to them (personality/ lifstyle) &amp; how to best communicate with another profile.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/actuary.science.people.society-400x276.jpg",
@@ -18282,7 +18331,7 @@
                 "text": "<b>Given our roadmap, experience, research and easy to explain offering (making data anonymous but invaluable; selling it as a charitable deductible; Think like me App; our recipe to market), we're sure you'd be interested to compare it with our most conservative speculation. &nbsp;So have your best acutary give us a call now.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/7d6e38aa-4d6c-4c2c-c278-afc2c4f0a917-800x450.jpg",
@@ -18301,7 +18350,7 @@
                 "text": "<b>My name is Phillip Nakata, one of three DDD/DDA Co-Founders.  I am a former IBM Chief Technology Officer &amp; CSC Partner, who worked with ‎the first biometric security ‎patent, one of the first wireless patents, configurators, artificial intelligence, search, virtualization, BI &amp; some of IBM’s ‎most ‎valuable intellectual capital; <a href=\"http://bit.ly/prn-cv3\" class=\"text-white\"><u><b>my CV is here</b></u></a>. &nbsp;Come see our BIOs &amp; psychometrics (our personality)</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"dda-bios.html\" data-toolbar=\"-mbrBtnMove\">FOUNDERS</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/disclaimer-500x500.jpg",
@@ -18320,7 +18369,7 @@
                 "text": "<b>While we share almost everything we know openly with our partners, because of the sensitive nature of intelligent analytics, intellectual capital and anoymous psychometric data usage, we do require compliance with our Bi-Lateral NDA, non-circumvent &amp; Data Monitoring Agreement.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"http://tny.im/fuf\" data-toolbar=\"-mbrBtnMove\">NDA-NCV-MONITOR</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/avatars-000037022862-52drjz-t500x500-1-500x500.jpg",
@@ -18339,7 +18388,7 @@
                 "text": "<b>From 10+ years of preparation, it will only take one global management consulting partner (ramping us to 1000+ strong), or half a dozen $billion consulting want-to-be's to fulfill our noble research &amp; philanthropic mission. &nbsp;To get the best leverage, contact us today. &nbsp;We are always on-line &amp; listening... OR dial from your mobile. &nbsp;How much time? - Click =&gt; <a href=\"http://www.anonymityinc.net/#header6-g\" class=\"text-white\"><u><b>HERE</b></u></a>.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/disclaimer-500x500.jpg",
@@ -21590,7 +21639,7 @@
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_cid": "r1kmJ8CfAC",
+          "_cid": "r1lFbxxsYl",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -21639,7 +21688,7 @@
                 "text": "<b>We use progressive Bootstrap to restyle our content for iPhone, Android, Tablet or Desktops. &nbsp;For mobile that means typically no video backgrounds. &nbsp;To view our <u>awesome</u> background (city tours &amp; more) from your mobile device, choose \"Desktop Site\" from your Android Chrome Browser &amp; turn your phone landscape. &nbsp; You need a good connection.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=qvy6f3_SGNI\" data-toolbar=\"-mbrBtnMove\">HOWTO YOUTUBE</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/avatars-000037022862-52drjz-t500x500-1-500x500.jpg",
@@ -21658,7 +21707,26 @@
                 "text": "<b>Anonymityinc.net is dedicated to the memory of <a href=\"http://tny.im/fzT\" class=\"text-white\"><u><b>Rachael</b></u></a>, daughter &amp; sister to two of Digitally Dominant Data's Co-Founders... who passed away related to childhood asthma in 1998, and who loved dogs even though she could never have one (we did for 16 years after - <font color=\"#ffffff\"><u>See Honeybear, her spirit).</u></font>&nbsp; Anonymityinc will insure that preventative analytics within two weeks of birth will recommend anti-triggering life programs - our pledge.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jeff.starship1-480x360.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=AoldOnGnmy8",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b>Nothing will stop us from achieving this socially worthy research &amp; philanthropic mission...</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>From 10+ years of preparation, it will only take one global management consulting partner (ramping us to 1000+ strong), or half a dozen $billion consulting want-to-be's to fulfill our noble research &amp; philanthropic mission. &nbsp;To get the best leverage, contact us today. &nbsp;We are always on-line &amp; listening... OR dial from your mobile. &nbsp;How much time? - Click =&gt; <a href=\"http://www.anonymityinc.net/#header6-g\" class=\"text-white\"><u><b>HERE</b></u></a>.</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/a-change-of-perspective1a-2000x1521.jpg",
@@ -21677,7 +21745,7 @@
                 "text": "<b>From our significant experience in applied biometric and psychometric research, modeling &amp; computer science/AI, we analyze sentiment &amp; emotion, along with profiling the patterns &amp; behavior of people (relationships), places (detail), things (ideas to activities) and time, to understand how it is all related as a predictive science, including what others think are just ideosyncrasies (we know or can find out for you, just ask).</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1440.jpg",
@@ -21694,7 +21762,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Like a great recipe, the success of this offering isn't just about the psychometric technologies nor processes, but rather about the exact steps (in order: sponsors =&gt; hosts =&gt; followers, &amp; followers =&gt; sponsors), the different but contiguous messages, the common themes of the service &amp; the focus on the value of anonymous psychometric comparison, founded on integrity-by-design (built-in) principles (autonomy, social impact, responsible use &amp; openness).</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
@@ -21711,7 +21780,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Who wants to hack anonymous (no unique identity) data? Yet it only takes any non-anonymous (non-unique) identity, plus your date of birth and city and/or time to do a 95% or better anonymous authentication.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"http://tny.im/fnQ\" data-toolbar=\"-mbrBtnMove\">PARTNER<br>TAKEAWAY<br></a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"http://tny.im/fnQ\" data-toolbar=\"-mbrBtnMove\">PARTNER<br>TAKEAWAY<br></a> ",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/applied.machine.learning1-333x151.jpg",
@@ -21730,7 +21800,7 @@
                 "text": "<b>Much of the unsolved patterns of life. why somethings affects someone but not someone else, why it's not what you do but exactly how you do something, or in what circumstances (people, places, things &amp; time) can be found in the granular detail of our data interaction. This is the mission of Anonymityinc.net that will change the world forever.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/digitizing.smell-300x285.jpg",
@@ -21749,7 +21819,7 @@
                 "text": "<b>Until only a few years ago, the mystery of digitizing smell had yet to be uncovered. But if you had all the data regarding what people thought about when they smelled the same smell &amp; you knew their genetircs, you could map smell for them. Our understanding of most everything is based on how much of the data we can see.   What if you could see it all, albeit anonymous but authenticated, as well as understand changes to the patterns?</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/answers-256x310.jpg",
@@ -21768,7 +21838,7 @@
                 "text": "<b>because they were too personally sensitive if you knew who the person was, but what is you could now see the patterns &amp; the predictable behavior from your custom selected audience, anonymous but authenticated?  It's because people aren't responding to anything, but just allowing their daily anonymous data to benefit their 501(c)3 R&amp;D / CSR / Philanthropy, so you can now see it all.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1767x1043.jpg",
@@ -21785,7 +21855,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Giving all profits to vetted 501(c)3 R&amp;D Philanthropy (Community/ Science/ Arts/ Humanities)</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1459.jpg",
@@ -21802,7 +21873,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>e.g. You're buying invaluable, anonymous, authenticated psychometric comparative market insight as a tax write-off, similar to tax services, that supports scientific research &amp; philanthropy.</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1357.jpg",
@@ -21819,7 +21891,8 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "<b>Thus invaluable for Everyone's Pattern Analysis &amp; Behavior Predictability  (e.g. Insight)... based on handle/ name, birth date &amp; birth city or time frame (People, Places, Things &amp; Time)</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/anonymity2a-810x500.jpg",
@@ -21836,7 +21909,8 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "<b>Structured &amp; Unstructured Data: Zip code, Area code +2, Psychometric, Social, GPS/ Events &amp; Demographic TAGS &amp; preferences, along w/ new patterns &amp; behavior predictability never possible before as anonymous authenticated research; invaluable insight(s) for everyone involved (philanthropy, research partners, sponsors, hosts &amp; their followers).  We also tag emotions.</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
@@ -21853,7 +21927,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Pattern Analysis &amp; Behavior Predictability  (e.g. Insight) to event/ situation ideosyncrasies associated with known patterns of needs, motivations, social value systems and resulting behavior on a media &amp; geo-demograpic matrix including medical break-throughs like behavior triggering)</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/15-gc-1-499x369.jpg",
@@ -21872,7 +21947,7 @@
                 "text": "<b>While we're able to map ~70% of the adult populace's psychometric archetype &amp; predictable behavior via Linked-Crystal or other psychometric typing by text-media, these ratings change over time &amp; most people also have mutiple personalities, triggered often by events, &nbsp;anonymously documented &amp; analyzed (e.g. Filed by related people types, places, things &amp; time) respective to each &nbsp;person's needs, motivations &amp; core values (conscience).</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/who-influences-you1-812x456.jpg",
@@ -21891,7 +21966,7 @@
                 "text": "<b>WHO INFLUENCES WHO:  We don't want to just understand the personality archetype but rather how that is shaped by the opinions of others close to each person, which requires digitizing emotion, the intersection between biometrics &amp; sentiment analysis for us.  All of this insight will be available to everyone, anonymus &amp; authenticated (A 501(c)3 charitable tax deduction for sponsors).&nbsp;</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1082.jpg",
@@ -21908,7 +21983,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Albeit anonymous (protecting privacy) and providing invaluable authenticated but anonymous psychometric comparison insight, licensed and socially responsible Deep data research, adds <u>pattern analysis &amp; behavior prediction (insight)</u> to all of our sponsor's and host's remarketing data.</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280.jpg",
@@ -21925,7 +22001,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Potentially to become the <b>MOST POPULAR BUTTON IN HISTORY (Think-Like-Me vs. Most Popular)</b>, For business: By anonymous groups/ archetypes - e.g. <b>'People WHO think like me' or 'Think like this group'... why compare with most popular when what you care about are people who think like you do? </b> From Big Data, we can tell you the best ways to communicate with anyone - <b>THINK ABOUT THAT! - we'll create that app.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/think-like-me2a-932x664.jpg",
@@ -21942,7 +22019,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>While anonymous, authenticated psychometric research/ comparative insight has signficant value for socially responsible research &amp; remarketing, its' value of personal interest should not be underscored, as it is the most common (yet unanswered) question people ask themselves to maintain their sense balance and rationale in the world... how do I compare this to people who think like me?</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cyrstal.ball.2-1300x956.jpg",
@@ -21961,7 +22039,7 @@
                 "text": "<b>People will see others by their personality type/ patterns, and know whose opinions reflect their own type/ class (find people that think like me), while understanding how to best communicate with each other, to fulfill mutual needs, motivations &amp; values, based on their individual personalities. &nbsp;This is what older cultures teach about the world (people &amp; patterns), and this format is Anonymityinc's gift to the world and to philanthropy.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1658.jpg",
@@ -21978,7 +22056,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>(from the socially responsible research &amp; remarketing; and the comparative insight for sponsors; while the anonymous, authenticated psychometric comparative insight is the 'thinks like me' personal value)</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
@@ -21995,7 +22074,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>50% of profits (balance after services) goes to each data donor's 501(c)3; 50% split across those 50(c)3s demonstrating the greatest social impact, by life cycle as well as many other factors like...  how many jobs an offering creates in the target communities - everything else is lip service.  Jobs or creation of overly productive trade value (services included) is how you change society.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1268.jpg",
@@ -22012,7 +22092,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Anonymityinc's Integrity-by-Design monitors (1) data usage, (2) 501(c)3 vetting &amp; social impact and (3) being a psychometric research &amp; consumer rights 501(c).&nbsp;</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1382.jpg",
@@ -22029,7 +22110,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>That's the 501(c)3 solution to security, GDPR privacy, psychometric research, remarketing, funding &amp; philanthropy, where the costs for invaluable, anonymous, authenticated research are a tax deductible, promoting productive social impact &amp; goodwill.  The keys to success are based on solutions to why other similar soundings programs failed.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1440x1920.jpg",
@@ -22046,7 +22128,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>(A) The value of anonymous, authenticated, psychometric comparative insight&nbsp;for everyone<br>(B) Offering deep psychometric research data as a 501(c)3 charitable CSR donation for philanthropy (insuring recovery plus Goodwill), and <br>(C) A socially responsible buyer for our host consulting.</b><br><b>(D) Not burdened by Corp. profits, but unlimited spend on DEEP analytics - computing time &amp; philanthropy.<br></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x793.jpg",
@@ -22063,7 +22146,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b><u>Total Anonymity, Philanthropy &amp; Program Creditability/Integrity</u>&nbsp;are the keys to gain the people's and the host's trust... <i>&nbsp;</i></b><b><i>it's easy to make data anonymous but invaluable with psychometric, social and geo-demographic tags;</i> <u>you just have to monitor the anonymous data for socially responsible usage &amp; monitor the charities for social impact</u>. &nbsp;</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
@@ -22080,7 +22164,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>..by monitoring socially responsible data usage &amp; the social impact of the 501(c)3s &amp; being audited by a major management consultant. &nbsp;&nbsp;</b><b>Psychometric &amp; Behavior tags and anonymous authentication are then the keys to unlock the scientific &amp; marketing research ‎potential (insight) value of licensed, anonymous personal data; that you won't find anywhere else, with such insight, ‎exactly because it is all anonymous but authenticated.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/applied.machine.learning1-333x151.jpg",
@@ -22099,7 +22184,7 @@
                 "text": "<b>For the people (our clients): To secure maximum anonymity &amp; philanthropic benefit from their anonymous &amp; invaluable DEEP pattern analysis &amp; behavior prediction research, as a trusted priviledge we respect &amp; will protect.  To guarantee that, we will monitor &amp; report on responsible data usage &amp; 501(c)3 social impact.&nbsp;</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/put.all.together-2000x1414.jpg",
@@ -22116,7 +22201,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>The specialty skill sets (GDPR, 501(c)3, Security, Privacy, Big Data, Psychometric Research,  Pattern Analysis, Behavior Prediction, Social &amp; Media Tags, Consumer Advocacy, Re-Marketing, Funding, Monitoring, Measuring Social impact and some deep programming... with specific steps in a self-perpetuating process (1-2-3 cycle).</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1357.jpg",
@@ -22133,7 +22219,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>A 501(c)3 SOLUTION FOR <u>SECURITY, PRIVACY &amp; SOCIALLY RESPONSIBLE RESEARCH, MARKETING &amp; FUNDING THAT BENEFITS PHILANTHROPY</u>, and ‎the anonymous psychometric data market (invaluable psychometric research data &amp; services – <u>sold as a charitable CSR donation of social ‎responsibility</u>)‎</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dataprivacy1a-1600x1200.jpg",
@@ -22150,7 +22237,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>supports the anonymizing, marketing, pattern analytics, behavior prediction, usage monitoring, social impact rating &amp; 501(c)3 trust funds disbursal services of Anonymityinc, as a most productive alternative to security &amp; privacy concerns; we create socially responsible research, remarketing &amp; funding for 501(c)3 philanthropy based on popularity &amp; social impact... where all costs are tax deductibles.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/big-personality-personality-assessment-736x728.jpg",
@@ -22169,7 +22257,7 @@
                 "text": "<b>We use Crystal DISC analysis to establish the psychometric DISC class and archetype, for Linkedin members, and/or using Crystal's text analysis. &nbsp;Alternately, we'll use IBM's, Facebook, Twitter, the University of Cambridge (psychometric) and/or client self-test results to establish each Anonymityinc clients' classification for MTBI, DISC &amp; FFM/OCEAN assessments. &nbsp;Think of the value of knowing everyone's personality type &amp; how everything is connected?</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/predictivepsychometrictesting-infographic-840x600.jpg",
@@ -22188,7 +22276,7 @@
                 "text": "<b>Currently implemented by the Fortune 500 and the USA Government, matching the right people to the right jobs, the application of anonymous, authenticated psychometric research that funds philanthropy for socially responsible compative insight is the next data frontier for both consumers &amp; business.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/psychometrics-800x321a-800x321.jpg",
@@ -22207,7 +22295,7 @@
                 "text": "<b>Unleashing the invaluable potential of anonymous authenticated psychometric pattern analysis &amp; behavior prediction for monitored socially responsible anonymous DEEP scientific &nbsp;(like medical) &amp; marketing&nbsp;/ R&amp;D research, monitored for social impact. &nbsp;From enough anonymous data, we can analyze how it's all connected (people, places, things &amp; time).</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/big-data-landscape-2016-870x654.jpg",
@@ -22226,7 +22314,7 @@
                 "text": "<b>Whereas the focus of our consulting is with prospective Anonymityinc 'Hosts', the value chain of anonymous authenticated psychometric research data <u>STARTS WITH</u>&nbsp;finding data buyers interested in our invaluable research as a custom order (market &amp; data interests) - <u>sold as a philanthropic tax deduction</u>. &nbsp; This then creates greater incentives &amp; creditability for our Hosts (targeted by Sponsor discussions), in addition to GDPR Compliance, Goodwill, Funding, IC retention, dynamic websites &amp; more.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dd.research.philanthropy.graphic1b-960x540.jpg",
@@ -22244,7 +22332,7 @@
                 "contentAlign": "center",
                 "text": "<b>(0) &nbsp;Find best Management Consulting Partner.  (1) Then start this repeating cycle, step 1:  Approach sigifiant data buyers (example: DMPs, Oracle, IBM, Amazon, Microsoft, etc.) with all anonymous, authenticated psychometric research, analytical and GDPR-compliant data &amp; services as a 501(c)3 charitable deductible.  Quickly move to 2nd Data Buyers including Hosts (like Celebrities).</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">DDD PORTAL<br></a> ",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ddd.website-audience-research-510x255.jpg",
@@ -22262,7 +22350,7 @@
                 "contentAlign": "center",
                 "text": "<b>Approach Hosts (target by Step 1 research orders) with 501(c)3 funding for their R&amp;D PLUS, anonymous research for 501(c)3 philanthropy of their followers, w/Host endorsement, based on Anonymityinc's INTEGRITY-BY-DESIGN,  e.g. 501(c)3 social impact &amp; socially responsible use of anonymous data like for science research, along with support for the arts, community projects, etc.  Best of all, to have a data buyer from step 1 interested in the hosts' follower's anonymous data; GDPR-Compliant++</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">DDD PORTAL<br></a> ",
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/social-media-heirarchy-of-needs1b-1024x651.jpg",
@@ -22280,7 +22368,7 @@
                 "contentAlign": "center",
                 "text": "<b>HOSTS invite their followers to become Anonymityinc clients, that will protect their identity, provide invaluable but anonymous psychometric insight (people with similar needs, motivations &amp; values) and create on-going donations to their favorite 501(c)3 Community / R&amp;D / Humanitarian;  only for socially responsible research; all 501(c) monitored for social impact &amp; all anonymous data monitoring for socially responsible usage. Click <a href=\"http://tny.im/fqR\" class=\"text-white\"><b><u>HERE</u></b></a> for graphic.  Cycle step 3 =&gt; step 1.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">DDD PORTAL<br></a> ",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1357.jpg",
@@ -22299,7 +22387,7 @@
                 "text": "<b>Harnessing anonymous psychometric research data for socially responsible use, will <u>transform</u> ‎the extraordinary ‎value of ‎anonymous market research into a ‎extraordinary amount of <u>social ‎impact &amp; business intelligence</u>. &nbsp; Here, ‎anonymous social ‎interaction data becomes a social ‎currency for people &amp; ‎their causes, along with a foundation ‎for actionable business insight.‎&nbsp;</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header7-4d\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1357.jpg",
@@ -22317,7 +22405,8 @@
                 "contentAlign": "center",
                 "text": "<b>In addition to being “the ‎socially responsible thing to do”, the service provides ‎helpful* <u>anonymous psychometric comparison insight</u> ('Public Interest ['like me'] &amp; Scientific Research, respective to the ‎GDPR), from members ‎w/ ‎similar ‎personality, social &amp; geo-demographic tags, on almost any ‎topic‎. &nbsp;licensed &amp; socially responsible DEEP data research ‎adds <u>pattern analysis &amp; behavior prediction</u> ‎‎(insight) to all ‎of our sponsor's &amp; host's <u>remarketing</u> data.‎<br></b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header7-4d\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1357.jpg",
@@ -22335,7 +22424,8 @@
                 "contentAlign": "center",
                 "text": "<b>That's all of it in a nutshell: (a) What we do (End Security &amp; Privacy Concerns; manage socially responsible research &amp; remarketing use of anonymous psychometric data; fund 501(c)3 philanthropy by popularity &amp; social impact), (b) How we do it (Sponors =&gt;Hosts =&gt;Followers) &amp; (c) Why?: For the anonymous psychometric comparison; Partners: See Invitation to Bid for DDD Equity. &nbsp;</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ai1-1069x583.jpg",
@@ -22354,7 +22444,7 @@
                 "text": "<b>although we could as experts in multiple behavioral biometrics (since '85) and pattern analysis, and will by contract. Our more socially productive alternative provides its' benefits as ANONYMOUS AUTHENTICATION, associated with people (types), places, things (from topics to events) and time - as that is how all things are related (DDDs design for 'services' in the future - adding people &amp; places to every data record).</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ai1-1069x583.jpg",
@@ -22373,7 +22463,7 @@
                 "text": "<b>That develops a profile of the socially responsible data usage of Anonymityinc's Anonymous Authenticated Psychometric &amp; Behavior Research Data... is that we'll increase your security awareness in our mutual best interests, regularly testing your services for every new exploit.&nbsp;</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/myfood1-2000x1500.jpg",
@@ -22392,7 +22482,7 @@
                 "text": "<b>As a former Executive Chef (I cook all my food &amp; eat like a king for cheap) the magic of food (just like data) is a combination of the ingredients (tech) and the process to develop the exact taste &amp; experience I desire. &nbsp;My interest - Managing the world's feelings from my restaurant in Breckenridge Colorado, bringing together the world's greatest social scientists. &nbsp; Our common objective - To help the world help itself &amp; advance to the next level from psychometrics.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/culture1-227x222.jpg",
@@ -22411,7 +22501,7 @@
                 "text": "<b>Our understanding of personality 'types' is an age old art (going back at least 2500 years), that transcends culture. &nbsp;Respectively, in older cultures, it is a key social classifier by the people that know you (recognition), a mark of trust, that represents one's core values. &nbsp;</b>As a result, older cultures are more quickly connected on the social media, as the media they want everyone to see.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1561.jpg",
@@ -22429,7 +22519,8 @@
                 "contentAlign": "center",
                 "text": "<b>We are issuing ITBs (Invitation to Bid) to prospective <u>global</u> managment consulting partners with strategic skills to fulfill: a deductible 501(c)3 service for socially responsible research, marketing, funding &amp; philanthropy than resolves security &amp; GDPR privacy concerns... on a national &amp; global scale; together we'll responsibly be trusted to manage the world's anonymous research market.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/an-opportunity-of-a-lifetime1a-675x380.jpg",
@@ -22446,7 +22537,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>What would be the perfect app to accompany Anonymityinc?  What is the one thing everybody would want if they could have it?  How about anonymous feedback from people just like themselves? (a 2nd filtering service for all search).  Look again at your benefits with this program.  We've had the technology for years to do this.</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/conformity1-1-450x344.jpg",
@@ -22464,7 +22556,8 @@
                 "contentAlign": "center",
                 "text": "<b>For any topic, remaining totally anonymous, this app will find feedback from people with a similar personality (type) &amp; lifestyle to you... while generating $ for your favorite 501(c)3.  This is very easy to do, although it will take a minute or so to process the author's psychometrics.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/getting-beyond-group-think-1-1166x900.jpg",
@@ -22482,7 +22575,8 @@
                 "contentAlign": "center",
                 "text": "<b>While we've assessed MBTI, DISC, &amp; FFM/Ocean methods, our POC uses Linkedin's Crystal profiler of the user's tested type mapped to DDD's profile of authors per search response, filtering authors who match people's multiple personalities.   We think most people will find it interesting, useful &amp; beneficial (fulfilling) to compare themselves with others who think like they do; 80%+ accurate; anonymous, it will generate 501(c)3 donations.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
@@ -22500,7 +22594,7 @@
                 "contentAlign": "center",
                 "text": "<b>ANONYMITYINC.NET REPRESENTS AN ADVANCED &amp; COMMERCIALIZED VERSION OF J. HARRIS' \"WE FEEL FINE\", WHEN YOU CONSIDER ADDING THE COMPLEXITIES OF MULTIPLE PERSONALITIES &amp; OUR PERSONALITY RELATIONSHIPS THAT SHAPE OUR THINKING PATTERNS &amp; BEHAVIOR.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"http://www.ted.com/talks/lang/eng/jonathan_harris_tells_the_web_s_secret_stories.html\" data-toolbar=\"-mbrBtnMove\">WE FEEL FINE</a>  ",
-                "overlayOpacity": "0.1"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/plans-849x566.jpg",
@@ -22518,7 +22612,8 @@
                 "contentAlign": "center",
                 "text": "<b>The collateral of the DDD website, 2nd support pages &amp; the menu header on every page, supports each step (a-j), the keys to success and the sponsor=&gt;host=&gt;follower process including: Mission, Press Release, &nbsp;Founder BIOs, Joint Venture Consulting Partner letter, Offering &amp; Messaging per audience/ industry, Psychometric Research papers, Big Data, GDPR &amp; 501(c)3 Consulting and Anonymityinc - DDD management (50-400+).</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/brain-training-791x450.jpg",
@@ -22536,7 +22631,8 @@
                 "contentAlign": "center",
                 "text": "<b>The potential of anonymous insight &amp; prediction for personal, social &amp; scientific research (like social medicine) is to see the relationships (patterns) between granular event details, social interaction, emotonal response &amp; behavior, like an actuary.  The service must be enacted exactly to the recipe provided to sustain its' momentum &amp; self-driven cycle.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cd4fb87d-b151-463e-a87e-688197d40caa-590x288.jpg",
@@ -22554,7 +22650,8 @@
                 "contentAlign": "center",
                 "text": "<b>Easily Internationalized, the service works to support every social, economic &amp; political environment from within, providing balance to each person's life by comparison to their social doppelgangers.. on the other hand, consider what medicine will find regarding disease trigger (event, food, shock &amp; more).  Our business is like being an actuary.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/pai-1-412x412.jpg",
@@ -22572,7 +22669,8 @@
                 "contentAlign": "center",
                 "text": "<b>Because it will give our data donors the anonymous, authenticated (real) psychometric comparative insight (people that think alike) each person seeks, while generating donations for their 501(c)3 R&amp;D or Philanthropy.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cocacola-1256x892.png",
@@ -22591,7 +22689,7 @@
                 "text": "<b>We've spent 10+ years planning everything... from finding partners... to data buyers, DMPs, DSPs &amp; Ad Exchanges... to meeting with charities &amp; celebrities... to sitting on the user &amp; consumer side, watching as we currently stumble onto the patterns of how everything is related.  We now have before us, the potential to alter our future by pattern analysis &amp; behavior prediction.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/global-comms1-1-960x640.jpg",
@@ -22610,7 +22708,7 @@
                 "text": "<b>We have (1) an invaluable, tax deductible research offer for Sponsors, (2) a most popular, philanthropic &amp; GDPR-compliant offering (think like me) for host referrals, providing (3) invaluable tax deductible research &amp; consulting services for every business, with (4) insured Integrity-by-design.  Our current issues: Data Volumes &amp; legacy, NoSQl/Cloud data w/ multi-Schemas of Unstructured Big Data and processing biometrics when untethered.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/global-growth-16.9-1-2000x1126.jpg",
@@ -22629,7 +22727,7 @@
                 "text": "<b>Partner, so you know us;  all things (services &amp; everything else) are related to people, places &amp; time (IBM White Paper / '97), concurrent to our group establishing the foundation of web services &amp; service (object broker) oriented computing - IBM's most valuable intellectual capital then.  For P vs. NP, see next page.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/15-gc-1-499x369.jpg",
@@ -22648,7 +22746,7 @@
                 "text": "<b>This relates to the copy of \"The Traveling Salesman\" movie I am hosting below as an invaluable source of inspiration, as I was literally there, at the dawn of computing this quantum equation, and it has been central to influencing the way I think about everything (from every angle)  ... Our interests? - the 15 Global Challenges displayed herein, many via Anonymityinc.net - funded by the people's psychometric research data.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/15-gc-1-499x369.jpg",
@@ -22667,7 +22765,7 @@
                 "text": "<b>If you have watched Caprica, from the data perspective, you'd understand the collective of 'events' we're creating, that define a picture of each person's experiences. Our interest is to create an AI collective for each person, reflecting their relationships &amp; memories in life, the ability to compare their thoughts with other people that are similar to them (personality/ lifstyle) &amp; how to best communicate with another profile.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"gdpr-safe.html#header2-i1\" data-toolbar=\"-mbrBtnMove\">PROCEED</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/actuary.science.people.society-400x276.jpg",
@@ -22686,7 +22784,7 @@
                 "text": "<b>Given our roadmap, experience, research and easy to explain offering (making data anonymous but invaluable; selling it as a charitable deductible; Think like me App; our recipe to market), we're sure you'd be interested to compare it with our most conservative speculation. &nbsp;So have your best acutary give us a call now.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/7d6e38aa-4d6c-4c2c-c278-afc2c4f0a917-800x450.jpg",
@@ -22705,7 +22803,7 @@
                 "text": "<b>My name is Phillip Nakata, one of three DDD/DDA Co-Founders.  I am a former IBM Chief Technology Officer &amp; CSC Partner, who worked with ‎the first biometric security ‎patent, one of the first wireless patents, configurators, artificial intelligence, search, virtualization, BI &amp; some of IBM’s ‎most ‎valuable intellectual capital; <a href=\"http://bit.ly/prn-cv3\" class=\"text-white\"><u><b>my CV is here</b></u></a>. &nbsp;Come see our BIOs &amp; psychometrics (our personality)</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"dda-bios.html\" data-toolbar=\"-mbrBtnMove\">FOUNDERS</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/disclaimer-500x500.jpg",
@@ -22724,7 +22822,7 @@
                 "text": "<b>While we share almost everything we know openly with our partners, because of the sensitive nature of intelligent analytics, intellectual capital and anoymous psychometric data usage, we do require compliance with our Bi-Lateral NDA, non-circumvent &amp; Data Monitoring Agreement.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"http://tny.im/fuf\" data-toolbar=\"-mbrBtnMove\">NDA-NCV-MONITOR</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/avatars-000037022862-52drjz-t500x500-1-500x500.jpg",
@@ -22743,7 +22841,7 @@
                 "text": "<b>From 10+ years of preparation, it will only take one global management consulting partner (ramping us to 1000+ strong), or half a dozen $billion consulting want-to-be's to fulfill our noble research &amp; philanthropic mission. &nbsp;To get the best leverage, contact us today. &nbsp;We are always on-line &amp; listening... OR dial from your mobile. &nbsp;How much time? - Click =&gt; <a href=\"http://www.anonymityinc.net/#header6-g\" class=\"text-white\"><u><b>HERE</b></u></a>.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"tel:+1-303-8005766\" data-toolbar=\"-mbrBtnMove\">MOBILE DIALER</a> ",
                 "overlayColor": "#000000",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/disclaimer-500x500.jpg",
@@ -22766,7 +22864,7 @@
               }
             ]
           },
-          "_anchor": "slider1-vh"
+          "_anchor": "slider1-vp"
         },
         {
           "_styles": {
@@ -22783,12 +22881,12 @@
           "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2018 Digitally Dominant Automotive - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_cid": "r1kmJn0RN2",
+          "_cid": "r1lFbO6Rkx",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
           "_params": {},
-          "_anchor": "footer6-vi"
+          "_anchor": "footer6-vq"
         },
         {
           "_styles": {
@@ -22868,12 +22966,12 @@
           },
           "_name": "header8",
           "_customHTML": "<section class=\"header8\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"PlayerVimeo\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Video PopUp\" name=\"showVideoPopUp\" checked>\n        <input type=\"text\" title=\"Modal Video\" name=\"modalVideo\" value=\"https://www.youtube.com/watch?v=SC5CX8drAtU\" condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Show Description\" name=\"showDescription\" checked condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" value=\"@PROJECT_PATH@/assets/images/mbr-2-1920x1080.jpg\" title=\"Background Image\" parallax>\n            <input type=\"color\" value=\"#510938\" title=\"Background Color\">\n            <input type=\"video\" value=\"https://www.youtube.com/watch?v=SC5CX8drAtU\" title=\"Background Video\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center py-2 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><br>The Traveling Salesman</h1>\n                <p class=\"mbr-text align-center py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\"><b>\n                        Full-screen intro with movie, 2012; referenced from personal 1st hand participation; 1987, while working at a Philadelphia - University of PA/Drexel/Wharton Thinktank, developing XXXX and YYYY analytics for SEI, Amex &amp; Reuters.  Today, this influences our thinking of BIG Data, Psychometric Pattern Analysis, Behavior Predictability &amp; more... supplied as a personal reminder and source of inspiration to others... see also <a href=\"https://en.wikipedia.org/wiki/Millennium_Prize_Problems\" class=\"text-success\" style=\"text-decoration: underline;\">Millenium Prize problems</a> and our graphic slide above on global issues.\n                </b></p>\n                <div class=\"mbr-media show-modal align-center py-2\" mbr-if=\"showVideoPopUp\" data-modal=\".modalWindow\">\n                         <a href=\"https://solarmoviex.to/watch/travelling-salesman.80q8o/yv0lxx?loop=0&autoplay=0\"><span mbr-icon class=\"mbr-iconfont mbri-play\"></span></a>\n                </div>\n                <div mbr-text class=\"icon-description align-center font-italic pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showDescription && showVideoPopUp\" data-app-selector=\".icon-description\"><b>\n                        Click to Play; &nbsp;Enjoy; &nbsp;Hope the sex game ads don't make you blush.</b><br><b><span style=\"font-style: normal;\">Kill 2-3 popup Windows ads (Ctrl-F4) &amp; let pre-play hosting sponsor finish their game/sex ads @ ~1 minute.</span></b></div>\n                <div class=\"mbr-section-btn text-center\" mbr-buttons mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://en.wikipedia.org/wiki/Travelling_salesman_problem\" data-app-placeholder=\"Type Text\">WIKI</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showVideoPopUp\">\n        <div class=\"modalWindow\" style=\"display: none;\">\n            <div class=\"modalWindow-container\">\n                <div class=\"modalWindow-video-container\">\n                    <div class=\"modalWindow-video\">\n                        <iframe width=\"100%\" height=\"100%\" data-src=\"{{modalVideo}}\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"mbri-close mbr-iconfont closeModal\"></span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r1kmJozbko",
+          "_cid": "r1lFbPPmw1",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "header8-vj"
+          "_anchor": "header8-vr"
         },
         {
           "_styles": {
@@ -23275,12 +23373,12 @@
           "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#333333\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://www.digitallydominantautomotive.com/gdpr-safe.html\">\n                         <img src=\"@PROJECT_PATH@/assets/images/gdpr-safe.log4a-136x115.jpg\" alt=\"Digitally Dominant Automotive Solutions\" mbr-style=\"{'height': logoSize + 'rem'}\" title=\"Digitally Dominant Automotive Solutions\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-1v\" data-app-placeholder=\"Type Text\">Digitally Dominant<br>Automotive &amp; Data</a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item dropdown\">\n                    <a class=\"nav-link link dropdown-toggle text-white\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Data Services: GDPR, Security, Anonmity, <br>Big&nbsp;Data, Monitoring,&nbsp;Psychometrics, Research, <br>Cloud, Marketing, 501(c)3 Funds, Philanthropy;<br>Tax Deductible Psychometric Data &amp; Services.</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-white\" href=\"presskit.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Press Kit (35+ items)</a><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2. &nbsp;DDA Automotive Websites</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"slider1.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Digitally Dominant Automotive HOME</a><a class=\"dropdown-item text-white\" href=\"dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;DDA &amp; DDD Founder BIOs</a><a class=\"dropdown-item text-white\" href=\"presskit.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. Press Kit including PR.COM &amp; Business Profile</a><a class=\"dropdown-item text-white\" href=\"partnerlanding.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. Joint Venture Consulting Partner Landing Page</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#header7-4d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;DDD Strategic Consulting &amp;&nbsp;Psychometric Research<br></a><a class=\"dropdown-item text-white\" href=\"gdpr-safe2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">6. &nbsp;GDPR-SAFE™‎ Consulting &amp; Related Services</a><a class=\"dropdown-item text-white\" href=\"http://www.anonymityinc.net\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">7. Anonymityinc.net™ Reseach Philanthropy Club</a><a class=\"dropdown-item text-white\" href=\"slider3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\"><strong>8. DDA Dealer Solutions:&nbsp;OBD-II, Equity Mining, Psychometrics</strong></a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">3. &nbsp;Digitally Dominant Data (DDD)<br>&nbsp; &nbsp; Presentation &amp; Partner Invite</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. Web Portal, Guide &amp; Partner Introduction</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#header6-3b\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. Psychometric Research &amp; Data Services</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#header6-3c\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. Socially Responsible Research</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#header6-3d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. The Framework of Integrity/Monitoring</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#header6-3e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. What's on our Horizon?</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/ddd-page1.html#header6-3g\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">6. Accepting Deposits, LOIs from Data Buyers<br>&amp; Equity Bids from Consultng Partners<br></a></div></div><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle text-white\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">4. &nbsp;DDD Start-Up Services &amp; Plans</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Founder's BIOs</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/e-B\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;PR.COM Press - 071818<br></a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f05\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Founder Mission &amp; Welcome</a><a class=\"dropdown-item text-white\" href=\"http://goo.gl/1FhMGe\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. &nbsp;Consultng Partner Joint Venture</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f0G\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;Tax Deductible, 501(c)3, Psychometric Research Data</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">5. &nbsp;DDD Research Marketing</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image-20\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;Offerings, Candidate Mgmt. Consulting<br>&nbsp; &nbsp; &nbsp;Partners/Practices, 3 yr. Strategy &amp; Exit</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-21\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Messaging by Market - e.g. Sponsors (data buyers),<br>&nbsp; &nbsp; &nbsp;Hosts (trusted, need 1 or more of DDD services)</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-i\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Data Buyer (Sponsor) and Partner Presentation:&nbsp;<br>&nbsp; &nbsp; &nbsp;Anonymous Invaluable Psychometric Research as<br>a 501(c)3 charitable, tax deductible expense.</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><p>6. &nbsp;DDD Videos Worth Sharing</p></a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1e\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;GDPR Roles &amp; Responsibilities</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1f\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;Everything About Becoming a 501(c)3</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1g\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Psychometrics: Needs, Motivations, Values</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#gallery1-1h\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4. &nbsp;Research &amp; Philanthropy; Convergence w/tech</a><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#header6-1l\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">5. &nbsp;DDD Selected TED Videos: Ideas worth Sharing</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"gdpr-safe.html#header6-2v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">7. &nbsp;SERVICES: Consulting, &nbsp;<br>&nbsp; &nbsp; &nbsp;Research,&nbsp;Tech &amp; Marketing</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">1. &nbsp;GDPR-SAFE™‎</a><a class=\"dropdown-item text-white\" href=\"https://drive.google.com/file/d/18EPoxmeV1zKi5pQOIfNCUT4Uauk0-yNF/view?usp=sharing\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2. &nbsp;‎501c3-SME™‎</a><a class=\"dropdown-item text-white\" href=\"http://tny.im/f1a\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">3. &nbsp;Psychometric Research++</a><a class=\"dropdown-item text-white\" href=\"http://www.anonymityinc.net\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">4 &nbsp;Psychometric Data for Philanthropy</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item text-white dropdown-toggle\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#soundcloud1-45\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><p>8. &nbsp;Classy Web Music</p></a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#soundcloud1-45\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Selected SoundCloud</a></div></div></div>\n                </li><li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/dda-bios.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        <span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>\n                        About Us\n                    </a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/gdpr-safe.html#image1-1v\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Mission</a></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"http://www.digitallydominantautomotive.com/contact2.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\"><span class=\"mbri-upload mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Contact Us</a></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"http://www.digitallydominantautomotive.com/contact1.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span>\n                    \n                    Partners - Get<br>invited! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></div>\n        </div>\n    </nav>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_cid": "r1kmJqZQiV",
+          "_cid": "r1lFbSICLB",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
           "_params": {},
-          "_anchor": "menu1-vk"
+          "_anchor": "menu1-vs"
         }
       ]
     }
