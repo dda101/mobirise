@@ -54,9 +54,6 @@
 		<loc>http://www.digitallydominantautomotive.com/slider2_voice.html</loc>
 	</url>
 	<url>
-		<loc>http://www.digitallydominantautomotive.com/autos2.html</loc>
-	</url>
-	<url>
 		<loc>http://www.digitallydominantautomotive.com/autos1.html</loc>
 	</url>
 	<url>
@@ -70,5 +67,8 @@
 	</url>
 	<url>
 		<loc>http://www.digitallydominantautomotive.com/slider3_voice.html</loc>
+	</url>
+	<url>
+		<loc>http://www.digitallydominantautomotive.com/autos2.html</loc>
 	</url>
 </urlset>
